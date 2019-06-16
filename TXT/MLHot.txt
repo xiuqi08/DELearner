@@ -1,0 +1,2887 @@
+﻿FN Clarivate Analytics Web of Science
+VR 1.0
+PT J
+AU Ott, PA
+   Hu, ZT
+   Keskin, DB
+   Shukla, SA
+   Sun, J
+   Bozym, DJ
+   Zhang, WD
+   Luoma, A
+   Giobbie-Hurder, A
+   Peter, L
+   Chen, C
+   Olive, O
+   Carter, TA
+   Li, SQ
+   Lieb, DJ
+   Eisenhaure, T
+   Gjini, E
+   Stevens, J
+   Lane, WJ
+   Javeri, I
+   Nellaiappan, K
+   Salazar, AM
+   Daley, H
+   Seaman, M
+   Buchbinder, EI
+   Yoon, CH
+   Harden, M
+   Lennon, N
+   Gabriel, S
+   Rodig, SJ
+   Barouch, DH
+   Aster, JC
+   Getz, G
+   Wucherpfennig, K
+   Neuberg, D
+   Ritz, J
+   Lander, ES
+   Fritsch, EF
+   Hacohen, N
+   Wu, CJ
+AF Ott, Patrick A.
+   Hu, Zhuting
+   Keskin, Derin B.
+   Shukla, Sachet A.
+   Sun, Jing
+   Bozym, David J.
+   Zhang, Wandi
+   Luoma, Adrienne
+   Giobbie-Hurder, Anita
+   Peter, Lauren
+   Chen, Christina
+   Olive, Oriol
+   Carter, Todd A.
+   Li, Shuqiang
+   Lieb, David J.
+   Eisenhaure, Thomas
+   Gjini, Evisa
+   Stevens, Jonathan
+   Lane, William J.
+   Javeri, Indu
+   Nellaiappan, Kaliappanadar
+   Salazar, Andres M.
+   Daley, Heather
+   Seaman, Michael
+   Buchbinder, Elizabeth I.
+   Yoon, Charles H.
+   Harden, Maegan
+   Lennon, Niall
+   Gabriel, Stacey
+   Rodig, Scott J.
+   Barouch, Dan H.
+   Aster, Jon C.
+   Getz, Gad
+   Wucherpfennig, Kai
+   Neuberg, Donna
+   Ritz, Jerome
+   Lander, Eric S.
+   Fritsch, Edward F.
+   Hacohen, Nir
+   Wu, Catherine J.
+TI An immunogenic personal neoantigen vaccine for patients with melanoma
+SO NATURE
+LA English
+DT Article
+ID CD4(+) T-CELLS; SEQUENCING DATA; CANCER-IMMUNOTHERAPY; IMMUNE-RESPONSES;
+   EXPRESSION; PREDICTION; MOLECULES; EPITOPES; ANTIGENS; PEPTIDE
+AB Effective anti-tumour immunity in humans has been associated with the presence of T cells directed at cancer neoantigens(1), a class of HLA-bound peptides that arise from tumour-specific mutations. They are highly immunogenic because they are not present in normal tissues and hence bypass central thymic tolerance. Although neoantigens were long-envisioned as optimal targets for an anti-tumour immune response(2), their systematic discovery and evaluation only became feasible with the recent availability of massively parallel sequencing for detection of all coding mutations within tumours, and of machine learning approaches to reliably predict those mutated peptides with high-affinity binding of autologous human leukocyte antigen (HLA) molecules. We hypothesized that vaccination with neoantigens can both expand pre-existing neoantigen-specific T-cell populations and induce a broader repertoire of new T-cell specificities in cancer patients, tipping the intra-tumoural balance in favour of enhanced tumour control. Here we demonstrate the feasibility, safety, and immunogenicity of a vaccine that targets up to 20 predicted personal tumour neoantigens. Vaccine-induced polyfunctional CD4(+) and CD8(+) T cells targeted 58 (60%) and 15 (16%) of the 97 unique neoantigens used across patients, respectively. These T cells discriminated mutated from wild-type antigens, and in some cases directly recognized autologous tumour. Of six vaccinated patients, four had no recurrence at 25 months after vaccination, while two with recurrent disease were subsequently treated with anti-PD-1 (anti-programmed cell death-1) therapy and experienced complete tumour regression, with expansion of the repertoire of neoantigen-specific T cells. These data provide a strong rationale for further development of this approach, alone and in combination with checkpoint blockade or other immunotherapies.
+C1 [Ott, Patrick A.; Hu, Zhuting; Keskin, Derin B.; Shukla, Sachet A.; Sun, Jing; Bozym, David J.; Zhang, Wandi; Chen, Christina; Olive, Oriol; Daley, Heather; Buchbinder, Elizabeth I.; Ritz, Jerome; Fritsch, Edward F.; Wu, Catherine J.] Dana Farber Canc Inst, Dept Med Oncol, Boston, MA 02215 USA.
+   [Ott, Patrick A.; Buchbinder, Elizabeth I.; Ritz, Jerome; Wu, Catherine J.] Brigham & Womens Hosp, Dept Med, Boston, MA 02215 USA.
+   [Ott, Patrick A.; Keskin, Derin B.; Buchbinder, Elizabeth I.; Yoon, Charles H.; Barouch, Dan H.; Aster, Jon C.; Getz, Gad; Wucherpfennig, Kai; Ritz, Jerome; Lander, Eric S.; Hacohen, Nir; Wu, Catherine J.] Harvard Med Sch, Boston, MA 02215 USA.
+   [Keskin, Derin B.; Shukla, Sachet A.; Carter, Todd A.; Li, Shuqiang; Lieb, David J.; Eisenhaure, Thomas; Harden, Maegan; Lennon, Niall; Gabriel, Stacey; Getz, Gad; Lander, Eric S.; Fritsch, Edward F.; Hacohen, Nir; Wu, Catherine J.] Broad Inst MIT & Harvard, Cambridge, MA 02142 USA.
+   [Luoma, Adrienne; Wucherpfennig, Kai] Dana Farber Canc Inst, Dept Canc Immunol & Virol, Boston, MA 02215 USA.
+   [Giobbie-Hurder, Anita; Neuberg, Donna] Dana Farber Canc Inst, Dept Biostat & Computat Biol, Boston, MA 02215 USA.
+   [Peter, Lauren; Seaman, Michael; Barouch, Dan H.] Beth Israel Deaconess Med Ctr, Ctr Virol & Vaccine Res, Boston, MA 02215 USA.
+   [Peter, Lauren; Barouch, Dan H.] Ragon Inst MGH MIT & Harvard, Cambridge, MA 02139 USA.
+   [Gjini, Evisa; Rodig, Scott J.] Dana Farber Canc Inst, CIO, Boston, MA 02215 USA.
+   [Stevens, Jonathan; Lane, William J.; Rodig, Scott J.; Aster, Jon C.] Brigham & Womens Hosp, Dept Pathol, Boston, MA 02215 USA.
+   [Javeri, Indu; Nellaiappan, Kaliappanadar] CuriRx Inc, Wilmington, MA 01887 USA.
+   [Salazar, Andres M.] Oncovir Inc, 3203 Cleveland Ave NW, Washington, DC 20008 USA.
+   [Yoon, Charles H.] Brigham & Womens Hosp, Dept Surg, Boston, MA 02215 USA.
+   [Getz, Gad] Massachusetts Gen Hosp, Dept Pathol, Boston, MA 02214 USA.
+   [Hacohen, Nir] Massachusetts Gen Hosp, Ctr Canc Res, Boston, MA 02214 USA.
+   [Fritsch, Edward F.] Neon Therapeut Inc, Cambridge, MA 02139 USA.
+RP Wu, CJ (reprint author), Dana Farber Canc Inst, Dept Med Oncol, Boston, MA 02215 USA.; Wu, CJ (reprint author), Brigham & Womens Hosp, Dept Med, Boston, MA 02215 USA.; Wu, CJ (reprint author), Harvard Med Sch, Boston, MA 02215 USA.; Wu, CJ (reprint author), Broad Inst MIT & Harvard, Cambridge, MA 02142 USA.
+EM cwu@partners.org
+FU Broad Institute SPARC program; National Institutes of Health
+   [NCI-1RO1CA155010-02, NHLBI-5R01HL103532-03,
+   NCI-SPORE-2P50CA101942-11A1, NCI-R50 RCA211482A]; Francis and Adele
+   Kittredge Family Immuno-Oncology and Melanoma Research Fund; Faircloth
+   Family Research Fund; DFCI Center for Cancer Immunotherapy Research
+   fellowship
+FX We thank J. Russell and the Dana-Farber Cancer Institute (DFCI) Center
+   for Immuno-Oncology (CIO) staff; M. Copersino (Regulatory Affairs), B.
+   Meyers, C. Harvey, and S. Bartel (Clinical Pharmacy); A. Lako (CIO), M.
+   Bowden (Center for Molecular Oncologic Pathology); O. Sturtevant, H.
+   Negre, S. Y. Kim, M. A. Kelley (Cell Manipulation Core Facility) and the
+   Pasquarello Tissue Bank (all at DFCI); T. Bowman (DFHCC Specialized
+   Histopathology Core Laboratory); the Broad Institute's Biological
+   Samples, Genetic Analysis, and Genome Sequencing Platforms; S. Hodi, G.
+   Dranoff, M. Rajasagi, U. Burkhardt, S. Sarkizova, J. Fan, and P.
+   Bachireddy for discussions; J. Petricciani and M. Krane for regulatory
+   advice; B. McDonough (CSBio) and S. Thorne (CuriRx) for peptide
+   development. This research was made possible by a gift from the
+   Blavatnik Family Foundation, and was supported by grants from the Broad
+   Institute SPARC program and the National Institutes of Health
+   (NCI-1RO1CA155010-02 (to C.J.W.), NHLBI-5R01HL103532-03 (to C.J.W.),
+   NCI-SPORE-2P50CA101942-11A1 (to D.B.K.); NCI-R50 RCA211482A (to S. S.)),
+   from the Francis and Adele Kittredge Family Immuno-Oncology and Melanoma
+   Research Fund (to P. A. O.), the Faircloth Family Research Fund (to P.
+   A. O.), and the DFCI Center for Cancer Immunotherapy Research fellowship
+   (to Z.H.). C.J.W. is a scholar of the Leukemia and Lymphoma Society.
+CR Abelin JG, 2017, IMMUNITY, V46, P315, DOI 10.1016/j.immuni.2017.02.007
+   Berger MF, 2011, NATURE, V470, P214, DOI 10.1038/nature09744
+   Cai A, 2012, CLIN CANCER RES, V18, P5761, DOI 10.1158/1078-0432.CCR-12-1182
+   Call MJ, 2009, J IMMUNOL, V182, P6342, DOI 10.4049/jimmunol.0803464
+   Carreno BM, 2015, SCIENCE, V348, P803, DOI 10.1126/science.aaa3828
+   Caskey M, 2011, J EXP MED, V208, P2357, DOI 10.1084/jem.20111171
+   Chapman MA, 2011, NATURE, V471, P467, DOI 10.1038/nature09837
+   Cibulskis K, 2011, BIOINFORMATICS, V27, P2601, DOI 10.1093/bioinformatics/btr446
+   Day CL, 2003, J CLIN INVEST, V112, P831, DOI 10.1172/JCI200318509
+   DePristo MA, 2011, NAT GENET, V43, P491, DOI 10.1038/ng.806
+   FALK K, 1991, NATURE, V351, P290, DOI 10.1038/351290a0
+   Fisher S, 2011, GENOME BIOL, V12, DOI 10.1186/gb-2011-12-1-r1
+   Gnirke A, 2009, NAT BIOTECHNOL, V27, P182, DOI 10.1038/nbt.1523
+   Haabeth OA, 2016, LEUKEMIA, V30, P1216, DOI 10.1038/leu.2015.278
+   Hacohen N, 2013, CANCER IMMUNOL RES, V1, P11, DOI 10.1158/2326-6066.CIR-13-0022
+   Hashimshony T, 2016, GENOME BIOL, V17, DOI 10.1186/s13059-016-0938-8
+   Hirschhorn-Cymerman D, 2012, J EXP MED, V209, P2113, DOI 10.1084/jem.20120532
+   Hoof I, 2009, IMMUNOGENETICS, V61, P1, DOI 10.1007/s00251-008-0341-z
+   Kenter GG, 2009, NEW ENGL J MED, V361, P1838, DOI 10.1056/NEJMoa0810097
+   Kharchenko PV, 2014, NAT METHODS, V11, P740, DOI [10.1038/NMETH.2967, 10.1038/nmeth.2967]
+   Kreiter S, 2015, NATURE, V520, P692, DOI 10.1038/nature14426
+   Linnemann C, 2015, NAT MED, V21, P81, DOI 10.1038/nm.3773
+   Lu YC, 2014, CLIN CANCER RES, V20, P3401, DOI 10.1158/1078-0432.CCR-14-0433
+   Lundegaard C, 2008, NUCLEIC ACIDS RES, V36, pW509, DOI 10.1093/nar/gkn202
+   Lundegaard C, 2011, J IMMUNOL METHODS, V374, P26, DOI 10.1016/j.jim.2010.10.011
+   Martin SD, 2016, PLOS ONE, V11, DOI 10.1371/journal.pone.0155189
+   Mildner A, 2014, IMMUNITY, V40, P642, DOI 10.1016/j.immuni.2014.04.016
+   Prickett TD, 2016, CANCER IMMUNOL RES, V4, P669, DOI 10.1158/2326-6066.CIR-15-0215
+   Ramos AH, 2015, HUM MUTAT, V36, pE2423, DOI 10.1002/humu.22771
+   Rizvi NA, 2015, SCIENCE, V348, P124, DOI 10.1126/science.aaa1348
+   Robert C, 2015, NEW ENGL J MED, V372, P2521, DOI 10.1056/NEJMoa1503093
+   Robinson JT, 2011, NAT BIOTECHNOL, V29, P24, DOI 10.1038/nbt.1754
+   Roemer MGM, 2016, CANCER IMMUNOL RES, V4, P910, DOI 10.1158/2326-6066.CIR-16-0201
+   Rossjohn J, 2015, ANNU REV IMMUNOL, V33, P169, DOI 10.1146/annurev-immunol-032414-112334
+   Satija R, 2015, NAT BIOTECHNOL, V33, P495, DOI 10.1038/nbt.3192
+   Saunders CT, 2012, BIOINFORMATICS, V28, P1811, DOI 10.1093/bioinformatics/bts271
+   Schumacher T, 2014, NATURE, V512, P324, DOI 10.1038/nature13387
+   Schumacher TN, 2015, SCIENCE, V348, P69, DOI 10.1126/science.aaa4971
+   Spitzer MH, 2017, CELL, V168, P487, DOI 10.1016/j.cell.2016.12.022
+   Stephen TL, 2017, IMMUNITY, V46, P51, DOI 10.1016/j.immuni.2016.12.015
+   STERN LJ, 1994, NATURE, V368, P215, DOI 10.1038/368215a0
+   Sykulev Y, 1996, IMMUNITY, V4, P565, DOI 10.1016/S1074-7613(00)80483-5
+   Torres-Garcia W, 2014, BIOINFORMATICS, V30, P2224, DOI 10.1093/bioinformatics/btu169
+   Tran E, 2014, SCIENCE, V344, P641, DOI 10.1126/science.1251102
+   van Rooij N, 2013, J CLIN ONCOL, V31, pE439, DOI 10.1200/JCO.2012.47.7521
+NR 45
+TC 357
+Z9 371
+U1 114
+U2 346
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+EI 1476-4687
+J9 NATURE
+JI Nature
+PD JUL 13
+PY 2017
+VL 547
+IS 7662
+BP 217
+EP +
+DI 10.1038/nature22991
+PG 21
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA FA3AX
+UT WOS:000405314500039
+PM 28678778
+OA Green Accepted
+HC Y
+HP Y
+DA 2019-06-15
+ER
+
+PT J
+AU Greff, K
+   Srivastava, RK
+   Koutnik, J
+   Steunebrink, BR
+   Schmidhuber, J
+AF Greff, Klaus
+   Srivastava, Rupesh K.
+   Koutnik, Jan
+   Steunebrink, Bas R.
+   Schmidhuber, Juergen
+TI LSTM: A Search Space Odyssey
+SO IEEE TRANSACTIONS ON NEURAL NETWORKS AND LEARNING SYSTEMS
+LA English
+DT Article
+DE Functional ANalysis Of VAriance (fANOVA); long short-term memory (LSTM);
+   random search; recurrent neural networks; sequence learning
+AB Several variants of the long short-term memory (LSTM) architecture for recurrent neural networks have been proposed since its inception in 1995. In recent years, these networks have become the state-of-the-art models for a variety of machine learning problems. This has led to a renewed interest in understanding the role and utility of various computational components of typical LSTM variants. In this paper, we present the first large-scale analysis of eight LSTM variants on three representative tasks: speech recognition, handwriting recognition, and polyphonic music modeling. The hyperparameters of all LSTM variants for each task were optimized separately using random search, and their importance was assessed using the powerful functional ANalysis Of VAriance framework. In total, we summarize the results of 5400 experimental runs (approximate to 15 years of CPU time), which makes our study the largest of its kind on LSTM networks. Our results show that none of the variants can improve upon the standard LSTM architecture significantly, and demonstrate the forget gate and the output activation function to be its most critical components. We further observe that the studied hyperparameters are virtually independent and derive guidelines for their efficient adjustment.
+C1 [Greff, Klaus; Srivastava, Rupesh K.; Koutnik, Jan; Steunebrink, Bas R.; Schmidhuber, Juergen] Scuola Univ Profess Svizzera Italiana, Ist Dalle Molle Studi Intelligenza Artificiale, CH-6928 Manno, Switzerland.
+   [Greff, Klaus; Srivastava, Rupesh K.; Koutnik, Jan; Steunebrink, Bas R.; Schmidhuber, Juergen] Univ Svizzera Italiana, CH-6904 Lugano, Switzerland.
+RP Greff, K (reprint author), Scuola Univ Profess Svizzera Italiana, Ist Dalle Molle Studi Intelligenza Artificiale, CH-6928 Manno, Switzerland.
+EM klaus@idsia.ch; rupesh@idsia.ch; hkou@idsia.ch; bas@idsia.ch;
+   juergen@idsia.ch
+OI Greff, Klaus/0000-0001-6982-0937
+FU Swiss National Science Foundation through the Project Theory and
+   Practice of Reinforcement Learning 2 [138219]; Swiss National Science
+   Foundation through the Project Advanced Reinforcement Learning [156682];
+   European Institute of Innovation and Technology through the Project
+   Neural Dynamics [FP7-ICT-270247]; European Institute of Innovation and
+   Technology through the Project NASCENCE [FP7-ICT-317662]; European
+   Institute of Innovation and Technology through the Project WAY
+   [FP7-ICT-288551]
+FX This work was supported in part by the Swiss National Science Foundation
+   through the Project Theory and Practice of Reinforcement Learning 2
+   under Grant 138219, and through the Project Advanced Reinforcement
+   Learning under Grant 156682, and in part by the European Institute of
+   Innovation and Technology through the Project Neural Dynamics under
+   Grant FP7-ICT-270247, through the Project NASCENCE under Grant
+   FP7-ICT-317662 and through the Project WAY under Grant FP7-ICT-288551.
+CR Allan M., 2005, ADV NEURAL INFORM PR, V17, P25
+   ANDERSON RL, 1953, J AM STAT ASSOC, V48, P789
+   Bayer J, 2009, LECT NOTES COMPUT SC, V5769, P755, DOI 10.1007/978-3-642-04277-5_76
+   Bergstra J, 2012, J MACH LEARN RES, V13, P281
+   Cho K, 2014, LEARNING PHRASE REPR
+   Chung J, 2014, EMPIRICAL EVALUATION
+   Crystal David, 2011, DICT LINGUISTICS PHO, V30
+   Doetseh P, 2014, INT CONF FRONT HAND, P279, DOI 10.1109/ICFHR.2014.54
+   Donahue J, 2014, LONG TERM RECURRENT
+   Fan Y, 2014, P INTERSPEECH, P1964
+   Garofolo J. S., 1993, NASA STI RECON TECHN, V6, P190
+   Gers F. A., 2002, P 10 EUR S ART NEUR, P369
+   Gers FA, 2000, IEEE IJCNN, P189, DOI 10.1109/IJCNN.2000.861302
+   Gers FA, 1999, IEE CONF PUBL, P850, DOI 10.1049/cp:19991218
+   Graves A, 2005, NEURAL NETWORKS, V18, P602, DOI 10.1016/j.neunet.2005.06.042
+   Graves A., 2008, THESIS
+   Graves A., 2013, GENERATING SEQUENCES
+   Graves A., 2008, ADV NEURAL INFORM PR, P577
+   Graves A., 2006, P 23 INT C MACH LEAR, P369, DOI DOI 10.1145/1143844.1143891
+   Graves A, 2009, IEEE T PATTERN ANAL, V31, P855, DOI 10.1109/TPAMI.2008.137
+   Halberstadt A. K., 1998, THESIS
+   Hochreiter S, 1997, NEURAL COMPUT, V9, P1735, DOI 10.1162/neco.1997.9.8.1735
+   Hochreiter S., 1995, FKI20795 TU MUN DEP
+   Hochreiter S., 2001, FIELD GUIDE DYNAMICA
+   Hochreiter S., 1991, THESIS
+   Hooker G, 2007, J COMPUT GRAPH STAT, V16, P709, DOI 10.1198/106186007X237892
+   Hutter Frank, 2011, Learning and Intelligent Optimization. 5th International Conference, LION 5. Selected Papers, P507, DOI 10.1007/978-3-642-25566-3_40
+   Hutter F., 2014, P 31 INT C MACH LEAR, P754
+   Jozefowicz R., 2015, P 32 INT C MACH LEAR, V37, P2342, DOI DOI 10.1109/CVPR.2015.72987
+   Lewandowski N. B., 2012, P 29 INT C MACH LEAR, P1159
+   Liwicki M, 2005, EIGHTH INTERNATIONAL CONFERENCE ON DOCUMENT ANALYSIS AND RECOGNITION, VOLS 1 AND 2, PROCEEDINGS, P956, DOI 10.1109/ICDAR.2005.132
+   Luong M.-T., 2014, ADDRESSING RARE WORD
+   Marchi Erik, 2014, 2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), P2164, DOI 10.1109/ICASSP.2014.6853982
+   Mermelstein  P., 1976, PATTERN RECOGN, P374
+   Otte Sebastian, 2014, Artificial Neural Networks and Machine Learning - ICANN 2014. 24th International Conference on Artificial Neural Networks. Proceedings: LNCS 8681, P1, DOI 10.1007/978-3-319-11179-7_1
+   Pham V., 2013, DROPOUT IMPROVES REC
+   Robinson  A., 1987, UTILITY DRIVEN DYNAM
+   Sak H, 2014, INTERSPEECH, P338
+   Schmichuber J, 2007, NEURAL COMPUT, V19, P757, DOI 10.1162/neco.2007.19.3.757
+   Snoek J., 2012, ADV NEURAL INFORM PR, V2012, P2951
+   SOLIS FJ, 1981, MATH OPER RES, V6, P19, DOI 10.1287/moor.6.1.19
+   Sonderby S, 2014, PROTEIN SECONDARY ST
+   Sutskever I., 2013, P 30 INT C MACH LEAR, V28, P1139
+   WERBOS PJ, 1988, NEURAL NETWORKS, V1, P339, DOI 10.1016/0893-6080(88)90007-X
+   Williams Ronald J., 1989, NUCCS8927
+   Zaremba W., 2014, RECURRENT NEURAL NET
+NR 46
+TC 223
+Z9 243
+U1 15
+U2 15
+PU IEEE-INST ELECTRICAL ELECTRONICS ENGINEERS INC
+PI PISCATAWAY
+PA 445 HOES LANE, PISCATAWAY, NJ 08855-4141 USA
+SN 2162-237X
+EI 2162-2388
+J9 IEEE T NEUR NET LEAR
+JI IEEE Trans. Neural Netw. Learn. Syst.
+PD OCT
+PY 2017
+VL 28
+IS 10
+BP 2222
+EP 2232
+DI 10.1109/TNNLS.2016.2582924
+PG 11
+WC Computer Science, Artificial Intelligence; Computer Science, Hardware &
+   Architecture; Computer Science, Theory & Methods; Engineering,
+   Electrical & Electronic
+SC Computer Science; Engineering
+GA FH6NH
+UT WOS:000411293200001
+PM 27411231
+HC Y
+HP Y
+DA 2019-06-15
+ER
+
+PT J
+AU Carrasquilla, J
+   Melko, RG
+AF Carrasquilla, Juan
+   Melko, Roger G.
+TI Machine learning phases of matter
+SO NATURE PHYSICS
+LA English
+DT Article
+ID CRYSTAL STATISTICS
+AB Condensed-matter physics is the study of the collective behaviour of infinitely complex assemblies of electrons, nuclei, magnetic moments, atoms or qubits(1). This complexity is reflected in the size of the state space, which grows exponentially with the number of particles, reminiscent of the 'curse of dimensionality' commonly encountered in machine learning(2). Despite this curse, the machine learning community has developed techniques with remarkable abilities to recognize, classify, and characterize complex sets of data. Here, we showthat modern machine learning architectures, such as fully connected and convolutional neural networks(3), can identify phases and phase transitions in a variety of condensed-matter Hamiltonians. Readily programmable through modern software libraries(4,5), neural networks can be trained to detect multiple types of order parameter, as well as highly non-trivial states with no conventional order, directly from raw state configurations sampled with Monte Carlo(6,7).
+C1 [Carrasquilla, Juan; Melko, Roger G.] Perimeter Inst Theoret Phys, Waterloo, ON N2L 2Y5, Canada.
+   [Melko, Roger G.] Univ Waterloo, Dept Phys & Astron, Waterloo, ON N2L 3G1, Canada.
+RP Carrasquilla, J (reprint author), Perimeter Inst Theoret Phys, Waterloo, ON N2L 2Y5, Canada.
+EM jcarrasquilla@perimeterinstitute.ca
+RI Carrasquilla, Juan/H-3653-2014
+OI Carrasquilla, Juan/0000-0001-7263-3462
+FU NSERC of Canada; Perimeter Institute for Theoretical Physics; John
+   Templeton Foundation; Shared Hierarchical Academic Research Computing
+   Network (SHARCNET); Canada Research Chair; Industry Canada; Province of
+   Ontario through the Ministry of Research Innovation
+FX We would like to thank G. Baskaran, C. Castelnovo, A. Chandran, L. E.
+   Hayward Sierens, B. Kulchytskyy, D. Schwab, M. Stoudenmire, G. Torlai,
+   G. Vidal and Y. Wan for discussions and encouragement. We thank A. Del
+   Maestro for a careful reading of the manuscript. This research was
+   supported by NSERC of Canada, the Perimeter Institute for Theoretical
+   Physics, the John Templeton Foundation, and the Shared Hierarchical
+   Academic Research Computing Network (SHARCNET). R.G.M. acknowledges
+   support from a Canada Research Chair. Research at Perimeter Institute is
+   supported through Industry Canada and by the Province of Ontario through
+   the Ministry of Research & Innovation.
+CR Abadi M., 2015, TENSORFLOW LARGE SCA
+   Amin M. H., 2016, PREPRINT
+   Arsenault LF, 2014, PHYS REV B, V90, DOI 10.1103/PhysRevB.90.155136
+   Aubry S., 1980, Annals of the Israel Physical Society, V3, P133
+   Avella A., 2013, SPRINGER SERIES SOLI
+   BELLMAN R, 1957, DYNAMIC PROGRAMMING
+   Bergstra J., 2010, P PYTH SCI COMP C SC
+   Castelnovo C, 2007, PHYS REV B, V76, DOI 10.1103/PhysRevB.76.184442
+   Castelnovo C, 2007, PHYS REV B, V76, DOI 10.1103/PhysRevB.76.174416
+   Ghiringhelli LM, 2015, PHYS REV LETT, V114, DOI 10.1103/PhysRevLett.114.105503
+   Goodfellow I, 2016, DEEP LEARNING
+   Kalinin SV, 2015, NAT MATER, V14, P973, DOI [10.1038/NMAT4395, 10.1038/nmat4395]
+   Kitaev A, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.110404
+   Kitaev AY, 2003, ANN PHYS-NEW YORK, V303, P2, DOI 10.1016/S0003-4916(02)00018-0
+   KOGUT JB, 1979, REV MOD PHYS, V51, P659, DOI 10.1103/RevModPhys.51.659
+   Kusne AG, 2014, SCI REP-UK, V4, DOI 10.1038/srep06367
+   Landon-Cardinal O, 2012, NEW J PHYS, V14, DOI 10.1088/1367-2630/14/8/085004
+   Lecun Y, 1998, P IEEE, V86, P2278, DOI 10.1109/5.726791
+   Levin M, 2006, PHYS REV LETT, V96, DOI 10.1103/PhysRevLett.96.110405
+   Mehta P., 2014, PREPRINT
+   NEWELL GF, 1950, PHYS REV, V79, P876, DOI 10.1103/PhysRev.79.876
+   Onsager L, 1944, PHYS REV, V65, P117, DOI 10.1103/PhysRev.65.117
+   Sandvik AW, 2010, AIP CONF PROC, V1297, P135, DOI 10.1063/1.3518900
+   Schoenholz SS, 2016, NAT PHYS, V12, P469, DOI [10.1038/NPHYS3644, 10.1038/nphys3644]
+   Torlai G., 2016, PREPRINT
+   van Nieuwenburg E. P. L., 2017, NAT PHYS
+   Wen X., 2004, QUANTUM FIELD THEORY
+NR 27
+TC 168
+Z9 168
+U1 22
+U2 167
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1745-2473
+EI 1745-2481
+J9 NAT PHYS
+JI Nat. Phys.
+PD MAY
+PY 2017
+VL 13
+IS 5
+BP 431
+EP 434
+DI 10.1038/NPHYS4035
+PG 4
+WC Physics, Multidisciplinary
+SC Physics
+GA ET7LC
+UT WOS:000400476900007
+OA Bronze
+HC Y
+HP Y
+DA 2019-06-15
+ER
+
+PT J
+AU Abolfathi, B
+   Aguado, DS
+   Aguilar, G
+   Prieto, CA
+   Almeida, A
+   Ananna, TT
+   Anders, F
+   Anderson, SF
+   Andrews, BH
+   Anguiano, B
+   Aragon-Salamanca, A
+   Argudo-Fernandez, M
+   Armengaud, E
+   Ata, M
+   Aubourg, E
+   Avila-Reese, V
+   Badenes, C
+   Bailey, S
+   Balland, C
+   Barger, KA
+   Barrera-Ballesteros, J
+   Bartosz, C
+   Bastien, F
+   Bates, D
+   Baumgarten, F
+   Bautista, J
+   Beaton, R
+   Beers, TC
+   Belfiore, F
+   Bender, CF
+   Bernardi, M
+   Bershady, MA
+   Beutler, F
+   Bird, JC
+   Bizyaev, D
+   Blanc, GA
+   Blanton, MR
+   Blomqvist, M
+   Bolton, AS
+   Boquien, M
+   Borissova, J
+   Bovy, J
+   Diaz, CAB
+   Brandt, WN
+   Brinkmann, J
+   Brownstein, JR
+   Bundy, K
+   Burgasser, AJ
+   Burtin, E
+   Busca, NG
+   Canas, CI
+   Cano-Diaz, M
+   Cappellari, M
+   Carrera, R
+   Casey, AR
+   Sodi, BC
+   Chen, YP
+   Cherinka, B
+   Chiappini, C
+   Choi, PD
+   Chojnowski, D
+   Chuang, CH
+   Chung, H
+   Clerc, N
+   Cohen, RE
+   Comerford, JM
+   Comparat, J
+   do Nascimento, JC
+   da Costa, L
+   Cousinou, MC
+   Covey, K
+   Crane, JD
+   Cruz-Gonzalez, I
+   Cunha, K
+   Ilha, GD
+   Damke, GJ
+   Darling, J
+   Davidson, JW
+   Dawson, K
+   Lizaola, MACD
+   de la Macorra, A
+   de la Torre, S
+   de Lee, N
+   Agathe, VD
+   Machado, AD
+   Dell'Agli, F
+   Delubac, T
+   Diamond-Stanic, AM
+   Donor, J
+   Downes, JJ
+   Drory, N
+   Bourboux, HDMD
+   Duckworth, CJ
+   Dwelly, T
+   Dyer, J
+   Ebelke, G
+   Eigenbrot, AD
+   Eisenstein, DJ
+   Elsworth, YP
+   Emsellem, E
+   Eracleous, M
+   Erfanianfar, G
+   Escoffier, S
+   Fan, XH
+   Alvar, EF
+   Fernandez-Trincado, JG
+   Cirolini, RF
+   Feuillet, D
+   Finoguenov, A
+   Fleming, SW
+   Font-Ribera, A
+   Freischlad, G
+   Frinchaboy, P
+   Fu, H
+   Chew, YGM
+   Galbany, L
+   Perez, AEG
+   Garcia-Dias, R
+   Garcia-Hernandez, DA
+   Oehmichen, LAG
+   Gaulme, P
+   Gelfand, J
+   Gil-Marin, H
+   Gillespie, BA
+   Goddard, D
+   Hernandez, JIG
+   Gonzalez-Perez, V
+   Grabowski, K
+   Green, PJ
+   Grier, CJ
+   Gueguen, A
+   Guo, H
+   Guy, J
+   Hagen, A
+   Hall, P
+   Harding, P
+   Hasselquist, S
+   Hawley, S
+   Hayes, CR
+   Hearty, F
+   Hekker, S
+   Hernandez, J
+   Toledo, HH
+   Hogg, DW
+   Holley-Bockelmann, K
+   Holtzman, JA
+   Hou, JM
+   Hsieh, BC
+   Hunt, JAS
+   Hutchinson, TA
+   Hwang, HS
+   Angel, CEJ
+   Johnson, JA
+   Jones, A
+   Jonsson, H
+   Jullo, E
+   Khan, FS
+   Kinemuchi, K
+   Kirkby, D
+   Kirkpatrick, CC
+   Kitaura, FS
+   Knapp, GR
+   Kneib, JP
+   Kollmeier, JA
+   Lacerna, I
+   Lane, RR
+   Lang, DT
+   Law, DR
+   Le Goff, JM
+   Lee, YB
+   Li, HY
+   Li, C
+   Lian, JH
+   Liang, Y
+   Lima, M
+   Lin, L
+   Long, D
+   Lucatello, S
+   Lundgren, B
+   Mackereth, JT
+   MacLeod, CL
+   Mahadevan, S
+   Maia, MAG
+   Majewski, S
+   Manchado, A
+   Mariappan, V
+   Marques-Chaves, R
+   Masseron, T
+   Masters, KL
+   McDermid, RM
+   McGreer, ID
+   Melendez, M
+   Meneses-Goytia, S
+   Merloni, A
+   Merrifield, MR
+   Meszaros, S
+   Meza, A
+   Minchev, I
+   Minniti, D
+   Mueller, EM
+   Muller-Sanchez, F
+   Muna, D
+   Munoz, RR
+   Myers, AD
+   Nair, P
+   Nandra, K
+   Ness, M
+   Newman, JA
+   Nichol, RC
+   Nidever, DL
+   Nitschelm, C
+   Noterdaeme, P
+   O'Connell, J
+   Oelkers, RJ
+   Oravetz, A
+   Oravetz, D
+   Ortiz, EA
+   Osorio, Y
+   Pace, Z
+   Padilla, N
+   Palanque-Delabrouille, N
+   Palicio, PA
+   Pan, HA
+   Pan, K
+   Parikh, T
+   Paris, I
+   Park, C
+   Peirani, S
+   Pellejero-Ibanez, M
+   Penny, S
+   Percival, WJ
+   Perez-Fournon, I
+   Petitjean, P
+   Pieri, MM
+   Pinsonneault, M
+   Pisani, A
+   Prada, F
+   Prakash, A
+   Queiroz, ABD
+   Raddick, MJ
+   Raichoor, A
+   Rembold, SB
+   Richstein, H
+   Riffel, RA
+   Rix, HW
+   Robin, AC
+   Torres, SR
+   Roman-Zuniga, C
+   Ross, AJ
+   Rossi, G
+   Ruan, J
+   Ruggeri, R
+   Ruiz, J
+   Salvato, M
+   Sanchez, AG
+   Sanchez, SF
+   Almeida, JS
+   Sanchez-Gallego, JR
+   Rojas, FAS
+   Santiago, BX
+   Schiavon, RP
+   Schimoia, JS
+   Schlafly, E
+   Schlegel, D
+   Schneider, DP
+   Schuster, WJ
+   Schwope, A
+   Seo, HJ
+   Serenelli, A
+   Shen, SY
+   Shen, Y
+   Shetrone, M
+   Shull, M
+   Aguirre, VS
+   Simon, JD
+   Skrutskie, M
+   Slosar, A
+   Smethurst, R
+   Smith, V
+   Sobeck, J
+   Somers, G
+   Souter, BJ
+   Souto, D
+   Spindler, A
+   Stark, DV
+   Stassun, K
+   Steinmetz, M
+   Stello, D
+   Storchi-Bergmann, T
+   Streblyanska, A
+   Stringfellow, GS
+   Suarez, G
+   Sun, J
+   Szigeti, L
+   Taghizadeh-Popp, M
+   Talbot, MS
+   Tang, BT
+   Tao, C
+   Tayar, J
+   Tembe, M
+   Teske, J
+   Thakar, AR
+   Thomas, D
+   Tissera, P
+   Tojeiro, R
+   Tremonti, C
+   Troup, NW
+   Urry, M
+   Valenzuela, O
+   Van den Bosch, R
+   Vargas-Gonzalez, J
+   Vargas-Magana, M
+   Vazquez, JA
+   Villanova, S
+   Vogt, N
+   Wake, D
+   Wang, YT
+   Weaver, BA
+   Weijmans, AM
+   Weinberg, DH
+   Westfall, KB
+   Whelan, DG
+   Wilcots, E
+   Wild, V
+   Williams, RA
+   Wilson, J
+   Wood-Vasey, WM
+   Wylezalek, D
+   Xiao, T
+   Yan, RB
+   Yang, M
+   Ybarra, JE
+   Yeche, C
+   Zakamska, N
+   Zamora, O
+   Zarrouk, P
+   Zasowski, G
+   Zhang, K
+   Zhao, C
+   Zhao, GB
+   Zheng, Z
+   Zheng, Z
+   Zhou, ZM
+   Zhu, GT
+   Zinn, JC
+   Zou, H
+AF Abolfathi, Bela
+   Aguado, D. S.
+   Aguilar, Gabriela
+   Prieto, Carlos Allende
+   Almeida, Andres
+   Ananna, Tonima Tasnim
+   Anders, Friedrich
+   Anderson, Scott F.
+   Andrews, Brett H.
+   Anguiano, Borja
+   Aragon-Salamanca, Alfonso
+   Argudo-Fernandez, Maria
+   Armengaud, Eric
+   Ata, Metin
+   Aubourg, Eric
+   Avila-Reese, Vladimir
+   Badenes, Carles
+   Bailey, Stephen
+   Balland, Christophe
+   Barger, Kathleen A.
+   Barrera-Ballesteros, Jorge
+   Bartosz, Curtis
+   Bastien, Fabienne
+   Bates, Dominic
+   Baumgarten, Falk
+   Bautista, Julian
+   Beaton, Rachael
+   Beers, Timothy C.
+   Belfiore, Francesco
+   Bender, Chad F.
+   Bernardi, Mariangela
+   Bershady, Matthew A.
+   Beutler, Florian
+   Bird, Jonathan C.
+   Bizyaev, Dmitry
+   Blanc, Guillermo A.
+   Blanton, Michael R.
+   Blomqvist, Michael
+   Bolton, Adam S.
+   Boquien, Mederic
+   Borissova, Jura
+   Bovy, Jo
+   Diaz, Christian Andres Bradna
+   Brandt, William Nielsen
+   Brinkmann, Jonathan
+   Brownstein, Joel R.
+   Bundy, Kevin
+   Burgasser, Adam J.
+   Burtin, Etienne
+   Busca, Nicolas G.
+   Canas, Caleb I.
+   Cano-Diaz, Mariana
+   Cappellari, Michele
+   Carrera, Ricardo
+   Casey, Andrew R.
+   Sodi, Bernardo Cervantes
+   Chen, Yanping
+   Cherinka, Brian
+   Chiappini, Cristina
+   Choi, Peter Doohyun
+   Chojnowski, Drew
+   Chuang, Chia-Hsun
+   Chung, Haeun
+   Clerc, Nicolas
+   Cohen, Roger E.
+   Comerford, Julia M.
+   Comparat, Johan
+   do Nascimento, Janaina Correa
+   da Costa, Luiz
+   Cousinou, Marie-Claude
+   Covey, Kevin
+   Crane, Jeffrey D.
+   Cruz-Gonzalez, Irene
+   Cunha, Katia
+   Ilha, Gabriele da Silva
+   Damke, Guillermo J.
+   Darling, Jeremy
+   Davidson, James W., Jr.
+   Dawson, Kyle
+   de Icaza Lizaola, Miguel Angel C.
+   de la Macorra, Axel
+   de la Torre, Sylvain
+   de Lee, Nathan
+   de Sainte Agathe, Victoria
+   Machado, Alice Deconto
+   Dell'Agli, Flavia
+   Delubac, Timothee
+   Diamond-Stanic, Aleksandar M.
+   Donor, John
+   Downes, Juan Jose
+   Drory, Niv
+   Bourboux, Helion Du Mas des
+   Duckworth, Christopher J.
+   Dwelly, Tom
+   Dyer, Jamie
+   Ebelke, Garrett
+   Eigenbrot, Arthur Davis
+   Eisenstein, Daniel J.
+   Elsworth, Yvonne P.
+   Emsellem, Eric
+   Eracleous, Michael
+   Erfanianfar, Ghazaleh
+   Escoffier, Stephanie
+   Fan, Xiaohui
+   Alvar, Emma Fernandez
+   Fernandez-Trincado, J. G.
+   Cirolini, Rafael Fernando
+   Feuillet, Diane
+   Finoguenov, Alexis
+   Fleming, Scott W.
+   Font-Ribera, Andreu
+   Freischlad, Gordon
+   Frinchaboy, Peter
+   Fu, Hai
+   Maqueo Chew, Yilen Gomez
+   Galbany, Lluis
+   Perez, Ana E. Garcia
+   Garcia-Dias, R.
+   Garcia-Hernandez, D. A.
+   Garma Oehmichen, Luis Alberto
+   Gaulme, Patrick
+   Gelfand, Joseph
+   Gil-Marin, Hector
+   Gillespie, Bruce A.
+   Goddard, Daniel
+   Gonzalez Hernandez, Jonay I.
+   Gonzalez-Perez, Violeta
+   Grabowski, Kathleen
+   Green, Paul J.
+   Grier, Catherine J.
+   Gueguen, Alain
+   Guo, Hong
+   Guy, Julien
+   Hagen, Alex
+   Hall, Patrick
+   Harding, Paul
+   Hasselquist, Sten
+   Hawley, Suzanne
+   Hayes, Christian R.
+   Hearty, Fred
+   Hekker, Saskia
+   Hernandez, Jesus
+   Toledo, Hector Hernandez
+   Hogg, David W.
+   Holley-Bockelmann, Kelly
+   Holtzman, Jon A.
+   Hou, Jiamin
+   Hsieh, Bau-Ching
+   Hunt, Jason A. S.
+   Hutchinson, Timothy A.
+   Hwang, Ho Seong
+   Jimenez Angel, Camilo Eduardo
+   Johnson, Jennifer A.
+   Jones, Amy
+   Jonsson, Henrik
+   Jullo, Eric
+   Khan, Fahim Sakil
+   Kinemuchi, Karen
+   Kirkby, David
+   Kirkpatrick, Charles C.
+   Kitaura, Francisco-Shu
+   Knapp, Gillian R.
+   Kneib, Jean-Paul
+   Kollmeier, Juna A.
+   Lacerna, Ivan
+   Lane, Richard R.
+   Lang, Dustin
+   Law, David R.
+   Le Goff, Jean-Marc
+   Lee, Young-Bae
+   Li, Hongyu
+   Li, Cheng
+   Lian, Jianhui
+   Liang, Yu
+   Lima, Marcos
+   Lin, Lihwai
+   Long, Dan
+   Lucatello, Sara
+   Lundgren, Britt
+   Mackereth, J. Ted
+   MacLeod, Chelsea L.
+   Mahadevan, Suvrath
+   Maia, Marcio Antonio Geimba
+   Majewski, Steven
+   Maraston, Claudia
+   Mariappan, Vivek
+   Marques-Chaves, Rui
+   Masseron, Thomas
+   Masters, Karen L.
+   McDermid, Richard M.
+   McGreer, Ian D.
+   Melendez, Matthew
+   Meneses-Goytia, Sofia
+   Merloni, Andrea
+   Merrifield, Michael R.
+   Meszaros, Szabolcs
+   Meza, Andres
+   Minchev, Ivan
+   Minniti, Dante
+   Mueller, Eva-Maria
+   Muller-Sanchez, Francisco
+   Muna, Demitri
+   Munoz, Ricardo R.
+   Myers, Adam D.
+   Nair, Preethi
+   Nandra, Kirpal
+   Ness, Melissa
+   Newman, Jeffrey A.
+   Nichol, Robert C.
+   Nidever, David L.
+   Nitschelm, Christian
+   Noterdaeme, Pasquier
+   O'Connell, Julia
+   Oelkers, Ryan James
+   Oravetz, Audrey
+   Oravetz, Daniel
+   Ortiz, Erik Aquino
+   Osorio, Yeisson
+   Pace, Zach
+   Padilla, Nelson
+   Palanque-Delabrouille, Nathalie
+   Palicio, Pedro Alonso
+   Pan, Hsi-An
+   Pan, Kaike
+   Parikh, Taniya
+   Paris, Isabelle
+   Park, Changbom
+   Peirani, Sebastien
+   Pellejero-Ibanez, Marcos
+   Penny, Samantha
+   Percival, Will J.
+   Perez-Fournon, Ismael
+   Petitjean, Patrick
+   Pieri, Matthew M.
+   Pinsonneault, Marc
+   Pisani, Alice
+   Prada, Francisco
+   Prakash, Abhishek
+   de Andrade Queiroz, Anna Barbara
+   Raddick, M. Jordan
+   Raichoor, Anand
+   Rembold, Sandro Barboza
+   Richstein, Hannah
+   Riffel, Rogemar A.
+   Rix, Hans-Walter
+   Robin, Annie C.
+   Torres, Sergio Rodriguez
+   Roman-Zuniga, Carlos
+   Ross, Ashley J.
+   Rossi, Graziano
+   Ruan, John
+   Ruggeri, Rossana
+   Ruiz, Jose
+   Salvato, Mara
+   Sanchez, Ariel G.
+   Sanchez, Sebastian F.
+   Almeida, Jorge Sanchez
+   Sanchez-Gallego, Jose R.
+   Santana Rojas, Felipe Antonio
+   Santiago, Basilio Xavier
+   Schiavon, Ricardo P.
+   Schimoia, Jaderson S.
+   Schlafly, Edward
+   Schlegel, David
+   Schneider, Donald P.
+   Schuster, William J.
+   Schwope, Axel
+   Seo, Hee-Jong
+   Serenelli, Aldo
+   Shen, Shiyin
+   Shen, Yue
+   Shetrone, Matthew
+   Shull, Michael
+   Aguirre, Victor Silva
+   Simon, Joshua D.
+   Skrutskie, Mike
+   Slosar, Anze
+   Smethurst, Rebecca
+   Smith, Verne
+   Sobeck, Jennifer
+   Somers, Garrett
+   Souter, Barbara J.
+   Souto, Diogo
+   Spindler, Ashley
+   Stark, David V.
+   Stassun, Keivan
+   Steinmetz, Matthias
+   Stello, Dennis
+   Storchi-Bergmann, Thaisa
+   Streblyanska, Alina
+   Stringfellow, Guy S.
+   Suarez, Genaro
+   Sun, Jing
+   Szigeti, Laszlo
+   Taghizadeh-Popp, Manuchehr
+   Talbot, Michael S.
+   Tang, Baitian
+   Tao, Charling
+   Tayar, Jamie
+   Tembe, Mita
+   Teske, Johanna
+   Thakar, Aniruddha R.
+   Thomas, Daniel
+   Tissera, Patricia
+   Tojeiro, Rita
+   Tremonti, Christy
+   Troup, Nicholas W.
+   Urry, Meg
+   Valenzuela, O.
+   Van den Bosch, Remco
+   Vargas-Gonzalez, Jaime
+   Vargas-Magana, Mariana
+   Vazquez, Jose Alberto
+   Villanova, Sandro
+   Vogt, Nicole
+   Wake, David
+   Wang, Yuting
+   Weaver, Benjamin Alan
+   Weijmans, Anne-Marie
+   Weinberg, David H.
+   Westfall, Kyle B.
+   Whelan, David G.
+   Wilcots, Eric
+   Wild, Vivienne
+   Williams, Rob A.
+   Wilson, John
+   Wood-Vasey, W. M.
+   Wylezalek, Dominika
+   Xiao, Ting
+   Yan, Renbin
+   Yang, Meng
+   Ybarra, Jason E.
+   Yeche, Christophe
+   Zakamska, Nadia
+   Zamora, Olga
+   Zarrouk, Pauline
+   Zasowski, Gail
+   Zhang, Kai
+   Zhao, Cheng
+   Zhao, Gong-Bo
+   Zheng, Zheng
+   Zheng, Zheng
+   Zhou, Zhi-Min
+   Zhu, Guangtun
+   Zinn, Joel C.
+   Zou, Hu
+TI The Fourteenth Data Release of the Sloan Digital Sky Survey: First
+   Spectroscopic Data from the Extended Baryon Oscillation Spectroscopic
+   Survey and from the Second Phase of the Apache Point Observatory
+   Galactic Evolution Experiment
+SO ASTROPHYSICAL JOURNAL SUPPLEMENT SERIES
+LA English
+DT Article
+DE atlases; catalogs; surveys
+ID SDSS-IV MANGA; NEARBY GALAXIES; MASS; TELESCOPE; METALLICITY; HISTORIES;
+   PIPELINE; CATALOGS; SPIDERS; PIPE3D
+AB The fourth generation of the Sloan Digital Sky Survey (SDSS-IV) has been in operation since 2014 July. This paper describes the second data release from this phase, and the 14th from SDSS overall (making this Data Release Fourteen or DR14). This release makes the data taken by SDSS-IV in its first two years of operation (2014-2016 July) public. Like all previous SDSS releases, DR14 is cumulative, including the most recent reductions and calibrations of all data taken by SDSS since the first phase began operations in 2000. New in DR14 is the first public release of data from the extended Baryon Oscillation Spectroscopic Survey; the first data from the second phase of the Apache Point Observatory (APO) Galactic Evolution Experiment (APOGEE-2), including stellar parameter estimates from an innovative data-driven machine-learning algorithm known as "The Cannon"; and almost twice as many data cubes from the Mapping Nearby Galaxies at APO (MaNGA) survey as were in the previous release (N = 2812 in total). This paper describes the location and format of the publicly available data from the SDSS-IV surveys. We provide references to the important technical papers describing how these data have been taken (both targeting and observation details) and processed for scientific use. The SDSS web site (www.sdss.org) has been updated for this release and provides links to data downloads, as well as tutorials and examples of data use. SDSS-IV is planning to continue to collect astronomical data until 2020 and will be followed by SDSS-V.
+C1 [Abolfathi, Bela; Kirkby, David] Univ Calif Irvine, Dept Phys & Astron, Irvine, CA 92697 USA.
+   [Aguado, D. S.; Prieto, Carlos Allende; Carrera, Ricardo; Dell'Agli, Flavia; Perez, Ana E. Garcia; Garcia-Dias, R.; Garcia-Hernandez, D. A.; Gonzalez Hernandez, Jonay I.; Jimenez Angel, Camilo Eduardo; Jonsson, Henrik; Kitaura, Francisco-Shu; Marques-Chaves, Rui; Masseron, Thomas; Osorio, Yeisson; Palicio, Pedro Alonso; Pellejero-Ibanez, Marcos; Perez-Fournon, Ismael; Almeida, Jorge Sanchez; Streblyanska, Alina; Zamora, Olga] Inst Astrofis Canarias, E-38205 Tenerife, Spain.
+   [Aguado, D. S.; Prieto, Carlos Allende; Carrera, Ricardo; Dell'Agli, Flavia; Perez, Ana E. Garcia; Garcia-Dias, R.; Garcia-Hernandez, D. A.; Gonzalez Hernandez, Jonay I.; Grabowski, Kathleen; Jimenez Angel, Camilo Eduardo; Jonsson, Henrik; Kitaura, Francisco-Shu; Marques-Chaves, Rui; Masseron, Thomas; Osorio, Yeisson; Palicio, Pedro Alonso; Pellejero-Ibanez, Marcos; Perez-Fournon, Ismael; Prakash, Abhishek; Almeida, Jorge Sanchez; Streblyanska, Alina; Zamora, Olga] ULL, Dept Astrofis, E-38206 Tenerife, Spain.
+   [Aguilar, Gabriela; Avila-Reese, Vladimir; Cruz-Gonzalez, Irene; de Icaza Lizaola, Miguel Angel C.; Alvar, Emma Fernandez; Garma Oehmichen, Luis Alberto; Toledo, Hector Hernandez; Ortiz, Erik Aquino; Park, Changbom; Sanchez, Sebastian F.] Univ Nacl Autonoma Mexico, Inst Astron, AP 70-264, Mexico City 04510, DF, Mexico.
+   [Almeida, Andres; Clerc, Nicolas; Park, Changbom] Univ La Serena, Inst Invest Multidisciplinario Ciencia & Technol, Benavente 980, La Serena, Chile.
+   [Ananna, Tonima Tasnim; Urry, Meg] Yale Univ, Yale Ctr Astron & Astrophys, New Haven, CT 06520 USA.
+   [Anders, Friedrich; Ata, Metin; Baumgarten, Falk; Chiappini, Cristina; Chuang, Chia-Hsun; Minchev, Ivan; Schwope, Axel; Steinmetz, Matthias] Leibniz Inst Astrophys Potsdam AIP, Sternwarte 16, D-14482 Potsdam, Germany.
+   [Anderson, Scott F.; Bartosz, Curtis; Hawley, Suzanne; Ruan, John; Sanchez-Gallego, Jose R.; Sobeck, Jennifer] Univ Washington, Dept Astron, Box 351580, Seattle, WA 98195 USA.
+   [Andrews, Brett H.; Badenes, Carles; Galbany, Lluis; Newman, Jeffrey A.; Prakash, Abhishek; Wood-Vasey, W. M.] Univ Pittsburgh, Dept Phys & Astron, PITT PACC, Pittsburgh, PA 15260 USA.
+   [Anguiano, Borja; Damke, Guillermo J.; Davidson, James W., Jr.; Ebelke, Garrett; Hayes, Christian R.; Majewski, Steven; Skrutskie, Mike; Tembe, Mita; Troup, Nicholas W.; Wilson, John] Univ Virginia, Dept Astron, 530 McCormick Rd, Charlottesville, VA 22904 USA.
+   [Aragon-Salamanca, Alfonso; Merrifield, Michael R.; Smethurst, Rebecca] Univ Nottingham, Sch Phys & Astron, Nottingham NG7 2RD, England.
+   [Argudo-Fernandez, Maria; Boquien, Mederic; Nitschelm, Christian] Univ Antofagasta, Fac Cs Basicas, Unidad Astron, Avda U Antofagasta 02800, Antofagasta, Chile.
+   [Armengaud, Eric; Burtin, Etienne; Bourboux, Helion Du Mas des; Le Goff, Jean-Marc; Palanque-Delabrouille, Nathalie; Yeche, Christophe; Zarrouk, Pauline] Univ Paris Saclay, CEA, Irfu, F-91191 Gif Sur Yvette, France.
+   [Aubourg, Eric; Busca, Nicolas G.] Univ Paris Diderot, CNRS, Sorbonne Paris Cite, APC,IN2P3,CEA,IRFU,Observ Paris, Paris, France.
+   [Bailey, Stephen; Schlafly, Edward; Schlegel, David] Lawrence Berkeley Natl Lab, 1 Cyclotron Rd, Berkeley, CA 94720 USA.
+   [Balland, Christophe] Sorbonne Univ, CNRS, LPNHE, IN2P3, 4 Pl Jussieu, F-75005 Paris, France.
+   [Barger, Kathleen A.; Donor, John; Frinchaboy, Peter; Melendez, Matthew; O'Connell, Julia; Richstein, Hannah; Sun, Jing] Texas Christian Univ, Dept Phys & Astron, Ft Worth, TX 76129 USA.
+   [Barrera-Ballesteros, Jorge; Raddick, M. Jordan; Souter, Barbara J.; Taghizadeh-Popp, Manuchehr; Thakar, Aniruddha R.; Zakamska, Nadia] Johns Hopkins Univ, Dept Phys & Astron, 3400 N Charles St, Baltimore, MD 21218 USA.
+   [Bastien, Fabienne; Brandt, William Nielsen; Eracleous, Michael; Grier, Catherine J.; Hagen, Alex; Schneider, Donald P.] Penn State Univ, Inst Gravitat & Cosmos, University Pk, PA 16802 USA.
+   [Bates, Dominic; Duckworth, Christopher J.; Tojeiro, Rita; Weijmans, Anne-Marie; Wild, Vivienne; Yang, Meng] Univ St Andrews, Sch Phys & Astron, St Andrews KY16 9SS, Fife, Scotland.
+   [Baumgarten, Falk] Humboldt Univ, Inst Phys, Newtonstr 15, D-12589 Berlin, Germany.
+   [Bautista, Julian; Brownstein, Joel R.; Dawson, Kyle; Dyer, Jamie; Hutchinson, Timothy A.; Mariappan, Vivek; Talbot, Michael S.; Zasowski, Gail; Zheng, Zheng] Univ Utah, Dept Phys & Astron, 115 S 1400 E, Salt Lake City, UT 84112 USA.
+   [Beaton, Rachael; Crane, Jeffrey D.; Kollmeier, Juna A.; Simon, Joshua D.; Teske, Johanna] Observ Carnegie Inst Sci, 813 Santa Barbara St, Pasadena, CA 91101 USA.
+   [Beers, Timothy C.] Univ Notre Dame, Dept Phys, Notre Dame, IN 46556 USA.
+   [Beers, Timothy C.] Univ Notre Dame, JINA Ctr Evolut Elements, Notre Dame, IN 46556 USA.
+   [Belfiore, Francesco] Univ Cambridge, Cavendish Lab, 19 JJ Thomson Ave, Cambridge CB3 0HE, England.
+   [Belfiore, Francesco] Univ Cambridge, Kavli Inst Cosmol, Madingley Rd, Cambridge CB3 0HA, England.
+   [Belfiore, Francesco; Bundy, Kevin; Westfall, Kyle B.] Univ Calif Santa Cruz, Univ Calif Observ, Santa Cruz, CA 95064 USA.
+   [Bender, Chad F.; Cunha, Katia; Fan, Xiaohui; McGreer, Ian D.] Univ Arizona, Steward Observ, 933 North Cherry Ave, Tucson, AZ 85721 USA.
+   [Bernardi, Mariangela] Univ Penn, Dept Phys & Astron, Philadelphia, PA 19104 USA.
+   [Bershady, Matthew A.; Eigenbrot, Arthur Davis; Pace, Zach; Tremonti, Christy; Wilcots, Eric] Univ Wisconsin Madison, Dept Astron, 475 N Charter St, Madison, WI 53726 USA.
+   [Beutler, Florian; Goddard, Daniel; Gonzalez-Perez, Violeta; Lian, Jianhui; Maraston, Claudia; Masters, Karen L.; Meneses-Goytia, Sofia; Mueller, Eva-Maria; Nichol, Robert C.; Parikh, Taniya; Penny, Samantha; Percival, Will J.; Ruggeri, Rossana; Thomas, Daniel; Zhao, Gong-Bo] Univ Portsmouth, Inst Cosmol & Gravitat, Dennis Sciama Bldg, Portsmouth PO1 3FX, Hants, England.
+   [Bird, Jonathan C.; de Lee, Nathan; Holley-Bockelmann, Kelly; Oelkers, Ryan James; Somers, Garrett; Stassun, Keivan] Vanderbilt Univ, Dept Phys & Astron, 6301 Stevenson Ctr Ln, Nashville, TN 37235 USA.
+   [Bizyaev, Dmitry; Brinkmann, Jonathan; Freischlad, Gordon; Gaulme, Patrick; Gillespie, Bruce A.; Kinemuchi, Karen; Long, Dan; Oravetz, Audrey; Oravetz, Daniel; Pan, Kaike] Apache Point Observ, POB 59, Sunspot, NM 88349 USA.
+   [Bizyaev, Dmitry; Chojnowski, Drew; Hasselquist, Sten; Holtzman, Jon A.; Prakash, Abhishek; Vogt, Nicole] New Mexico State Univ, Dept Astron, Box 30001,MSC 4500, Las Cruces, NM 88003 USA.
+   [Bizyaev, Dmitry] Moscow MV Lomonosov State Univ, Sternberg Astron Inst, Moscow, Russia.
+   [Blanton, Michael R.; Gelfand, Joseph; Hogg, David W.] NYU, Dept Phys, Ctr Cosmol & Particle Phys, 726 Broadway,Room 1005, New York, NY 10003 USA.
+   [Blomqvist, Michael; de la Torre, Sylvain; Jullo, Eric; Paris, Isabelle; Pieri, Matthew M.] Aix Marseille Univ, CNRS, LAM, Marseille, France.
+   [Bolton, Adam S.; Nidever, David L.; Smith, Verne; Weaver, Benjamin Alan] Natl Opt Astron Observ, 950 North Cherry Ave, Tucson, AZ 85719 USA.
+   [Borissova, Jura] Univ Valparairiso, Dept Fis & Astron, Av Gran Breta 1111,Casilla 5030, Valparaiso, Chile.
+   [Borissova, Jura; Lacerna, Ivan; Lane, Richard R.; Minniti, Dante] Inst Milenio Astrofis, Av Vicuna Mackenna 4860, Santiago, Chile.
+   [Bovy, Jo] Univ Toronto, Dept Astron & Astrophys, 50 St George St, Toronto, ON M5S 3H4, Canada.
+   [Bovy, Jo; Hunt, Jason A. S.; Lang, Dustin] Univ Toronto, Dunlap Inst Astron & Astrophys, 50 St George St, Toronto, ON M5S 3H4, Canada.
+   [Diaz, Christian Andres Bradna; Diamond-Stanic, Aleksandar M.; Khan, Fahim Sakil; Ruiz, Jose] Bates Coll, Dept Phys & Astron, 44 Campus Ave, Lewiston, ME 04240 USA.
+   [Bastien, Fabienne; Brandt, William Nielsen; Canas, Caleb I.; Eracleous, Michael; Maqueo Chew, Yilen Gomez; Grier, Catherine J.; Hearty, Fred; Mahadevan, Suvrath; Schneider, Donald P.] Penn State Univ, Eberly Coll Sci, Dept Astron & Astrophys, 525 Davey Lab, University Pk, PA 16802 USA.
+   [Brandt, William Nielsen] Penn State Univ, Dept Phys, University Pk, PA 16802 USA.
+   [Burgasser, Adam J.] Univ Calif San Diego, Ctr Astrophys & Space Sci, La Jolla, CA 92093 USA.
+   [Cano-Diaz, Mariana; Valenzuela, O.] Univ Nacl Autonoma Mexico, Inst Astron, AP 70-264, Mexico City 04510, DF, Mexico.
+   [Cappellari, Michele] Univ Oxford, Subdept Astrophys, Dept Phys, Denys Wilkinson Bldg,Keble Rd, Oxford OX1 3RH, England.
+   [Casey, Andrew R.] Monash Univ, Sch Phys & Astron, Wellington Rd, Clayton, Vic 3800, Australia.
+   [Sodi, Bernardo Cervantes] Univ Nacl Autonoma Mexico, Inst Radioastron & Astrofis, Campus Morelia,AP 3-72, Mexico City 58089, Michoacan, Mexico.
+   [Chen, Yanping] NYU Abu Dhabi, POB 129188, Abu Dhabi, U Arab Emirates.
+   [Cherinka, Brian; Wylezalek, Dominika; Zhu, Guangtun] Johns Hopkins Univ, Dept Phys & Astron, Ctr Astrophys Sci, 3400 North Charles St, Baltimore, MD 21218 USA.
+   [Choi, Peter Doohyun; Lee, Young-Bae; Rossi, Graziano] Sejong Univ, Dept Astron & Space Sci, Seoul 143747, South Korea.
+   [Chung, Haeun; Hwang, Ho Seong] Korea Inst Adv Study, 85 Hoegiro, Seoul 02455, South Korea.
+   [Comparat, Johan; Dwelly, Tom; Erfanianfar, Ghazaleh; Finoguenov, Alexis; Gueguen, Alain; Hou, Jiamin; Merloni, Andrea; Nandra, Kirpal; Salvato, Mara; Sanchez, Ariel G.] Max Planck Inst Extraterr Phys, Giessenbachstr 1, D-85748 Garching, Germany.
+   [Clerc, Nicolas] CNRS, IRAP, 9 Av Colonel Roche,BP 44346, F-31028 Toulouse 4, France.
+   [Clerc, Nicolas] Univ Toulouse, UPS OMP, IRAP, Toulouse, France.
+   [Cohen, Roger E.; Fernandez-Trincado, J. G.; Tang, Baitian; Villanova, Sandro] Univ Concepcion, Dept Astron, Casilla 160-C, Concepcion, Chile.
+   [Cohen, Roger E.; Fleming, Scott W.; Law, David R.; Zasowski, Gail] Space Telescope Sci Inst, 3700 San Martin Dr, Baltimore, MD 21218 USA.
+   [Comerford, Julia M.; Darling, Jeremy; Muller-Sanchez, Francisco; Shull, Michael; Stringfellow, Guy S.] Univ Colorado, Dept Astrophys & Planetary Sci, Ctr Astrophys & Space Astron, 389 UCB, Boulder, CO 80309 USA.
+   [do Nascimento, Janaina Correa; de Andrade Queiroz, Anna Barbara; Santiago, Basilio Xavier; Schimoia, Jaderson S.; Storchi-Bergmann, Thaisa] Univ Fed Rio Grande do Sul, Inst Fis, Campus Vale, BR-91501970 Porto Alegre, RS, Brazil.
+   [do Nascimento, Janaina Correa; da Costa, Luiz; Ilha, Gabriele da Silva; Machado, Alice Deconto; Cirolini, Rafael Fernando; Lima, Marcos; Maia, Marcio Antonio Geimba; Prakash, Abhishek; de Andrade Queiroz, Anna Barbara; Rembold, Sandro Barboza; Riffel, Rogemar A.; Santiago, Basilio Xavier; Schimoia, Jaderson S.; Storchi-Bergmann, Thaisa] Lab Interinstituc eAstron, 77 Rua Gen Jose Cristino, BR-20921400 Rio De Janeiro, Brazil.
+   [da Costa, Luiz; Cunha, Katia; Maia, Marcio Antonio Geimba; Souto, Diogo] Observ Nacl, Rio De Janeiro, Brazil.
+   [Cousinou, Marie-Claude; Escoffier, Stephanie; Pisani, Alice; Tao, Charling] Aix Marseille Univ, CNRS, CPPM, IN2P3, Marseille, France.
+   [Covey, Kevin] Western Washington Univ, Dept Phys & Astron, 516 High St, Bellingham, WA 98225 USA.
+   [Ilha, Gabriele da Silva; Machado, Alice Deconto; Rembold, Sandro Barboza; Riffel, Rogemar A.; Urry, Meg] Univ Fed Santa Maria, Dept Fis, CCNE, BR-97105900 Santa Maria, RS, Brazil.
+   [Damke, Guillermo J.] Univ La Serena, Ctr Multidisciplinario Ciencia & Tecnol, Cisternas 1200, La Serena, Chile.
+   [Damke, Guillermo J.; Vargas-Gonzalez, Jaime] Univ La Serena, Fac Ciencias, Dept Fis, Cisternas 1200, La Serena, Chile.
+   [de la Macorra, Axel; Vargas-Magana, Mariana] Univ Nacl Autonoma Mexico, Inst Fis, Apdo Postal 20-364, Mexico City, DF, Mexico.
+   [de Lee, Nathan] Northern Kentucky Univ, Dept Phys Geol & Engn Tech, Highland Hts, KY 41099 USA.
+   [de Sainte Agathe, Victoria; Guy, Julien] Univ Paris 07, Univ Pierre & Marie Curie Paris 6, CNRS, LPNHE,IN2P3, 4 Pl Jussieu, F-75252 Paris, France.
+   [Delubac, Timothee; Kneib, Jean-Paul; Raichoor, Anand] EPFL, Lab Astrophys, Inst Phys, Observ Sauverny, CH-1290 Versoix, Switzerland.
+   [Downes, Juan Jose] Ctr Invest Astron, AP 264, A-5101 Merida, Venezuela.
+   [Drory, Niv; Shetrone, Matthew] Univ Texas Austin, McDonald Observ, 1 Univ Stn, Austin, TX 78712 USA.
+   [Eisenstein, Daniel J.; Green, Paul J.; MacLeod, Chelsea L.] Harvard Smithsonian Ctr Astrophys, 60 Garden St, Cambridge, MA 02138 USA.
+   [Elsworth, Yvonne P.] Univ Birmingham, Sch Phys & Astron, Birmingham B15 2TT, W Midlands, England.
+   [Emsellem, Eric] European Southern Observ, Karl Schwarzschild Str 2, D-85748 Garching, Germany.
+   [Emsellem, Eric] Univ Lyon 1, Obs Lyon, CRAL, 9 Ave Charles Andre, F-69230 St Genis Laval, France.
+   [Feuillet, Diane; Ness, Melissa; Rix, Hans-Walter; Van den Bosch, Remco] Max Planck Inst Astron, Konigstuhl 17, D-69117 Heidelberg, Germany.
+   [Font-Ribera, Andreu] UCL, Dept Phys & Astron, Gower St, London WC1E 6BT, England.
+   [Fu, Hai] Univ Iowa, Dept Phys & Astron, Iowa City, IA 52245 USA.
+   [Gil-Marin, Hector] Sorbonne Univ, ILP, 98 Bis Blvd Arago, F-75014 Paris, France.
+   [Gil-Marin, Hector] Univ Paris 06, Lab Phys Nucl & Hautes Energies, 4 Pl Jussieu, F-75005 Paris, France.
+   [Guo, Hong; Shen, Shiyin; Xiao, Ting] Chinese Acad Sci, Shanghai Astron Observ, 80 Nandan Rd, Shanghai 200030, Shanghai, Peoples R China.
+   [Hall, Patrick] York Univ, Dept Phys & Astron, 4700 Keele St, Toronto, ON M3J 1P3, Canada.
+   [Harding, Paul] Case Western Reserve Univ, Dept Astron, Cleveland, OH 44106 USA.
+   [Hekker, Saskia] Max Planck Inst Solar Syst Res, Justus Von Liebig Weg 3, D-37077 Gottingen, Germany.
+   [Hou, Jiamin] Ludwig Maximilians Univ Munchen, Univ Sternwarte Munchen, Scheinerstr 1, D-81679 Munich, Germany.
+   [Hsieh, Bau-Ching; Lin, Lihwai; Pan, Hsi-An] Acad Sinica, Inst Astron & Astrophys, POB 23-141, Taipei 10617, Taiwan.
+   [Johnson, Jennifer A.; Pinsonneault, Marc; Tayar, Jamie; Weinberg, David H.; Zinn, Joel C.] Ohio State Univ, Dept Astron, 140 W 18th Ave, Columbus, OH 43210 USA.
+   [Johnson, Jennifer A.; Muna, Demitri; Ross, Ashley J.; Weinberg, David H.] Ohio State Univ, Ctr Cosmol & AstroParticle Phys, 191 W Woodruff Ave, Columbus, OH 43210 USA.
+   [Jones, Amy] Max Planck Inst Astrophys, Karl Schwarzschild Str 1, D-85748 Garching, Germany.
+   [Kirkpatrick, Charles C.] Univ Helsinki, Dept Phys, Gustaf Hallstromin Katu 2a, FI-00014 Helsinki, Finland.
+   [Knapp, Gillian R.] Princeton Univ, Dept Astrophys Sci, Princeton, NJ 08544 USA.
+   [Bernardi, Mariangela; Lacerna, Ivan; Padilla, Nelson] Pontificia Univ Catolica Chile, Inst Astrofis, Av Vicuna Mackenna 4860, Santiago 7820436, Chile.
+   [Lacerna, Ivan] Astrophys Res Consortium, Phys Astron Bldg,3910 15th Ave NE, Seattle, WA 98195 USA.
+   [Li, Hongyu; Wang, Yuting; Zhao, Gong-Bo; Zheng, Zheng; Zhou, Zhi-Min; Zou, Hu] Chinese Acad Sci, Natl Astron Observ, 20A Datun Rd, Beijing 100012, Peoples R China.
+   [Li, Cheng; Liang, Yu; Tao, Charling; Zhao, Cheng] Tsinghua Univ, Tsinghua Ctr Astrophys, Beijing 100084, Peoples R China.
+   [Li, Cheng; Liang, Yu; Tao, Charling; Zhao, Cheng] Tsinghua Univ, Dept Phys, Beijing 100084, Peoples R China.
+   [Lima, Marcos] Univ Sao Paulo, Inst Fis, Dept Fis Matemat, CP 66318, BR-05314970 Sao Paulo, SP, Brazil.
+   [Lucatello, Sara] Natl Inst Astrophys, Astron Observ Padova, Vicolo Osserv 5, I-35122 Padua, Italy.
+   [Lundgren, Britt; Wake, David] Univ North Carolina Asheville, Dept Phys, One Univ Hts, Asheville, NC 28804 USA.
+   [Mackereth, J. Ted; Schiavon, Ricardo P.; Williams, Rob A.] Liverpool John Moores Univ, Astrophys Res Inst, IC2,Liverpool Sci Pk,146 Brownlow Hill, Liverpool L3 5RF, Merseyside, England.
+   [McDermid, Richard M.] Macquarie Univ, Dept Phys & Astron, Sydney, NSW 2109, Australia.
+   [Meszaros, Szabolcs; Szigeti, Laszlo] Eotvos Lorand Univ, Gothard Astrophys Observ, Szombathely, Hungary.
+   [Meza, Andres; Minniti, Dante; Tissera, Patricia] Univ Andres Bello, Fac Ciencias Exactas, Dept Fis, Av Fernandez Concha 700, Santiago, Chile.
+   [Meza, Andres] Univ Autonoma Chile, Fac Ingn, Pedro Valdivia 425, Santiago, Chile.
+   [Minniti, Dante] Vatican Observ, V00120, Vatican City, Vatican.
+   [Blanc, Guillermo A.; Munoz, Ricardo R.; Santana Rojas, Felipe Antonio] Univ Chile, Av Libertador Bernardo Ohiggins, Santiago 1058, Chile.
+   [Myers, Adam D.] Univ Wyoming, Dept Phys & Astron, Laramie, WY 82071 USA.
+   [Nair, Preethi] Univ Alabama, Tuscaloosa, AL 35487 USA.
+   [Noterdaeme, Pasquier; Peirani, Sebastien; Petitjean, Patrick] UPMC, CNRS, UMR 7095, Inst Astropys Paris, 98bis Bd Arago, F-75014 Paris, France.
+   [Prada, Francisco] Univ Autonoma Madrid, CSIC, IFT, E-28049 Madrid, Spain.
+   [Prada, Francisco] CSIC, IAA, Glorieta Astron S-N, E-18008 Granada, Spain.
+   [Robin, Annie C.] Univ Bourgogne Franche Comte, CNRS, Observ Besancon,Inst UTINAM, OSU THETA Franche Comte Bourgogne Observ,UMR6213, BP 1615, F-25010 Besancon, France.
+   [Torres, Sergio Rodriguez] UAM, Dept Fis Teor M8, E-28049 Madrid, Spain.
+   [Hernandez, Jesus; Roman-Zuniga, Carlos; Schuster, William J.; Suarez, Genaro] Univ Nacl Autonoma Mexico, Inst Astron, Unidad Acad Ensenada, Ensenada 22860, BC, Mexico.
+   [Seo, Hee-Jong] Ohio Univ, Dept Phys & Astron, Clippinger Labs, Athens, OH 45701 USA.
+   [Serenelli, Aldo] CSIC, IEEC, Inst Space Sci, Carrer Can Magrans S-N,Campus UAB, E-08193 Barcelona, Spain.
+   [Shen, Yue] Univ Illinois, Dept Astron, 1002 W Green St, Urbana, IL 61801 USA.
+   [Shen, Yue] Natl Ctr Supercomp Applicat, 1205 West Clark St, Urbana, IL 61801 USA.
+   [Aguirre, Victor Silva; Stello, Dennis] Aarhus Univ, Dept Phys & Astron, Stellar Astrophys Ctr, Ny Munkegade 120, DK-8000 Aarhus C, Denmark.
+   [Slosar, Anze; Vazquez, Jose Alberto] Brookhaven Natl Lab, Upton, NY 11973 USA.
+   [Spindler, Ashley; Wake, David] Open Univ, Dept Phys Sci, Milton Keynes MK7 6AA, Bucks, England.
+   [Stark, David V.] Univ Tokyo, Todai Inst Adv Study, Kavli Inst Phys & Math Universe, Kashiwa, Chiba 2778583, Japan.
+   [Stello, Dennis] Univ Sydney, Sch Phys, Sydney Inst Astron, Sydney, NSW 2006, Australia.
+   [Stello, Dennis] Univ New South Wales, Sch Phys, Sydney, NSW 2052, Australia.
+   [Whelan, David G.] Austin Coll, Dept Phys, Sherman, TX 75090 USA.
+   [Yan, Renbin; Zhang, Kai] Univ Kentucky, Dept Phys & Astron, 505 Rose St, Lexington, KY 40506 USA.
+   [Ybarra, Jason E.] Bridgewater Coll, Dept Phys, 402 E Coll St, Bridgewater, VA 22812 USA.
+   [Masters, Karen L.] Haverford Coll, Dept Phys & Astron, 370 Lancaster Ave, Haverford, PA 19041 USA.
+   [Prakash, Abhishek] CALTECH, IPAC, 1200 E Calif Blvd, Pasadena, CA 91125 USA.
+   [Serenelli, Aldo] IEEC, C Gran Capita 2-4, E-08034 Barcelona, Spain.
+RP Abolfathi, B (reprint author), Univ Calif Irvine, Dept Phys & Astron, Irvine, CA 92697 USA.
+EM spokesperson@sdss.org
+RI Darling, Jeremy/P-5275-2019; Rembold, Sandro B/K-2405-2015; del Carmen
+   Argudo-Fernandez, Maria/N-9830-2019; Zamora, Olga/M-1776-2014; Riffel,
+   Rogerio/P-3228-2019; Galbany, Lluis/K-3591-2019; Riffel, Rogemar
+   A./N-6577-2019; Beers, Timothy/D-1193-2019; Meza, Andres/C-5001-2008;
+   Lima, Marcos/E-8378-2010; Argudo Fernandez, Maria del Camen/B-7351-2019;
+   Stello, Dennis/Q-9754-2019; Boquien, Mederic/J-5964-2015; Brandt,
+   William/N-2844-2015; Meszaros, Szabolcs/N-2287-2014; Riffel,
+   Rogerio/I-5787-2013; Galbany, Lluis/A-8963-2017; Institute of Physics,
+   USP/H-5191-2017; Riffel, Rogemar A./K-8452-2012; Miller,
+   Thurston/L-9549-2014; Steinmetz, Matthias/Q-7785-2019; Mariappan,
+   Vivek/X-9438-2018; Gil Marin, Hector/B-2013-2017; Alvarez,
+   Elena/S-1068-2019; Kneib, Jean-Paul/A-7919-2015; Osorio,
+   Yeisson/L-1727-2017; Gonzalez Hernandez, Jonay I./L-3556-2014
+OI Darling, Jeremy/0000-0003-2511-2060; Rembold, Sandro
+   B/0000-0003-0880-5738; del Carmen Argudo-Fernandez,
+   Maria/0000-0002-0789-2326; Zamora, Olga/0000-0003-2100-1638; Riffel,
+   Rogerio/0000-0002-1321-1320; Galbany, Lluis/0000-0002-1296-6887; Riffel,
+   Rogemar A./0000-0003-0483-3723; Meza, Andres/0000-0002-9460-7828; Lima,
+   Marcos/0000-0002-4719-3781; Argudo Fernandez, Maria del
+   Camen/0000-0002-0789-2326; Boquien, Mederic/0000-0003-0946-6176; Brandt,
+   William/0000-0002-0167-2453; Meszaros, Szabolcs/0000-0001-8237-5209;
+   Riffel, Rogerio/0000-0002-1321-1320; Galbany, Lluis/0000-0002-1296-6887;
+   Riffel, Rogemar A./0000-0003-0483-3723; Miller,
+   Thurston/0000-0003-4027-7066; Steinmetz, Matthias/0000-0001-6516-7459;
+   Mariappan, Vivek/0000-0001-5937-331X; Gil Marin,
+   Hector/0000-0003-0265-6217; Alvarez, Elena/0000-0002-9679-2721; Chung,
+   Haeun/0000-0002-3043-2555; Serenelli, Aldo/0000-0001-6359-2769; Tojeiro,
+   Rita/0000-0001-5191-2286; Bautista, Julian/0000-0002-9885-3989; Jonsson,
+   Henrik/0000-0002-4912-8609; McDermid, Richard/0000-0002-8175-7229;
+   Meneses-Goytia, Sofia/0000-0001-6744-1204; Badenes,
+   Carles/0000-0003-3494-343X; Gonzalez-Perez, Violeta/0000-0001-9938-2755;
+   Anguiano, Borja/0000-0001-5261-4336; Sanchez Almeida,
+   Jorge/0000-0003-1123-6003; Robin, Annie/0000-0001-8654-9499; Cappellari,
+   Michele/0000-0002-1283-8420; Vargas-Gonzalez, Jaime/0000-0003-4329-3299;
+   Maraston, Claudia/0000-0001-7711-3677; Chuang,
+   Chia-Hsun/0000-0002-3882-078X; Mueller, Eva-Maria/0000-0002-4536-1999;
+   Ybarra, Jason/0000-0002-3576-4508; Garcia-Dias,
+   Rafael/0000-0001-9332-1580; shen, shiyin/0000-0002-3073-5871; Zarrouk,
+   Pauline/0000-0002-7305-9578; Kneib, Jean-Paul/0000-0002-4616-4989; Chen,
+   Yanping/0000-0001-8821-0309; Lian, Jianhui/0000-0001-5258-1466; Seo,
+   Hee-Jong/0000-0002-6588-3508; Penny, Samantha/0000-0001-5703-7531;
+   Armengaud, Eric/0000-0001-7600-5148; Pace, Zachary/0000-0003-4843-4185;
+   Wylezalek, Dominika/0000-0003-2212-6045; ZHAO,
+   GONGBO/0000-0003-4726-6714; Weijmans, Anne-Marie/0000-0002-5908-6852;
+   Casey, Andrew/0000-0003-0174-0564; Cruz-Gonzalez,
+   Irene/0000-0002-2653-1120; comparat, johan/0000-0001-9200-1497; Masters,
+   Karen/0000-0003-0846-9578; Slosar, Anze/0000-0002-8713-3695; Hagen,
+   Alex/0000-0003-2031-7737; De Lee, Nathan/0000-0002-3657-0705; Beutler,
+   Florian/0000-0003-0467-5438; Fu, Hai/0000-0001-9608-6395; Cano Diaz,
+   Mariana/0000-0001-9553-8230; O'Connell, Julia/0000-0003-2321-950X;
+   Suarez, Genaro/0000-0002-2011-4924; Osorio, Yeisson/0000-0001-5832-6933;
+   Silva Aguirre, Victor/0000-0002-6137-903X; Fernandez Trincado, Jose
+   Gregorio/0000-0003-3526-5052; Gonzalez Hernandez, Jonay
+   I./0000-0002-0264-7356
+CR Abazajian KN, 2009, ASTROPHYS J SUPPL S, V182, P543, DOI 10.1088/0067-0049/182/2/543
+   Aghamousa A, 2016, ARXIV161100037
+   Aghamousa A., 2016, ARXIV161100036
+   Ahn CP, 2012, ASTROPHYS J SUPPL S, V203, DOI 10.1088/0067-0049/203/2/21
+   Aihara H, 2011, ASTROPHYS J SUPPL S, V193, DOI 10.1088/0067-0049/193/2/29
+   Alam S, 2015, ASTROPHYS J SUPPL S, V219, DOI 10.1088/0067-0049/219/1/12
+   ALBARETI FD, 2017, APJS, V233, DOI DOI 10.3847/1538-4365/AA8992
+   Albrecht A., 2006, ARXIVASTROPH0609591
+   Altmann M, 2017, ASTRON ASTROPHYS, V600, DOI 10.1051/0004-6361/201730393
+   Anders F., 2017, P IAU S, V334
+   Arnouts S, 1999, MON NOT R ASTRON SOC, V310, P540, DOI 10.1046/j.1365-8711.1999.02978.x
+   Ata M, 2017, ARXIV170506373
+   Barrera-Ballesteros JK, 2016, MON NOT R ASTRON SOC, V463, P2513, DOI 10.1093/mnras/stw1984
+   BARRERABALLESTEROS, 2017, APJ, V844, DOI DOI 10.3847/1538-4357/AA7AA9
+   Bautista J. E., 2017, ARXIV170200176
+   Belfiore F, 2017, MON NOT R ASTRON SOC, V469, P151, DOI 10.1093/mnras/stx789
+   Bershady MA, 2010, ASTROPHYS J, V716, P198, DOI 10.1088/0004-637X/716/1/198
+   Bizyaev D, 2017, ASTROPHYS J, V839, DOI 10.3847/1538-4357/aa6979
+   Blake C, 2011, MON NOT R ASTRON SOC, V415, P2892, DOI 10.1111/j.1365-2966.2011.19077.x
+   Blanton MR, 2017, ASTRON J, V154, DOI 10.3847/1538-3881/aa7567
+   Boller Th., 2016, A A, V588, P103
+   Bovy J, 2014, ASTROPHYS J, V790, DOI 10.1088/0004-637X/790/2/127
+   Brinchmann J, 2004, MON NOT R ASTRON SOC, V351, P1151, DOI 10.1111/j.1365-2966.2004.07881.x
+   Bryant JJ, 2015, MON NOT R ASTRON SOC, V447, P2857, DOI 10.1093/mnras/stu2635
+   Budavari T, 2009, ASTROPHYS J, V694, P1281, DOI 10.1088/0004-637X/694/2/1281
+   Bundy K, 2015, ASTROPHYS J, V798, DOI 10.1088/0004-637X/798/1/7
+   Cannon A. J., 1918, ANN ASTRON OBS HARVA, V91, P1
+   Cano-Diaz M, 2016, ASTROPHYS J LETT, V821, DOI 10.3847/2041-8205/821/2/L26
+   Cappellari M, 2011, MON NOT R ASTRON SOC, V413, P813, DOI 10.1111/j.1365-2966.2010.18174.x
+   Casey A. R., 2016, ARXIV160303040
+   Cirasuolo M, 2014, PROC SPIE, V9147, DOI 10.1117/12.2056012
+   Clerc N, 2016, MON NOT R ASTRON SOC, V463, P4490, DOI 10.1093/mnras/stw2214
+   Colless M., 2003, ARXIVASTROPH0306581
+   Comparat J., 2017, A A UNPUB
+   Cui XQ, 2012, RES ASTRON ASTROPHYS, V12, P1197, DOI 10.1088/1674-4527/12/9/003
+   da Cunha E, 2017, PUBL ASTRON SOC AUST, V34, DOI 10.1017/pasa.2017.41
+   Dalcanton JJ, 2009, ASTROPHYS J SUPPL S, V183, P67, DOI 10.1088/0067-0049/183/1/67
+   Dalton G, 2014, PROC SPIE, V9147, DOI 10.1117/12.2055132
+   Dawson KS, 2016, ASTRON J, V151, DOI 10.3847/0004-6256/151/2/44
+   Dawson KS, 2013, ASTRON J, V145, DOI 10.1088/0004-6256/145/1/10
+   de Jong RS, 2014, PROC SPIE, V9147, DOI 10.1117/12.2055826
+   Delubac T, 2017, MON NOT R ASTRON SOC, V465, P1831, DOI 10.1093/mnras/stw2741
+   Delubac T, 2015, ASTRON ASTROPHYS, V574, DOI 10.1051/0004-6361/201423969
+   Dwelly T, 2017, MON NOT R ASTRON SOC, V469, P1065, DOI 10.1093/mnras/stx864
+   Eisenstein DJ, 2011, ASTRON J, V142, DOI 10.1088/0004-6256/142/3/72
+   Filiz, 2014, APJ, V791, P88
+   Freeman K, 2013, MON NOT R ASTRON SOC, V428, P3660, DOI 10.1093/mnras/sts305
+   Frieman JA, 2008, ASTRON J, V135, P338, DOI 10.1088/0004-6256/135/1/338
+   Furnell K. E., 2018, MNRAS UNPUB
+   Gilmore Gerry, 2012, The Messenger, P25
+   Goddard D, 2017, MON NOT R ASTRON SOC, V466, P4731, DOI 10.1093/mnras/stw3371
+   Grier CJ, 2017, ASTROPHYS J, V851, DOI 10.3847/1538-4357/aa98dc
+   Gu M., 2017, APJ UNPUB
+   Gunn JE, 2006, ASTRON J, V131, P2332, DOI 10.1086/500975
+   Gunn JE, 1998, ASTRON J, V116, P3040, DOI 10.1086/300645
+   Holtzman JA, 2015, ASTRON J, V150, DOI 10.1088/0004-6256/150/5/148
+   Hutchinson TA, 2016, ASTRON J, V152, DOI 10.3847/0004-6256/152/6/205
+   Ibarra-Medel HJ, 2016, MON NOT R ASTRON SOC, V463, P2799, DOI 10.1093/mnras/stw2126
+   Ilbert O, 2006, ASTRON ASTROPHYS, V457, P841, DOI 10.1051/0004-6361:20065138
+   Jaasen F, 2001, ASTRON ASTROPHYS, V365, pL1, DOI 10.1051/0004-6361:20000036
+   Jensen TW, 2016, ASTROPHYS J, V833, DOI 10.3847/1538-4357/833/2/199
+   Jones A, 2017, ASTRON ASTROPHYS, V599, DOI 10.1051/0004-6361/201629802
+   Kaiser N, 2002, P SOC PHOTO-OPT INS, V4836, P154, DOI 10.1117/12.457365
+   Kelvin LS, 2012, MON NOT R ASTRON SOC, V421, P1007, DOI 10.1111/j.1365-2966.2012.20355.x
+   Kollmeier J. A., 2017, ARXIV171103234
+   LaMassa SM, 2017, ASTROPHYS J, V847, DOI 10.3847/1538-4357/aa87b5
+   LaMassa SM, 2016, ASTROPHYS J, V817, DOI 10.3847/0004-637X/817/2/172
+   Lang D., 2014, ARXIV14107397
+   Lang D, 2014, ASTRON J, V147, DOI 10.1088/0004-6256/147/5/108
+   Laureijs R., 2011, ARXIV11103193
+   Law DR, 2016, ASTRON J, V152, DOI 10.3847/0004-6256/152/4/83
+   Law DR, 2015, ASTRON J, V150, DOI 10.1088/0004-6256/150/1/19
+   Li N, 2008, COMPUT SCI ENG, V10, P18, DOI 10.1109/MCSE.2008.6
+   Lin L, 2017, ASTROPHYS J, V837, DOI 10.3847/1538-4357/837/1/32
+   Linder E., 2002, BAAS, V34, P97
+   MacLeod C. L., 2017, ARXIV170604240
+   Madrid J. P., 2009, B AM ASTRONOMICAL SO, V41, P913
+   Majewski SR, 2017, ASTRON J, V154, DOI 10.3847/1538-3881/aa784d
+   Margala D, 2016, ASTROPHYS J, V831, DOI 10.3847/0004-637X/831/2/157
+   McGraw SM, 2017, MON NOT R ASTRON SOC, V469, P3163, DOI 10.1093/mnras/stx1063
+   Meisner AM, 2017, ASTRON J, V153, DOI 10.3847/1538-3881/153/1/38
+   Morganson E, 2015, ASTROPHYS J, V806, DOI 10.1088/0004-637X/806/2/244
+   Myers AD, 2015, ASTROPHYS J SUPPL S, V221, DOI 10.1088/0067-0049/221/2/27
+   Ness M, 2015, ASTROPHYS J, V808, DOI 10.1088/0004-637X/808/1/16
+   Nidever DL, 2015, ASTRON J, V150, DOI 10.1088/0004-6256/150/6/173
+   Palanque-Delabrouille N, 2016, ASTRON ASTROPHYS, V587, DOI 10.1051/0004-6361/201527392
+   Paris I., 2017, A A IN PRESS
+   Paris I, 2017, ASTRON ASTROPHYS, V597, DOI 10.1051/0004-6361/201527999
+   Perryman MAC, 2001, ASTRON ASTROPHYS, V369, P339, DOI 10.1051/0004-6361:20010085
+   Pinsonneault M. H., 2018, APJS UNPUB
+   PRAKASH A, 2016, APJS, V224, DOI DOI 10.3847/0067-0049/224/2/34
+   Predehl P, 2014, PROC SPIE, V9144, DOI 10.1117/12.2055426
+   Queiroz ABA, 2018, MON NOT R ASTRON SOC, V476, P2556, DOI 10.1093/mnras/sty330
+   Raddick MJ, 2014, COMPUT SCI ENG, V16, P22, DOI 10.1109/MCSE.2014.34
+   Raddick MJ, 2014, COMPUT SCI ENG, V16, P32, DOI 10.1109/MCSE.2014.32
+   Raichoor A, 2017, MON NOT R ASTRON SOC, V471, P3955, DOI 10.1093/mnras/stx1790
+   Raichoor A, 2016, ASTRON ASTROPHYS, V585, DOI [10.1051/0004-6361/201526486, 10.1051/0004-6361/20156486]
+   Rockosi C., 2009, ASTRO2010 ASTRONOMY
+   Ruan JJ, 2016, ASTROPHYS J, V826, DOI 10.3847/0004-637X/826/2/188
+   Runnoe JC, 2016, MON NOT R ASTRON SOC, V455, P1691, DOI 10.1093/mnras/stv2385
+   Sako M., 2014, ARXIV14013317
+   Salvato M, 2018, MON NOT R ASTRON SOC, V473, P4937, DOI 10.1093/mnras/stx2651
+   Sanchez SF, 2017, MON NOT R ASTRON SOC, V469, P2121, DOI 10.1093/mnras/stx808
+   Sanchez SF, 2016, REV MEX ASTRON ASTR, V52, P171
+   Sanchez SF, 2016, REV MEX ASTRON ASTR, V52, P21
+   Sanchez SF, 2012, ASTRON ASTROPHYS, V538, DOI 10.1051/0004-6361/201117353
+   Sanchez S. F., 2017, RMXAA UNPUB
+   Sanchez-Menguiano L, 2016, ASTRON ASTROPHYS, V587, DOI 10.1051/0004-6361/201527450
+   Santiago BX, 2016, ASTRON ASTROPHYS, V585, DOI 10.1051/0004-6361/201323177
+   Saxton RD, 2008, ASTRON ASTROPHYS, V480, P611, DOI 10.1051/0004-6361:20079193
+   Schultheis M, 2014, ASTRON J, V148, DOI 10.1088/0004-6256/148/1/24
+   Shen Y, 2016, ASTROPHYS J, V818, DOI 10.3847/0004-637X/818/1/30
+   Shen Y, 2015, ASTROPHYS J SUPPL S, V216, DOI 10.1088/0067-0049/216/1/4
+   Smee SA, 2013, ASTRON J, V146, DOI 10.1088/0004-6256/146/2/32
+   Steinmetz M, 2006, ASTRON J, V132, P1645, DOI 10.1086/506564
+   Stoughton C, 2002, ASTRON J, V123, P485, DOI 10.1086/324741
+   Thakar AR, 2008, COMPUT SCI ENG, V10, P30, DOI 10.1109/MCSE.2008.15
+   Thakar AR, 2008, COMPUT SCI ENG, V10, P9, DOI 10.1109/MCSE.2008.17
+   Voges W, 1999, ASTRON ASTROPHYS, V349, P389
+   Wake DA, 2017, ASTRON J, V154, DOI 10.3847/1538-3881/aa7ecc
+   Wang JL, 2016, MON NOT R ASTRON SOC, V460, P3179, DOI 10.1093/mnras/stw1183
+   Weijmans A. - M., 2016, ARXIV161205668
+   Weijmans AM, 2016, ASTR SOC P, V507, P257
+   Wilkinson DM, 2017, MON NOT R ASTRON SOC, V472, P4297, DOI 10.1093/mnras/stx2215
+   Wilkinson DM, 2015, MON NOT R ASTRON SOC, V449, P328, DOI 10.1093/mnras/stv301
+   Yan R., 2017, ARXIV170804688
+   YAN R, 2016, AJ, V152, P197, DOI DOI 10.3847/0004-6256/152/6/197
+   Yan RB, 2016, ASTRON J, V151, DOI 10.3847/0004-6256/151/1/8
+   Yanny B, 2009, ASTRON J, V137, P4377, DOI 10.1088/0004-6256/137/5/4377
+   York DG, 2000, ASTRON J, V120, P1579, DOI 10.1086/301513
+   Zacharias N, 2013, ASTRON J, V145, DOI 10.1088/0004-6256/145/2/44
+   Zasowski G., 2017, ARXIV170800155
+   Zhao GB, 2016, MON NOT R ASTRON SOC, V457, P2377, DOI 10.1093/mnras/stw135
+   Zhu G. B., 2017, MNRAS, V468, P4494
+   Zucker DB, 2012, ASTR SOC P, V458, P421
+NR 135
+TC 153
+Z9 154
+U1 9
+U2 54
+PU IOP PUBLISHING LTD
+PI BRISTOL
+PA TEMPLE CIRCUS, TEMPLE WAY, BRISTOL BS1 6BE, ENGLAND
+SN 0067-0049
+EI 1538-4365
+J9 ASTROPHYS J SUPPL S
+JI Astrophys. J. Suppl. Ser.
+PD APR
+PY 2018
+VL 235
+IS 2
+AR 42
+DI 10.3847/1538-4365/aa9e8a
+PG 19
+WC Astronomy & Astrophysics
+SC Astronomy & Astrophysics
+GA GD4MP
+UT WOS:000430477600004
+OA Green Published, Other Gold
+HC Y
+HP Y
+DA 2019-06-15
+ER
+
+PT J
+AU Chou, CH
+   Shrestha, S
+   Yang, CD
+   Chang, NW
+   Lin, YL
+   Liao, KW
+   Huang, WC
+   Sun, TH
+   Tu, SJ
+   Lee, WH
+   Chiew, MY
+   Tai, CS
+   Wei, TY
+   Tsai, TR
+   Huang, HT
+   Wang, CY
+   Wu, HY
+   Ho, SY
+   Chen, PR
+   Chuang, CH
+   Hsieh, PJ
+   Wu, YS
+   Chen, WL
+   Li, MJ
+   Wu, YC
+   Huang, XY
+   Ng, FL
+   Buddhakosai, W
+   Huang, PC
+   Lan, KC
+   Huang, CY
+   Weng, SL
+   Cheng, YN
+   Liang, C
+   Hsu, WL
+   Huang, HD
+AF Chou, Chih-Hung
+   Shrestha, Sirjana
+   Yang, Chi-Dung
+   Chang, Nai-Wen
+   Lin, Yu-Ling
+   Liao, Kuang-Wen
+   Huang, Wei-Chi
+   Sun, Ting-Hsuan
+   Tu, Siang-Jyun
+   Lee, Wei-Hsiang
+   Chiew, Men-Yee
+   Tai, Chun-San
+   Wei, Ting-Yen
+   Tsai, Tzi-Ren
+   Huang, Hsin-Tzu
+   Wang, Chung-Yu
+   Wu, Hsin-Yi
+   Ho, Shu-Yi
+   Chen, Pin-Rong
+   Chuang, Cheng-Hsun
+   Hsieh, Pei-Jung
+   Wu, Yi-Shin
+   Chen, Wen-Liang
+   Li, Meng-Ju
+   Wu, Yu-Chun
+   Huang, Xin-Yi
+   Ng, Fung Ling
+   Buddhakosai, Waradee
+   Huang, Pei-Chun
+   Lan, Kuan-Chun
+   Huang, Chia-Yen
+   Weng, Shun-Long
+   Cheng, Yeong-Nan
+   Liang, Chao
+   Hsu, Wen-Lian
+   Huang, Hsien-Da
+TI miRTarBase update 2018: a resource for experimentally validated
+   microRNA-target interactions
+SO NUCLEIC ACIDS RESEARCH
+LA English
+DT Article
+ID INTEGRATIVE ANALYSIS; CANCER; TRANSCRIPTOME; DATABASE; PROTEIN; SITES;
+   WIDE; IDENTIFICATION; ASSOCIATION; PATHWAYS
+AB MicroRNAs (miRNAs) are small non-coding RNAs of similar to 22 nucleotides that are involved in negative regulation of mRNA at the post-transcriptional level. Previously, we developed miRTarBase which provides information about experimentally validated miRNA-target interactions (MTIs). Here, we describe an updated database containing 422 517 curated MTIs from 4076 miRNAs and 23 054 target genes collected from over 8500 articles. The number of MTIs curated by strong evidence has increased similar to 1.4-fold since the last update in 2016. In this updated version, target sites validated by reporter assay that are available in the literature can be downloaded. The target site sequence can extract new features for analysis via a machine learning approach which can help to evaluate the performance of miRNA-target prediction tools. Furthermore, different ways of browsing enhance user browsing specific MTIs. With these improvements, miRTarBase serves as more comprehensively annotated, experimentally validated miRNA-target interactions databases in the field of miRNA related research. miRTarBase is available at http://miRTarBase.mbc.nctu.edu.tw/.
+C1 [Chou, Chih-Hung; Huang, Wei-Chi; Tu, Siang-Jyun; Cheng, Yeong-Nan; Liang, Chao; Huang, Hsien-Da] Natl Chiao Tung Univ, Inst Bioinformat & Syst Biol, Hsinchu 300, Taiwan.
+   [Chou, Chih-Hung; Shrestha, Sirjana; Yang, Chi-Dung; Lin, Yu-Ling; Liao, Kuang-Wen; Huang, Wei-Chi; Sun, Ting-Hsuan; Lee, Wei-Hsiang; Chiew, Men-Yee; Tai, Chun-San; Tsai, Tzi-Ren; Huang, Hsin-Tzu; Ho, Shu-Yi; Hsieh, Pei-Jung; Wu, Yi-Shin; Chen, Wen-Liang; Li, Meng-Ju; Wu, Yu-Chun; Huang, Xin-Yi; Ng, Fung Ling; Buddhakosai, Waradee; Huang, Chia-Yen; Huang, Hsien-Da] Natl Chiao Tung Univ, Dept Biol Sci & Technol, Hsinchu 300, Taiwan.
+   [Yang, Chi-Dung] Natl Hlth Res Inst, Inst Populat Hlth Sci, Miaoli 350, Taiwan.
+   [Chang, Nai-Wen] Natl Taiwan Univ, Grad Inst Biomed Elect & Bioinformat, Taipei 106, Taiwan.
+   [Lin, Yu-Ling] Natl Chiao Tung Univ, Ctr Bioinformat Res, Hsinchu 300, Taiwan.
+   [Liao, Kuang-Wen; Wang, Chung-Yu; Wu, Hsin-Yi; Chen, Pin-Rong; Chuang, Cheng-Hsun; Lan, Kuan-Chun] Natl Chiao Tung Univ, Inst Mol Med & Bioengn, Hsinchu 300, Taiwan.
+   [Lee, Wei-Hsiang] Chung Shan Med Univ Hosp, Clin Res Ctr, Taichung 402, Taiwan.
+   [Wei, Ting-Yen] Natl Tsing Hua Univ, Interdisciplinary Program Life Sci, Hsinchu 300, Taiwan.
+   [Li, Meng-Ju] Natl Taiwan Univ Hosp, Dept Pediat, Hsinchu Branch, Hsinchu 300, Taiwan.
+   [Huang, Pei-Chun] Natl Taiwan Univ Hosp, Hsinchu Branch, Dept Nursing, Delivery Room, Hsinchu 300, Taiwan.
+   [Huang, Chia-Yen] Cathay Gen Hosp, Dept Obstet & Gynecol, Gynecol Canc Ctr, Taipei 106, Taiwan.
+   [Weng, Shun-Long] Hsinchu Mackay Mem Hosp, Dept Obstet & Gynecol, Hsinchu 300, Taiwan.
+   [Weng, Shun-Long] Mackay Med Nursing & Management Coll, Taipei 112, Taiwan.
+   [Weng, Shun-Long] Mackay Med Coll, Dept Med, New Taipei 252, Taiwan.
+   [Hsu, Wen-Lian] Acad Sinica, Inst Informat Sci, Taipei 115, Taiwan.
+   [Huang, Hsien-Da] Chinese Univ Hong Kong Shenzhen, Warshel Inst Computat Biol, Shenzhen 518172, Guangdong, Peoples R China.
+   [Huang, Hsien-Da] Chinese Univ Hong Kong Shenzhen, Sch Sci & Engn, Shenzhen 518172, Guangdong, Peoples R China.
+RP Huang, HD (reprint author), Natl Chiao Tung Univ, Inst Bioinformat & Syst Biol, Hsinchu 300, Taiwan.; Huang, HD (reprint author), Natl Chiao Tung Univ, Dept Biol Sci & Technol, Hsinchu 300, Taiwan.; Huang, HD (reprint author), Chinese Univ Hong Kong Shenzhen, Warshel Inst Computat Biol, Shenzhen 518172, Guangdong, Peoples R China.; Huang, HD (reprint author), Chinese Univ Hong Kong Shenzhen, Sch Sci & Engn, Shenzhen 518172, Guangdong, Peoples R China.
+EM bryan@mail.nctu.edu.tw
+RI ravegnini, gloria/K-1330-2016; Zhang, Huaan/E-4836-2018; Chou,
+   Chih-Hung/K-9077-2015
+OI ravegnini, gloria/0000-0002-7774-402X; Chou,
+   Chih-Hung/0000-0001-5714-1718; Lan, Kuan-Chun/0000-0002-4320-5394
+FU Ministry of Science and Technology, Taiwan [MOST 103-2628-B-009-001-MY3,
+   MOST 106-2627-M-009-002, MOST 106-2319-B-400-001, MOST
+   106-2633-B-009-001]; 'Aiming for the Top University Program' of the
+   National Chiao Tung University and Ministry of Education, Taiwan
+   [MOHW106-TDU-B-212-144005, MMH-HB-10602]
+FX Ministry of Science and Technology, Taiwan [MOST 103-2628-B-009-001-MY3,
+   MOST 106-2627-M-009-002, MOST 106-2319-B-400-001, MOST
+   106-2633-B-009-001]; 'Aiming for the Top University Program' of the
+   National Chiao Tung University and Ministry of Education, Taiwan
+   [MOHW106-TDU-B-212-144005, MMH-HB-10602]. Funding for open access
+   charge: Ministry of Science and Technology, Taiwan [MOST
+   106-2627-M-009-002, MOST 106-2319-B-400-001, MOST 106-2633-B-009-001].
+CR Agarwal V, 2015, ELIFE, V4, DOI 10.7554/eLife.05005
+   Aguirre AJ, 2017, CANCER CELL, V32, P185, DOI 10.1016/j.ccell.2017.07.007
+   Barrett T, 2013, NUCLEIC ACIDS RES, V41, pD991, DOI 10.1093/nar/gks1193
+   Bartel DP, 2004, CELL, V116, P281, DOI 10.1016/S0092-8674(04)00045-5
+   Betel D, 2010, GENOME BIOL, V11, DOI 10.1186/gb-2010-11-8-r90
+   Burk RD, 2017, NATURE, V543, P378, DOI 10.1038/nature21386
+   Chang N.-W., 2016, BIOINF BIOENG BIBE 2, P79
+   Chang Y. C., 2015, 53 ANN M ASS COMP LI, P775
+   Chang Y.-C., 2014, INT C IND ENG OTH AP, P339
+   Chang YC, 2017, SOFT COMPUT, V21, P391, DOI 10.1007/s00500-015-1695-4
+   Chen DL, 2010, J CELL PHYSIOL, V225, P296, DOI 10.1002/jcp.22234
+   Chen QL, 2015, EVID-BASED COMPL ALT, DOI 10.1155/2015/238495
+   Chou CH, 2016, NUCLEIC ACIDS RES, V44, pD239, DOI 10.1093/nar/gkv1258
+   Chou CH, 2013, BMC GENOMICS, V14, DOI 10.1186/1471-2164-14-S1-S2
+   Deng M, 2016, BMC BIOINFORMATICS, V17, DOI 10.1186/s12859-016-0917-9
+   Didiano D, 2006, NAT STRUCT MOL BIOL, V13, P849, DOI 10.1038/nsmb1138
+   Hafner M, 2010, CELL, V141, P129, DOI 10.1016/j.cell.2010.03.009
+   Hamilton MP, 2016, NEOPLASIA, V18, P356, DOI 10.1016/j.neo.2016.04.008
+   Helwak A, 2013, CELL, V153, P654, DOI 10.1016/j.cell.2013.03.043
+   Hsu SD, 2014, NUCLEIC ACIDS RES, V42, pD78, DOI 10.1093/nar/gkt1266
+   Hsu SD, 2011, NUCLEIC ACIDS RES, V39, pD163, DOI 10.1093/nar/gkq1107
+   Huang DW, 2009, NAT PROTOC, V4, P44, DOI 10.1038/nprot.2008.211
+   Jiang QH, 2009, NUCLEIC ACIDS RES, V37, pD98, DOI 10.1093/nar/gkn714
+   Kanehisa M, 2017, NUCLEIC ACIDS RES, V45, pD353, DOI 10.1093/nar/gkw1092
+   Khan FM, 2017, NAT COMMUN, V8, DOI 10.1038/s41467-017-00268-2
+   Kozomara A, 2014, NUCLEIC ACIDS RES, V42, pD68, DOI 10.1093/nar/gkt1181
+   Krell J, 2016, GENOME RES, V26, P331, DOI 10.1101/gr.191759.115
+   Kuhn DE, 2008, METHODS, V44, P47, DOI 10.1016/j.ymeth.2007.09.005
+   Lee YJ, 2015, DRUG DEVELOP RES, V76, P389, DOI 10.1002/ddr.21278
+   Li Y, 2014, NUCLEIC ACIDS RES, V42, pD1070, DOI 10.1093/nar/gkt1023
+   Lima RT, 2011, EUR J CANCER, V47, P163, DOI 10.1016/j.ejca.2010.11.005
+   Luna JM, 2017, MOL CELL, V67, P400, DOI 10.1016/j.molcel.2017.06.025
+   Maglott D, 2011, NUCLEIC ACIDS RES, V39, pD52, DOI 10.1093/nar/gkq1237
+   Naeem Haroon, 2010, BMC Bioinformatics, V11, P135, DOI 10.1186/1471-2105-11-135
+   O'Leary Nuala A, 2016, Nucleic Acids Res, V44, pD733, DOI 10.1093/nar/gkv1189
+   Rajewsky N, 2006, NAT GENET, V38, pS8, DOI 10.1038/ng1798
+   Rupaimoole R, 2017, NAT REV DRUG DISCOV, V16, P203, DOI [10.1038/nrd.2016246, 10.1038/nrd.2016.246]
+   Schmeier S., 2011, BMC SYST BIOL, V5
+   Shivdasani RA, 2006, BLOOD, V108, P3646, DOI 10.1182/blood-2006-01-030015
+   Spengler RM, 2016, NUCLEIC ACIDS RES, V44, P7120, DOI 10.1093/nar/gkw640
+   Suzuki HI, 2017, CELL, V168, P1000, DOI 10.1016/j.cell.2017.02.015
+   Thomson DW, 2011, NUCLEIC ACIDS RES, V39, P6845, DOI 10.1093/nar/gkr330
+   Tomczak Katarzyna, 2015, Contemp Oncol (Pozn), V19, pA68, DOI 10.5114/wo.2014.47136
+   Ule J, 2005, METHODS, V37, P376, DOI 10.1016/j.ymeth.2005.07.018
+   Uren PJ, 2012, BIOINFORMATICS, V28, P3013, DOI 10.1093/bioinformatics/bts569
+   Vlachos IS, 2015, NUCLEIC ACIDS RES, V43, pD153, DOI 10.1093/nar/gku1215
+   Wu YE, 2016, NAT NEUROSCI, V19, P1463, DOI 10.1038/nn.4373
+   Xie BY, 2013, BIOINFORMATICS, V29, P638, DOI 10.1093/bioinformatics/btt014
+   Yan WY, 2016, J CANCER, V7, P95, DOI 10.7150/jca.13340
+NR 49
+TC 149
+Z9 151
+U1 16
+U2 30
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 0305-1048
+EI 1362-4962
+J9 NUCLEIC ACIDS RES
+JI Nucleic Acids Res.
+PD JAN 4
+PY 2018
+VL 46
+IS D1
+BP D296
+EP D302
+DI 10.1093/nar/gkx1067
+PG 7
+WC Biochemistry & Molecular Biology
+SC Biochemistry & Molecular Biology
+GA FS1QA
+UT WOS:000419550700045
+PM 29126174
+OA Other Gold, Green Published, Bronze
+HC Y
+HP Y
+DA 2019-06-15
+ER
+
+PT J
+AU Chen, X
+   Yan, CC
+   Zhang, X
+   You, ZH
+AF Chen, Xing
+   Yan, Chenggang Clarence
+   Zhang, Xu
+   You, Zhu-Hong
+TI Long non-coding RNAs and complex diseases: from experimental results to
+   computational models
+SO BRIEFINGS IN BIOINFORMATICS
+LA English
+DT Article
+DE long non-coding RNA; complex disease; lncRNA-disease association
+   prediction; computational model; machine learning; biological network
+ID LNCRNA FUNCTIONAL SIMILARITY; CANCER-RELATED LNCRNAS;
+   HEPATOCELLULAR-CARCINOMA; BREAST-CANCER; LUNG-CANCER; UP-REGULATION;
+   BC200 RNA; H19 GENE; INTEGRATIVE ANNOTATION; CELL-PROLIFERATION
+AB LncRNAs have attracted lots of attentions from researchers worldwide in recent decades. With the rapid advances in both experimental technology and computational prediction algorithm, thousands of lncRNA have been identified in eukaryotic organisms ranging from nematodes to humans in the past few years. More and more research evidences have indicated that lncRNAs are involved in almost the whole life cycle of cells through different mechanisms and play important roles in many critical biological processes. Therefore, it is not surprising that the mutations and dysregulations of lncRNAs would contribute to the development of various human complex diseases. In this review, we first made a brief introduction about the functions of lncRNAs, five important lncRNA-related diseases, five critical disease-related lncRNAs and some important publicly available lncRNA-related databases about sequence, expression, function, etc. Nowadays, only a limited number of lncRNAs have been experimentally reported to be related to human diseases. Therefore, analyzing available lncRNA-disease associations and predicting potential human lncRNA-disease associations have become important tasks of bioinformatics, which would benefit human complex diseases mechanism understanding at lncRNA level, disease biomarker detection and disease diagnosis, treatment, prognosis and prevention. Furthermore, we introduced some state-of-the-art computational models, which could be effectively used to identify disease-related lncRNAs on a large scale and select the most promising disease-related lncRNAs for experimental validation. We also analyzed the limitations of these models and discussed the future directions of developing computational models for lncRNA research.
+C1 [Chen, Xing] China Univ Min & Technol, Sch Informat & Elect Engn, Xuzhou 221116, Peoples R China.
+   [You, Zhu-Hong] China Univ Min & Technol, Sch Comp Sci & Technol, Xuzhou 221116, Peoples R China.
+   [Yan, Chenggang Clarence] Hangzhou Dianzi Univ, Inst Informat & Control, Hangzhou, Zhejiang, Peoples R China.
+   [Zhang, Xu] Shandong Univ, Sch Mech Elect & Informat Engn, Jinan, Peoples R China.
+RP Chen, X (reprint author), China Univ Min & Technol, Sch Informat & Elect Engn, Xuzhou 221116, Peoples R China.; You, ZH (reprint author), China Univ Min & Technol, Sch Comp Sci & Technol, Xuzhou 221116, Peoples R China.
+EM xingchen@amss.ac.cn; zhuhongyou@gmail.com
+RI Chen, Xing/G-6844-2016
+OI Chen, Xing/0000-0001-9028-5342
+FU National Natural Science Foundation of China [11301517, 61572506]
+FX The National Natural Science Foundation of China under Grant nos.
+   11301517 and 61572506.
+CR Alvarez ML, 2011, PLOS ONE, V6, DOI 10.1371/journal.pone.0018671
+   Amaral PP, 2011, NUCLEIC ACIDS RES, V39, pD146, DOI 10.1093/nar/gkq1138
+   Barsheshet A, 2012, NAT REV CARDIOL, V9, P234, DOI 10.1038/nrcardio.2012.10
+   Barsyte-Lovejoy D, 2006, CANCER RES, V66, P5330, DOI 10.1158/0008-5472.CAN-06-0037
+   Bavarva JH, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0067252
+   Beck-Engeser GB, 2008, RETROVIROLOGY, V5, DOI 10.1186/1742-4690-5-4
+   Benetatos L, 2011, INT J CANCER, V129, P773, DOI 10.1002/ijc.26052
+   Bertone P, 2004, SCIENCE, V306, P2242, DOI 10.1126/science.1103388
+   Bhartiya D, 2013, DATABASE-OXFORD, DOI 10.1093/database/bat034
+   Bhartiya D, 2012, EXPERT OPIN DRUG DIS, V7, P503, DOI 10.1517/17460441.2012.682055
+   BRANNAN CI, 1990, MOL CELL BIOL, V10, P28, DOI 10.1128/MCB.10.1.28
+   BROCKDORFF N, 1992, CELL, V71, P515, DOI 10.1016/0092-8674(92)90519-I
+   BROWN CJ, 1992, CELL, V71, P527, DOI 10.1016/0092-8674(92)90520-M
+   Bu DC, 2012, NUCLEIC ACIDS RES, V40, pD210, DOI 10.1093/nar/gkr1175
+   Bussemakers MJG, 1999, CANCER RES, V59, P5975
+   Cabili MN, 2011, GENE DEV, V25, P1915, DOI 10.1101/gad.17446611
+   Calin GA, 2007, CANCER CELL, V12, P215, DOI 10.1016/j.ccr.2007.07.027
+   Chakraborty S, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0108010
+   Cheetham SW, 2013, BRIT J CANCER, V108, P2419, DOI 10.1038/bjc.2013.233
+   Chen G, 2013, NUCLEIC ACIDS RES, V41, pD983, DOI 10.1093/nar/gks1099
+   Chen W, 1997, J PATHOL, V183, P345, DOI 10.1002/(SICI)1096-9896(199711)183:3<345::AID-PATH930>3.0.CO;2-8
+   Chen X, 2016, SCI REP-UK, V6, DOI 10.1038/srep21106
+   Chen X, 2016, MOL BIOSYST, V12, P624, DOI 10.1039/c5mb00697j
+   Chen X, 2015, SCI REP-UK, V5, DOI 10.1038/srep16840
+   Chen X, 2015, SCI REP-UK, V5, DOI 10.1038/srep13877
+   Chen X, 2015, SCI REP-UK, V5, DOI 10.1038/srep13186
+   Chen X, 2015, SCI REP-UK, V5, DOI 10.1038/srep11338
+   Chen X, 2014, SCI REP-UK, V4, DOI 10.1038/srep05501
+   Chen X, 2013, BIOINFORMATICS, V29, P2617, DOI 10.1093/bioinformatics/btt426
+   Chen X, 2012, PLOS ONE, V7, DOI 10.1371/journal.pone.0043425
+   Chen X, 2012, MOL BIOSYST, V8, P2792, DOI 10.1039/c2mb25180a
+   Chen X, 2010, OMICS, V14, P337, DOI 10.1089/omi.2009.0143
+   Cheunsuchon P, 2011, AM J PATHOL, V179, P2120, DOI 10.1016/j.ajpath.2011.07.002
+   Choudhry H, 2015, ONCOGENE, V34, P4546, DOI 10.1038/onc.2014.431
+   Chung SY, 2011, CANCER SCI, V102, P245, DOI 10.1111/j.1349-7006.2010.01737.x
+   Congrains A, 2012, ATHEROSCLEROSIS, V220, P449, DOI 10.1016/j.atherosclerosis.2011.11.017
+   Core LJ, 2008, SCIENCE, V322, P1845, DOI 10.1126/science.1162228
+   CRICK FH, 1961, NATURE, V192, P1227, DOI 10.1038/1921227a0
+   Cui ZL, 2013, UROL ONCOL-SEMIN ORI, V31, P1117, DOI 10.1016/j.urolonc.2011.11.030
+   DeBaun MR, 2002, AM J HUM GENET, V70, P604, DOI 10.1086/338934
+   Derrien T, 2012, GENOME RES, V22, P1775, DOI 10.1101/gr.132159.111
+   Donahue HJ, 2013, BRIEF FUNCT GENOMICS, V12, P391, DOI 10.1093/bfgp/elt019
+   Edenvik P, 2015, LIVER INT, V35, P1862, DOI 10.1111/liv.12764
+   Espinoza CA, 2007, RNA, V13, P583, DOI 10.1261/rna.310307
+   Esteller M, 2011, NAT REV GENET, V12, P861, DOI 10.1038/nrg3074
+   Faghihi MA, 2008, NAT MED, V14, P723, DOI 10.1038/nm1784
+   FEIL R, 1994, DEVELOPMENT, V120, P2933
+   Ferre F, 2016, BRIEF BIOINFORM, V17, P106, DOI 10.1093/bib/bbv031
+   Fu SC, 2015, ALIMENT PHARM THER, V41, P1200, DOI 10.1111/apt.13191
+   Ganegoda GU, 2015, IEEE T NANOBIOSCI, V14, P175, DOI 10.1109/TNB.2015.2391133
+   Geisler S, 2013, NAT REV MOL CELL BIO, V14, P699, DOI 10.1038/nrm3679
+   Gejman R, 2008, J CLIN ENDOCR METAB, V93, P4119, DOI 10.1210/jc.2007-2633
+   Geng YJ, 2011, J INT MED RES, V39, P2119, DOI 10.1177/147323001103900608
+   Gong J, 2015, NUCLEIC ACIDS RES, V43, pD181, DOI 10.1093/nar/gku1000
+   Graham M, 1985, EMBO J, V4, P675
+   Grote P, 2013, DEV CELL, V24, P206, DOI 10.1016/j.devcel.2012.12.012
+   Guan YH, 2007, CLIN CANCER RES, V13, P5745, DOI 10.1158/1078-0432.CCR-06-2882
+   Guay C, 2012, DIABETES OBES METAB, V14, P12, DOI 10.1111/j.1463-1326.2012.01654.x
+   Guffanti A, 2009, BMC GENOMICS, V10, DOI 10.1186/1471-2164-10-163
+   Guo XQ, 2014, TUMOR BIOL, V35, P10591, DOI 10.1007/s13277-014-2548-y
+   Gupta RA, 2010, NATURE, V464, P1071, DOI 10.1038/nature08975
+   Gutschner T, 2013, CANCER RES, V73, P1180, DOI 10.1158/0008-5472.CAN-12-2850
+   Gutschner T, 2012, RNA BIOL, V9, P703, DOI 10.4161/rna.20481
+   Guttman M, 2013, CELL, V154, P240, DOI 10.1016/j.cell.2013.06.009
+   Guttman M, 2010, NAT BIOTECHNOL, V28, P503, DOI 10.1038/nbt.1633
+   Guttman M, 2009, NATURE, V458, P223, DOI 10.1038/nature07672
+   Harrow J, 2012, GENOME RES, V22, P1760, DOI 10.1101/gr.135350.111
+   He SM, 2008, NUCLEIC ACIDS RES, V36, pD170, DOI 10.1093/nar/gkm1011
+   He Y, 2014, CANCER LETT, V344, P20, DOI 10.1016/j.canlet.2013.10.021
+   Hrdlickova B, 2014, BBA-MOL BASIS DIS, V1842, P1910, DOI 10.1016/j.bbadis.2014.03.011
+   Huang JL, 2014, CARCINOGENESIS, V35, P507, DOI 10.1093/carcin/bgt405
+   Huang YA, 2016, ONCOTARGET, V7, P25902, DOI 10.18632/oncotarget.8296
+   Huarte M, 2010, CELL, V142, P409, DOI 10.1016/j.cell.2010.06.040
+   Iacoangeli A, 2004, CARCINOGENESIS, V25, P2125, DOI 10.1093/carcin/bgh228
+   Jalali S, 2015, BIOINFORMATICS, V31, P2241, DOI 10.1093/bioinformatics/btv148
+   Jendrzejewski J, 2012, P NATL ACAD SCI USA, V109, P8646, DOI 10.1073/pnas.1205654109
+   Ji P, 2003, ONCOGENE, V22, P8031, DOI 10.1038/sj.onc.1206928
+   Jiang QH, 2015, NUCLEIC ACIDS RES, V43, pD193, DOI 10.1093/nar/gku1173
+   Jiang YJ, 2014, EXP DERMATOL, V23, P147, DOI 10.1111/exd.12341
+   Jin JJ, 2013, BIOINFORMATICS, V29, P1068, DOI 10.1093/bioinformatics/btt107
+   Johnson R, 2012, NEUROBIOL DIS, V46, P245, DOI 10.1016/j.nbd.2011.12.006
+   Kaneko S, 2010, GENE DEV, V24, P2615, DOI 10.1101/gad.1983810
+   Kapranov P, 2007, SCIENCE, V316, P1484, DOI 10.1126/science.1138341
+   Karagoz K, 2015, OMICS, V19, P115, DOI 10.1089/omi.2014.0135
+   Katayama S, 2005, SCIENCE, V309, P1564, DOI 10.1126/science.1112009
+   Kaya Z, 2012, CIRC RES, V110, P145, DOI 10.1161/CIRCRESAHA.111.243360
+   Khalil AM, 2009, P NATL ACAD SCI USA, V106, P11667, DOI 10.1073/pnas.0904715106
+   Kim NH, 2010, PIGM CELL MELANOMA R, V23, P84, DOI 10.1111/j.1755-148X.2009.00659.x
+   Kim TK, 2010, NATURE, V465, P182, DOI 10.1038/nature09033
+   Kumarswamy R, 2014, CIRC RES, V114, P1569, DOI 10.1161/CIRCRESAHA.114.303915
+   Lander ES, 2001, NATURE, V409, P860, DOI 10.1038/35057062
+   Lee JT, 2009, GENE DEV, V23, P1831, DOI 10.1101/gad.1811209
+   Lehner B, 2002, TRENDS GENET, V18, P63, DOI 10.1016/S0168-9525(02)02598-2
+   Li DJ, 2013, PLOS ONE, V8, DOI 10.1371/journal.pone.0059360
+   Li JW, 2015, BRIEF BIOINFORM, V16, P806, DOI 10.1093/bib/bbu048
+   Li JW, 2014, SCI CHINA LIFE SCI, V57, P852, DOI 10.1007/s11427-014-4692-4
+   Li J, 2013, INT J MOL SCI, V14, P18790, DOI 10.3390/ijms140918790
+   Li XL, 2014, INT J GENOMICS, DOI 10.1155/2014/870597
+   Liao Q, 2011, NUCLEIC ACIDS RES, V39, P3864, DOI 10.1093/nar/gkq1348
+   Liu B, 2015, MOL BIOSYST, V11, P1194, DOI 10.1039/c5mb00050e
+   Liu CN, 2005, NUCLEIC ACIDS RES, V33, pD112, DOI 10.1093/nar/gki041
+   Liu JF, 2012, GENOME RES, V22, P2315, DOI 10.1101/gr.140988.112
+   Liu MX, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0084408
+   LIU WM, 1995, NUCLEIC ACIDS RES, V23, P1758, DOI 10.1093/nar/23.10.1758
+   Liu XH, 2014, MOL CANCER, V13, DOI 10.1186/1476-4598-13-92
+   Liu YJ, 2015, MOL BIOSYST, V11, P384, DOI 10.1039/c4mb00439f
+   Lottin S, 2005, EUR J CANCER, V41, P168, DOI 10.1016/j.ejca.2004.09.025
+   Lottin S, 2002, CARCINOGENESIS, V23, P1885, DOI 10.1093/carcin/23.11.1885
+   Louro R, 2009, GENOMICS, V93, P291, DOI 10.1016/j.ygeno.2008.11.009
+   Lu QS, 2013, BMC GENOMICS, V14, DOI 10.1186/1471-2164-14-651
+   Luo M, 2013, CANCER LETT, V333, P213, DOI 10.1016/j.canlet.2013.01.033
+   Ma HD, 2012, SCI WORLD J, DOI 10.1100/2012/541786
+   Ma LN, 2015, NUCLEIC ACIDS RES, V43, pD187, DOI 10.1093/nar/gku1167
+   Managadze D, 2011, GENOME BIOL EVOL, V3, P1390, DOI 10.1093/gbe/evr116
+   Mariner PD, 2008, MOL CELL, V29, P499, DOI 10.1016/j.molcel.2007.12.013
+   Martens-Uzunova ES, 2014, EUR UROL, V65, P1140, DOI 10.1016/j.eururo.2013.12.003
+   Meng J, 2014, J EXP CLIN CANC RES, V33, DOI 10.1186/s13046-014-0084-7
+   Mercer TR, 2008, P NATL ACAD SCI USA, V105, P716, DOI 10.1073/pnas.0706729105
+   Mercer TR, 2009, NAT REV GENET, V10, P155, DOI 10.1038/nrg2521
+   Mohanty V, 2015, BRIEF FUNCT GENOMICS, V14, P115, DOI 10.1093/bfgp/elu034
+   Moran VA, 2012, NUCLEIC ACIDS RES, V40, P6391, DOI 10.1093/nar/gks296
+   Mourtada-Maarabouni M, 2009, ONCOGENE, V28, P195, DOI 10.1038/onc.2008.373
+   Mus E, 2007, P NATL ACAD SCI USA, V104, P10679, DOI 10.1073/pnas.0701532104
+   Nagano T, 2008, SCIENCE, V322, P1717, DOI 10.1126/science.1163802
+   Nakagawa T, 2013, BIOCHEM BIOPH RES CO, V436, P319, DOI 10.1016/j.bbrc.2013.05.101
+   Nam JW, 2012, GENOME RES, V22, P2529, DOI 10.1101/gr.140475.112
+   Ng SY, 2013, TRENDS GENET, V29, P461, DOI 10.1016/j.tig.2013.03.002
+   Niinuma T, 2012, CANCER RES, V72, P1126, DOI 10.1158/0008-5472.CAN-11-1803
+   Ning SW, 2016, NUCLEIC ACIDS RES, V44, pD980, DOI 10.1093/nar/gkv1094
+   Ning SW, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0103851
+   Palop JJ, 2006, NATURE, V443, P768, DOI 10.1038/nature05289
+   Pandey RR, 2008, MOL CELL, V32, P232, DOI 10.1016/j.molcel.2008.08.022
+   Panzitt K, 2007, GASTROENTEROLOGY, V132, P330, DOI 10.1053/j.gastro.2006.08.026
+   Papait R, 2013, J CARDIOVASC TRANSL, V6, P876, DOI 10.1007/s12265-013-9488-6
+   Paraskevopoulou MD, 2013, NUCLEIC ACIDS RES, V41, pD239, DOI 10.1093/nar/gks1246
+   Park Y, 2012, NAT METHODS, V9, P1134, DOI 10.1038/nmeth.2259
+   Pasmant E, 2007, CANCER RES, V67, P3963, DOI 10.1158/0008-5472.CAN-06-2004
+   Pasmant E, 2011, FASEB J, V25, P444, DOI 10.1096/fj.10-172452
+   Pauli A, 2012, GENOME RES, V22, P577, DOI 10.1101/gr.133009.111
+   Gallart AP, 2016, NUCLEIC ACIDS RES, V44, pD1161, DOI 10.1093/nar/gkv1215
+   Pibouin L, 2002, CANCER GENET CYTOGEN, V133, P55, DOI 10.1016/S0165-4608(01)00634-3
+   Poliseno L, 2010, NATURE, V465, P1033, DOI 10.1038/nature09144
+   Ponting CP, 2009, CELL, V136, P629, DOI 10.1016/j.cell.2009.02.006
+   Preker P, 2008, SCIENCE, V322, P1851, DOI 10.1126/science.1164096
+   Qi P, 2013, MODERN PATHOL, V26, P155, DOI 10.1038/modpathol.2012.160
+   Qiu MT, 2013, TUMOR BIOL, V34, P613, DOI 10.1007/s13277-013-0658-6
+   Quek XC, 2015, NUCLEIC ACIDS RES, V43, pD168, DOI 10.1093/nar/gku988
+   Qureshi IA, 2010, BRAIN RES, V1338, P20, DOI 10.1016/j.brainres.2010.03.110
+   Rinn JL, 2007, CELL, V129, P1311, DOI 10.1016/j.cell.2007.05.022
+   Rinn JL, 2012, ANNU REV BIOCHEM, V81, P145, DOI 10.1146/annurev-biochem-051410-092902
+   Rodriguez BAT, 2011, CARCINOGENESIS, V32, P812, DOI 10.1093/carcin/bgr017
+   Salmena L, 2011, CELL, V146, P353, DOI 10.1016/j.cell.2011.07.014
+   Saxena A, 2011, BIOESSAYS, V33, P830, DOI 10.1002/bies.201100084
+   Schonrock N, 2012, CIRC RES, V111, P1349, DOI 10.1161/CIRCRESAHA.112.268953
+   Schonrock N, 2012, CELL MOL LIFE SCI, V69, P3543, DOI 10.1007/s00018-012-1125-z
+   Scott RH, 2012, ONCOTARGET, V3, P327
+   Shi X., 2013, MOL CARCINOG, V54, pE1
+   Shi XF, 2013, CANCER LETT, V339, P159, DOI 10.1016/j.canlet.2013.06.013
+   Song PP, 2013, BIOSCI TRENDS, V7, P1, DOI 10.5582/bst.2013.v7.1.1
+   Spizzo R, 2012, ONCOGENE, V31, P4577, DOI 10.1038/onc.2011.621
+   Sun J, 2014, MOL BIOSYST, V10, P2074, DOI 10.1039/c3mb70608g
+   Svoboda M, 2014, CARCINOGENESIS, V35, P1510, DOI 10.1093/carcin/bgu055
+   Taft RJ, 2007, BIOESSAYS, V29, P288, DOI 10.1002/bies.20544
+   Taft RJ, 2010, J PATHOL, V220, P126, DOI 10.1002/path.2638
+   Tahira AC, 2011, MOL CANCER, V10, DOI 10.1186/1476-4598-10-141
+   Takahashi Y, 2014, BRIT J CANCER, V110, P164, DOI 10.1038/bjc.2013.698
+   Tan L, 2013, MOL NEUROBIOL, V47, P382, DOI 10.1007/s12035-012-8359-5
+   Tanaka K, 2001, ONCOLOGY-BASEL, V60, P268, DOI 10.1159/000055328
+   Tano K, 2010, FEBS LETT, V584, P4575, DOI 10.1016/j.febslet.2010.10.008
+   Terranova R, 2008, DEV CELL, V15, P668, DOI 10.1016/j.devcel.2008.08.015
+   Tessier CR, 2004, CANCER RES, V64, P209, DOI 10.1158/0008-5472.CAN-03-2927
+   Tsai MC, 2011, CANCER RES, V71, P3, DOI 10.1158/0008-5472.CAN-10-2483
+   Tsai MC, 2010, SCIENCE, V329, P689, DOI 10.1126/science.1192002
+   Umlauf D, 2004, NAT GENET, V36, P1296, DOI 10.1038/ng1467
+   van Poppel H, 2012, BJU INT, V109, P360, DOI 10.1111/j.1464-410X.2011.10377.x
+   Venook AP, 2010, ONCOLOGIST, V15, P5, DOI 10.1634/theoncologist.2010-S4-05
+   Vincent-Salomon A, 2007, CANCER RES, V67, P5134, DOI 10.1158/0008-5472.CAN-07-0465
+   Volders PJ, 2015, NUCLEIC ACIDS RES, V43, P4363, DOI 10.1093/nar/gkv295
+   Volders PJ, 2013, NUCLEIC ACIDS RES, V41, pD246, DOI 10.1093/nar/gks915
+   Wallace C, 2010, NAT GENET, V42, P68, DOI 10.1038/ng.493
+   Wang HM, 2015, INT J CLIN EXP MED, V8, P11824
+   Wang JY, 2010, NUCLEIC ACIDS RES, V38, P5366, DOI 10.1093/nar/gkq285
+   Wang JQ, 2014, BIOMED PHARMACOTHER, V68, P557, DOI 10.1016/j.biopha.2014.04.007
+   Wang KC, 2011, MOL CELL, V43, P904, DOI 10.1016/j.molcel.2011.08.018
+   Wang Y, 2013, CELL DEATH DIS, V4, DOI [10.1038/cddis.2013.480, 10.1038/cddis.2013.292]
+   Wapinski O, 2011, TRENDS CELL BIOL, V21, P354, DOI 10.1016/j.tcb.2011.04.001
+   Wei Q, 2015, LAB INVEST, V95, P804, DOI 10.1038/labinvest.2015.63
+   White NM, 2014, GENOME BIOL, V15, DOI 10.1186/s13059-014-0429-8
+   Wilusz JE, 2009, GENE DEV, V23, P1494, DOI 10.1101/gad.1800909
+   Wood SL, 2015, CANCER TREAT REV, V41, P361, DOI 10.1016/j.ctrv.2015.02.008
+   Xie CY, 2014, NUCLEIC ACIDS RES, V42, pD98, DOI 10.1093/nar/gkt1222
+   Yang F, 2013, MOL CELL, V49, P1083, DOI 10.1016/j.molcel.2013.01.010
+   Yang F, 2011, HEPATOLOGY, V54, P1679, DOI 10.1002/hep.24563
+   Yang GD, 2014, BBA-GENE REGUL MECH, V1839, P1097, DOI 10.1016/j.bbagrm.2014.08.012
+   Yang XF, 2014, PLOS ONE, V9, DOI 10.1371/journal.pone.0087797
+   Yang Z, 2011, ANN SURG ONCOL, V18, P1243, DOI 10.1245/s10434-011-1581-y
+   Yanofsky C, 2007, CELL, V128, P815, DOI 10.1016/j.cell.2007.02.029
+   Yin YF, 2007, BMC BIOINFORMATICS, V8, DOI 10.1186/1471-2105-8-319
+   Ying L, 2012, MOL BIOSYST, V8, P2289, DOI 10.1039/c2mb25070e
+   Yotsukura S, 2016, BRIEF BIOINFORM
+   Yuan JH, 2014, CANCER CELL, V25, P666, DOI 10.1016/j.ccr.2014.03.010
+   Zhang A, 2014, J MOL CELL BIOL, V6, P181, DOI 10.1093/jmcb/mju013
+   Zhang EB, 2014, CELL DEATH DIS, V5, DOI 10.1038/cddis.2014.201
+   Zhang L, 2013, CARCINOGENESIS, V34, P577, DOI 10.1093/carcin/bgs381
+   Zhang Q, 2013, MBIO, V4, DOI 10.1128/mBio.00596-12
+   Zhang X, 2003, J CLIN ENDOCR METAB, V88, P5119, DOI 10.1210/jc.2003-030222
+   Zhang Zheng, 2012, Zhonghua Yi Xue Za Zhi, V92, P384
+   Zhao J, 2005, J CLIN ENDOCR METAB, V90, P2179, DOI 10.1210/jc.2004-1848
+   Zhao J, 2008, SCIENCE, V322, P750, DOI 10.1126/science.1163045
+   Zhao TT, 2015, MOL BIOSYST, V11, P126, DOI 10.1039/c4mb00478g
+   Zhao WH, 2014, SCI REP-UK, V4, DOI 10.1038/srep06591
+   Zhao Y, 2016, NUCLEIC ACIDS RES, V44, pD203, DOI 10.1093/nar/gkv1252
+   Zhou M, 2015, MOL BIOSYST, V11, P760, DOI 10.1039/c4mb00511b
+   Zhu JJ, 2013, SCI CHINA LIFE SCI, V56, P876, DOI 10.1007/s11427-013-4553-6
+   Zhuang Y, 2013, J HEMATOL ONCOL, V6, DOI 10.1186/1756-8722-6-35
+NR 215
+TC 147
+Z9 148
+U1 25
+U2 25
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1467-5463
+EI 1477-4054
+J9 BRIEF BIOINFORM
+JI Brief. Bioinform.
+PD JUL
+PY 2017
+VL 18
+IS 4
+BP 558
+EP 576
+DI 10.1093/bib/bbw060
+PG 19
+WC Biochemical Research Methods; Mathematical & Computational Biology
+SC Biochemistry & Molecular Biology; Mathematical & Computational Biology
+GA FA8SX
+UT WOS:000405717400002
+PM 27345524
+OA Bronze
+HC Y
+HP Y
+DA 2019-06-15
+ER
+
+PT J
+AU Biamonte, J
+   Wittek, P
+   Pancotti, N
+   Rebentrost, P
+   Wiebe, N
+   Lloyd, S
+AF Biamonte, Jacob
+   Wittek, Peter
+   Pancotti, Nicola
+   Rebentrost, Patrick
+   Wiebe, Nathan
+   Lloyd, Seth
+TI Quantum machine learning
+SO NATURE
+LA English
+DT Review
+ID ALGORITHMS; NETWORKS; SYSTEMS
+AB Fuelled by increasing computer power and algorithmic advances, machine learning techniques have become powerful tools for finding patterns in data. Quantum systems produce atypical patterns that classical systems are thought not to produce efficiently, so it is reasonable to postulate that quantum computers may outperform classical computers on machine learning tasks. The field of quantum machine learning explores how to devise and implement quantum software that could enable machine learning that is faster than that of classical computers. Recent work has produced quantum algorithms that could act as the building blocks of machine learning programs, but the hardware and software challenges are still considerable.
+C1 [Biamonte, Jacob] Skolkovo Inst Sci & Technol, Quantum Complex Sci Initiat, Skoltech Bldg 3, Moscow 143026, Russia.
+   [Biamonte, Jacob] Univ Waterloo, Inst Quantum Comp, Waterloo, ON N2L 3G1, Canada.
+   [Wittek, Peter] ICFO, Barcelona 08860, Spain.
+   [Pancotti, Nicola] Max Planck Inst Quantum Opt, 1 Hans Kopfermannstr, D-85748 Garching, Germany.
+   [Rebentrost, Patrick] MIT, Elect Res Lab, Cambridge, MA 02139 USA.
+   [Wiebe, Nathan] Microsoft Res, Stn Q, Quantum Architectures & Computat Grp, Redmond, WA 98052 USA.
+   [Lloyd, Seth] MIT, Dept Mech Engn, Cambridge, MA 02139 USA.
+RP Biamonte, J (reprint author), Skolkovo Inst Sci & Technol, Quantum Complex Sci Initiat, Skoltech Bldg 3, Moscow 143026, Russia.; Biamonte, J (reprint author), Univ Waterloo, Inst Quantum Comp, Waterloo, ON N2L 3G1, Canada.
+EM jacob.biamonte@qubit.org
+RI Biamonte, Jacob/E-5633-2010
+OI Biamonte, Jacob/0000-0002-0590-3327
+FU AFOSR [FA9550-16-1-0300]; ERC; Spanish Ministry of Economy and
+   Competitiveness (Severo Ochoa Programme for Centres of Excellence in RD)
+   [SEV-2015-0522, QIBEQI FIS2016-80773-P]; Generalitat de Catalunya (CERCA
+   Programme); Generalitat de Catalunya [SGR 875]; Fundacio Privada Cellex;
+   ARO under MURI programme; AFOSR under MURI programme
+FX J.B. acknowledges financial support from AFOSR grant FA9550-16-1-0300,
+   Models and Protocols for Quantum Distributed Computation. P.W.
+   acknowledges financial support from the ERC (Consolidator Grant QITBOX),
+   Spanish Ministry of Economy and Competitiveness (Severo Ochoa Programme
+   for Centres of Excellence in R&D SEV-2015-0522 and QIBEQI
+   FIS2016-80773-P), Generalitat de Catalunya (CERCA Programme and SGR
+   875), and Fundacio Privada Cellex. P.R. and S.L. acknowledge funding
+   from ARO and AFOSR under MURI programmes. We thank L. Zheglova for
+   producing Fig. 1.
+CR Aaronson S, 2015, NAT PHYS, V11, P291, DOI 10.1038/nphys3272
+   Adachi S. H., 2015, APPL QUANTUM ANNEALI
+   Adcock J., 2015, ADV QUANTUM MACHINE
+   Aimeur E, 2006, MACHINE LEARNING QUA, P431
+   Alvarez-Rodriguez U., 2016, QUANTUM MACHINE LEAR
+   Amin M. H., 2016, QUANTUM BOLTZMANN MA
+   AMSTRUP B, 1995, J PHYS CHEM-US, V99, P5206, DOI 10.1021/j100014a048
+   Anguita D, 2003, NEURAL NETWORKS, V16, P763, DOI 10.1016/S0893-6080(03)00087-X
+   Arunachalam S., 2017, SURVEY QUANTUM LEARN
+   Arunachalam S, 2015, NEW J PHYS, V17, DOI 10.1088/1367-2630/17/12/123010
+   August M., 2016, USING RECURRENT NEUR
+   Banchi L, 2016, NPJ QUANTUM INFORM, V2, DOI 10.1038/npjqi.2016.19
+   Benedetti M, 2016, PHYS REV A, V94, DOI 10.1103/PhysRevA.94.022308
+   Biamonte JD, 2008, PHYS REV A, V78, DOI 10.1103/PhysRevA.78.012352
+   Bisio A, 2011, PHYS LETT A, V375, P3425, DOI 10.1016/j.physleta.2011.08.002
+   Bisio A, 2010, PHYS REV A, V81, DOI 10.1103/PhysRevA.81.032324
+   Brandao F. G., 2016, QUANTUM SPEED SEMIDE
+   Broecker P., 2016, MACHINE LEARNING QUA
+   Brunner D, 2013, NAT COMMUN, V4, DOI 10.1038/ncomms2368
+   Cai XD, 2015, PHYS REV LETT, V114, DOI 10.1103/PhysRevLett.114.110504
+   Carleo G, 2017, SCIENCE, V355, P602, DOI 10.1126/science.aag2302
+   Carrasquilla J, 2017, NAT PHYS, V13, P431, DOI [10.1038/nphys4035, 10.1038/NPHYS4035]
+   Chatterjee R., 2016, GEN COHERENT STATES
+   Childs A. M., 2015, QUANTUM LINEAR SYSTE
+   Chowdhury AN, 2017, QUANTUM INF COMPUT, V17, P41
+   Clader BD, 2013, PHYS REV LETT, V110, DOI 10.1103/PhysRevLett.110.250504
+   Paparo GD, 2014, PHYS REV X, V4, DOI 10.1103/PhysRevX.4.031002
+   Denchev V. S., 2015, TOTALLY CORRECTIVE B
+   Denchev V. S., 2012, P 29 INT C MACH LEAR
+   Denil M., 2011, NEUR INF PROC SYST N, V5
+   Dolde F, 2014, NAT COMMUN, V5, DOI 10.1038/ncomms4371
+   Dridi R., 2015, HOMOLOGY COMPUTATION
+   Dumoulin V., 2013, CHALLENGES PHYS IMPL
+   Dunjko V, 2015, NEW J PHYS, V17, DOI 10.1088/1367-2630/17/2/023006
+   Dunjko V, 2016, PHYS REV LETT, V117, DOI 10.1103/PhysRevLett.117.130501
+   Durr C., 1996, QUANTUM ALGORITHM FI
+   Faccin M, 2014, PHYS REV X, V4, DOI 10.1103/PhysRevX.4.041012
+   Farhi  E., 2014, QUANTUM APPROXIMATE
+   Giovannetti V, 2008, PHYS REV LETT, V100, DOI 10.1103/PhysRevLett.100.160501
+   Granade CE, 2012, NEW J PHYS, V14, DOI 10.1088/1367-2630/14/10/103013
+   Harrow AW, 2009, PHYS REV LETT, V103, DOI 10.1103/PhysRevLett.103.150502
+   Hentschel A, 2010, PHYS REV LETT, V104, DOI 10.1103/PhysRevLett.104.063603
+   Heras UL, 2016, PHYS REV LETT, V116, DOI 10.1103/PhysRevLett.116.230504
+   Hermans M, 2015, J MACH LEARN RES, V16, P2081
+   Kapoor A., 2016, ADV NEURAL INFORM PR, V29, P3999
+   Karimi K, 2012, QUANTUM INF PROCESS, V11, P77, DOI 10.1007/s11128-011-0235-0
+   Kerenidis I., 2016, QUANTUM RECOMMENDATI
+   Kieferova M, 2016, TOMOGRAPHY GENERATIV
+   Kimmel S., 2016, HAMILTONIAN SIMULATI
+   Lamata L, 2017, SCI REP-UK, V7, DOI 10.1038/s41598-017-01711-6
+   Lau HK, 2017, PHYS REV LETT, V118, DOI 10.1103/PhysRevLett.118.080501
+   Le QV, 2013, INT CONF ACOUST SPEE, P8595, DOI 10.1109/ICASSP.2013.6639343
+   LeCun Y, 2015, NATURE, V521, P436, DOI 10.1038/nature14539
+   Li ZK, 2015, PHYS REV LETT, V114, DOI 10.1103/PhysRevLett.114.140504
+   Lloyd S, 1996, SCIENCE, V273, P1073, DOI 10.1126/science.273.5278.1073
+   Lloyd  S., 2013, QUANTUM ALGORITHMS S
+   Lloyd S, 2016, NEW J PHYS, V18, DOI 10.1088/1367-2630/18/2/023042
+   Lloyd S, 2016, NAT COMMUN, V7, DOI 10.1038/ncomms10138
+   Lloyd S, 2014, NAT PHYS, V10, P631, DOI [10.1038/NPHYS3029, 10.1038/nphys3029]
+   Lovett NB, 2013, PHYS REV LETT, V110, DOI 10.1103/PhysRevLett.110.220501
+   Low GH, 2014, PHYS REV A, V89, DOI 10.1103/PhysRevA.89.062315
+   Lu D., 2017, QUANTUM SUPREMACY EN
+   Marvian I, 2016, UNIVERSAL QUANTUM EM
+   Mavadia S, 2017, NAT COMMUN, V8, DOI 10.1038/ncomms14106
+   Monras A, 2017, PHYS REV LETT, V118, DOI 10.1103/PhysRevLett.118.190503
+   Neigovzen R, 2009, PHYS REV A, V79, DOI 10.1103/PhysRevA.79.042321
+   Neven H., 2009, DEM NIPS 09 24 ANN C, P1
+   Nielsen M. A., 2000, QUANTUM COMPUTATION
+   O'Gorman B, 2015, EUR PHYS J-SPEC TOP, V224, P163, DOI 10.1140/epjst/e2015-02349-9
+   Palittapongarnpim P, 2016, P 24 EUR S ART NEUR, P327
+   Palittapongarnpim P., NEUROCOMPUTING
+   Pons M, 2007, PHYS REV LETT, V98, DOI 10.1103/PhysRevLett.98.023003
+   Rebentrost P, 2016, QUANTUM GRADIENT DES
+   Rebentrost P., 2016, QUANTUM SINGULAR VAL
+   Rebentrost P, 2014, PHYS REV LETT, V113, DOI 10.1103/PhysRevLett.113.130503
+   Ronnow TF, 2014, SCIENCE, V345, P420, DOI 10.1126/science.1252319
+   ROSENBLATT F, 1958, PSYCHOL REV, V65, P386, DOI 10.1037/h0042519
+   Sasaki M, 2001, PHYS REV A, V64, part. no., DOI 10.1103/PhysRevA.64.022317
+   Scherer A., 2015, CONCRETE RESOURCE AN
+   Scherer A, 2017, QUANTUM INF PROCESS, V16, DOI 10.1007/s11128-016-1495-5
+   Schuld M., 2017, QUANTUM MACHINE LEAR
+   Schuld M, 2016, PHYS REV A, V94, DOI 10.1103/PhysRevA.94.022342
+   Schuld M, 2015, CONTEMP PHYS, V56, P172, DOI 10.1080/00107514.2014.964942
+   Sentis G, 2012, SCI REP-UK, V2, DOI 10.1038/srep00708
+   Sentis G, 2015, EPJ QUANTUM TECHNOL, V2, DOI 10.1140/epjqt/s40507-015-0030-4
+   Sentis G, 2016, PHYS REV LETT, V117, DOI 10.1103/PhysRevLett.117.150502
+   Shor PW, 1997, SIAM J COMPUT, V26, P1484, DOI 10.1137/S0097539795293172
+   Temme K, 2011, NATURE, V471, P87, DOI 10.1038/nature09770
+   Tezak N, 2015, EPJ QUANTUM TECHNOL, V2, DOI 10.1140/epjqt/s40507-015-0023-3
+   Tiersch M, 2015, SCI REP-UK, V5, DOI 10.1038/srep12874
+   Vapnik VN, 1995, NATURE STAT LEARNING
+   Ventura D, 2000, INFORM SCIENCES, V124, P273, DOI 10.1016/S0020-0255(99)00101-2
+   Wan K. H., 2016, QUANTUM GENERALISATI
+   Whitfield JD, 2012, EPL-EUROPHYS LETT, V99, DOI 10.1209/0295-5075/99/57004
+   Wiebe N., 2015, CAN SMALL QUANTUM SY
+   Wiebe  N., 2014, QUANTUM DEEP LEARNIN
+   Wiebe N, 2015, QUANTUM INF COMPUT, V15, P316
+   Wiebe N, 2015, NEW J PHYS, V17, DOI 10.1088/1367-2630/17/2/022005
+   Wiebe N, 2014, PHYS REV LETT, V112, DOI 10.1103/PhysRevLett.112.190501
+   Wiebe N, 2012, PHYS REV LETT, V109, DOI 10.1103/PhysRevLett.109.050505
+   Wittek P, 2014, QUANTUM MACHINE LEARNING: WHAT QUANTUM COMPUTING MEANS TO DATA MINING, P1
+   Wittek P, 2017, SCI REP-UK, V7, DOI 10.1038/srep45672
+   Wossnig L, 2017, QUANTUM LINEAR SYSTE
+   Yung MH, 2012, P NATL ACAD SCI USA, V109, P754, DOI 10.1073/pnas.1111758109
+   Zahedinejad E., 2015, DESIGNING HIGH FIDEL
+   Zahedinejad E, 2016, PHYS REV APPL, V6, DOI 10.1103/PhysRevApplied.6.054005
+   Zahedinejad E, 2015, PHYS REV LETT, V114, DOI 10.1103/PhysRevLett.114.200502
+   Zeidler D, 2001, PHYS REV A, V64, part. no., DOI 10.1103/PhysRevA.64.023420
+   Zhao Z, 2015, QUANTUM ASSISTED GAU
+NR 109
+TC 143
+Z9 144
+U1 79
+U2 235
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+EI 1476-4687
+J9 NATURE
+JI Nature
+PD SEP 14
+PY 2017
+VL 549
+IS 7671
+BP 195
+EP 202
+DI 10.1038/nature23474
+PG 8
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA FG7AE
+UT WOS:000410555900032
+PM 28905917
+HC Y
+HP Y
+DA 2019-06-15
+ER
+
+PT J
+AU Shen, YC
+   Harris, NC
+   Skirlo, S
+   Prabhu, M
+   Baehr-Jones, T
+   Hochberg, M
+   Sun, X
+   Zhao, SJ
+   Larochelle, H
+   Englund, D
+   Soljacic, M
+AF Shen, Yichen
+   Harris, Nicholas C.
+   Skirlo, Scott
+   Prabhu, Mihika
+   Baehr-Jones, Tom
+   Hochberg, Michael
+   Sun, Xin
+   Zhao, Shijie
+   Larochelle, Hugo
+   Englund, Dirk
+   Soljacic, Marin
+TI Deep learning with coherent nanophotonic circuits
+SO NATURE PHOTONICS
+LA English
+DT Article
+ID NEURAL-NETWORKS; PHOTONIC CRYSTALS; IMPLEMENTATION; BISTABILITY;
+   EFFICIENT
+AB Artificial neural networks are computational network models inspired by signal processing in the brain. These models have dramatically improved performance for many machine-learning tasks, including speech and image recognition. However, today's computing hardware is inefficient at implementing neural networks, in large part because much of it was designed for von Neumann computing schemes. Significant effort has been made towards developing electronic architectures tuned to implement artificial neural networks that exhibit improved computational speed and accuracy. Here, we propose a new architecture for a fully optical neural network that, in principle, could offer an enhancement in computational speed and power efficiency over state-of-the-art electronics for conventional inference tasks. We experimentally demonstrate the essential part of the concept using a programmable nanophotonic processor featuring a cascaded array of 56 programmable Mach-Zehnder interferometers in a silicon photonic integrated circuit and show its utility for vowel recognition.
+C1 [Shen, Yichen; Harris, Nicholas C.; Skirlo, Scott; Prabhu, Mihika; Englund, Dirk; Soljacic, Marin] MIT, Elect Res Lab, Cambridge, MA 02139 USA.
+   [Baehr-Jones, Tom; Hochberg, Michael] Elenion, 171 Madison Ave,Suite 1100, New York, NY 10016 USA.
+   [Sun, Xin] MIT, Dept Math, Cambridge, MA 02139 USA.
+   [Zhao, Shijie] MIT, Dept Biol, 77 Massachusetts Ave, Cambridge, MA 02139 USA.
+   [Larochelle, Hugo] Univ Sherbrooke, Adm, 2500 Blvd Univ, Sherbrooke, PQ J1K 2R1, Canada.
+RP Shen, YC; Harris, NC (reprint author), MIT, Elect Res Lab, Cambridge, MA 02139 USA.
+EM ycshen@mit.edu; n_h@mit.edu
+FU Army Research Office through the Institute for Soldier Nanotechnologies
+   [W911NF-13-D0001]; National Science Foundation [CCF-1640012, 1122374];
+   Air Force Office of Scientific Research (AFOSR) Multidisciplinary
+   University Research Initiative [FA9550-14-1-0052]; Air Force Research
+   Laboratory RITA programme [FA8750 14-2-0120]; AFOSR STTR grants
+   [FA9550-12-C-0079, FA9550-12-C-0038]; PECASE award [FA9550-13-1-0027];
+   OpSIS [FA9550-10-1-0439]
+FX The authors thank Y. LeCun, M. Tegmark, G. Pratt, I. Chuang and V. Sze
+   for discussions. This work was supported in part by the Army Research
+   Office through the Institute for Soldier Nanotechnologies under contract
+   no. W911NF-13-D0001 and in part by the National Science Foundation under
+   grant no. CCF-1640012 and in part by the Air Force Office of Scientific
+   Research (AFOSR) Multidisciplinary University Research Initiative
+   (FA9550-14-1-0052) and the Air Force Research Laboratory RITA programme
+   (FA8750 14-2-0120). M.H. acknowledges support from AFOSR STTR grants,
+   numbers FA9550-12-C-0079 and FA9550-12-C-0038 and G. Pomrenke, of AFOSR,
+   for his support of the OpSIS effort, through both a PECASE award
+   (FA9550-13-1-0027) and funding for OpSIS (FA9550-10-1-0439). N.H.
+   acknowledges support from National Science Foundation Graduate Research
+   Fellowship grant no. 1122374.
+CR Appeltant L, 2011, NAT COMMUN, V2, DOI 10.1038/ncomms1476
+   Arjovsky Martin, 2016, INT C MACH LEARN
+   Baehr-Jones T., 2012, PREPRINT
+   Bao QL, 2011, NANO RES, V4, P297, DOI 10.1007/s12274-010-0082-9
+   Bertsimas D, 2010, J GLOBAL OPTIM, V48, P323, DOI 10.1007/s10898-009-9496-x
+   Cardenas J, 2009, OPT EXPRESS, V17, P4752, DOI 10.1364/OE.17.004752
+   Centeno E, 2000, PHYS REV B, V62, pR7683, DOI 10.1103/PhysRevB.62.R7683
+   Chen YH, 2017, IEEE J SOLID-ST CIRC, V52, P127, DOI 10.1109/JSSC.2016.2616357
+   Cheng ZZ, 2014, IEEE J SEL TOP QUANT, V20, DOI 10.1109/JSTQE.2013.2263115
+   Chow D, 2004, LECT NOTES ARTIF INT, V3157, P901
+   Connelly M. J., 2007, SEMICONDUCTOR OPTICA
+   Deterding David Henry, 1990, THESIS
+   Esser SK, 2016, P NATL ACAD SCI USA, V113, P11441, DOI 10.1073/pnas.1604850113
+   FARHAT NH, 1985, APPL OPTICS, V24, P1469, DOI 10.1364/AO.24.001469
+   Graves A, 2016, NATURE, V538, P471, DOI 10.1038/nature20101
+   Harris N. C., 2015, PREPRINT
+   Harris NC, 2014, OPT EXPRESS, V22, P10487, DOI 10.1364/OE.22.010487
+   Hinton GE, 2006, SCIENCE, V313, P504, DOI 10.1126/science.1127647
+   Horowitz M, 2014, ISSCC DIG TECH PAP I, V57, P10, DOI 10.1109/ISSCC.2014.6757323
+   Jia Y., 2014, P 22 ACM INT C MULT, P675, DOI DOI 10.1145/2647868.2654889
+   Krizhevsky A., 2012, ADV NEURAL INFORM PR, P1097, DOI DOI 10.1145/3065386
+   Larger L, 2012, OPT EXPRESS, V20, P3241, DOI 10.1364/OE.20.003241
+   Lawson C. L., 1995, SOLVING LEAST SQUARE, V15
+   LeCun Y, 2015, NATURE, V521, P436, DOI 10.1038/nature14539
+   MEAD C, 1990, P IEEE, V78, P1629, DOI 10.1109/5.58356
+   Miller DAB, 2015, OPTICA, V2, P747, DOI 10.1364/OPTICA.2.000747
+   Misra J, 2010, NEUROCOMPUTING, V74, P239, DOI 10.1016/j.neucom.2010.03.021
+   Mnih V, 2015, NATURE, V518, P529, DOI 10.1038/nature14236
+   Nozaki K, 2010, NAT PHOTONICS, V4, P477, DOI [10.1038/NPHOTON.2010.89, 10.1038/nphoton.2010.89]
+   Paquot Y, 2012, SCI REP-UK, V2, DOI 10.1038/srep00287
+   Poon CS, 2011, FRONT NEUROSCI-SWITZ, V5, DOI 10.3389/fnins.2011.00108
+   Prucnal PR, 2016, ADV OPT PHOTONICS, V8, P228, DOI 10.1364/AOP.8.000228
+   Rechtsman MC, 2013, NATURE, V496, P196, DOI 10.1038/nature12066
+   RECK M, 1994, PHYS REV LETT, V73, P58, DOI 10.1103/PhysRevLett.73.58
+   Rios C, 2015, NAT PHOTONICS, V9, P725, DOI [10.1038/nphoton.2015.182, 10.1038/NPHOTON.2015.182]
+   Schirmer RW, 1997, J OPT SOC AM B, V14, P2865, DOI 10.1364/JOSAB.14.002865
+   Schmidhuber J, 2015, NEURAL NETWORKS, V61, P85, DOI 10.1016/j.neunet.2014.09.003
+   SELDEN AC, 1967, BRIT J APPL PHYS, V18, P743, DOI 10.1088/0508-3443/18/6/306
+   Shafiee A, 2016, CONF PROC INT SYMP C, P14, DOI 10.1109/ISCA.2016.12
+   Silver D, 2016, NATURE, V529, P484, DOI 10.1038/nature16961
+   Soljacic M, 2002, PHYS REV E, V66, DOI 10.1103/PhysRevE.66.055601
+   Sun C, 2015, NATURE, V528, P534, DOI 10.1038/nature16454
+   Sun J, 2013, NATURE, V493, P195, DOI 10.1038/nature11727
+   Tait A. N., 2014, NANOPHOTONIC INFORM, P183, DOI DOI 10.1007/978-3-642-40224-1_8
+   Tait AN, 2014, J LIGHTWAVE TECHNOL, V32, P4029, DOI 10.1109/JLT.2014.2345652
+   Tanabe T, 2005, OPT LETT, V30, P2575, DOI 10.1364/OL.30.002575
+   Vandoorne K, 2014, NAT COMMUN, V5, DOI 10.1038/ncomms4541
+   Vivien L, 2012, OPT EXPRESS, V20, P1096, DOI 10.1364/OE.20.001096
+   Wang Q, 2016, NAT PHOTONICS, V10, P60, DOI [10.1038/NPHOTON.2015.247, 10.1038/nphoton.2015.247]
+   XU B, 1993, PHYS REV LETT, V71, P3959, DOI 10.1103/PhysRevLett.71.3959
+   Yang L., 2013, SPIE OPTICAL ENG APP
+NR 51
+TC 131
+Z9 132
+U1 69
+U2 176
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 1749-4885
+EI 1749-4893
+J9 NAT PHOTONICS
+JI Nat. Photonics
+PD JUL
+PY 2017
+VL 11
+IS 7
+BP 441
+EP +
+DI 10.1038/NPHOTON.2017.93
+PG 7
+WC Optics; Physics, Applied
+SC Optics; Physics
+GA EZ2NP
+UT WOS:000404546300014
+HC Y
+HP Y
+DA 2019-06-15
+ER
+
+PT J
+AU Capper, D
+   Jones, DTW
+   Sill, M
+   Hovestadt, V
+   Schrimpf, D
+   Sturm, D
+   Koelsche, C
+   Sahm, F
+   Chavez, L
+   Reuss, DE
+   Kratz, A
+   Wefers, AK
+   Huang, K
+   Pajtler, KW
+   Schweizer, L
+   Stichel, D
+   Olar, A
+   Engel, NW
+   Lindenberg, K
+   Harter, PN
+   Braczynski, AK
+   Plate, KH
+   Dohmen, H
+   Garvalov, BK
+   Coras, R
+   Holsken, A
+   Hewer, E
+   Bewerunge-Hudler, M
+   Schick, M
+   Fischer, R
+   Beschorner, R
+   Schittenhelm, J
+   Staszewski, O
+   Wani, K
+   Varlet, P
+   Pages, M
+   Temming, P
+   Lohmann, D
+   Selt, F
+   Witt, H
+   Milde, T
+   Witt, O
+   Aronica, E
+   Giangaspero, F
+   Rushing, E
+   Scheurlen, W
+   Geisenberger, C
+   Rodriguez, FJ
+   Becker, A
+   Preusser, M
+   Haberler, C
+   Bjerkvig, R
+   Cryan, J
+   Farrell, M
+   Deckert, M
+   Hench, J
+   Frank, S
+   Serrano, J
+   Kannan, K
+   Tsirigos, A
+   Bruck, W
+   Hofer, S
+   Brehmer, S
+   Seiz-Rosenhagen, M
+   Hanggi, D
+   Hans, V
+   Rozsnoki, S
+   Hansford, JR
+   Kohlhof, P
+   Kristensen, BW
+   Lechner, M
+   Lopes, B
+   Mawrin, C
+   Ketter, R
+   Kulozik, A
+   Khatib, Z
+   Heppner, F
+   Koch, A
+   Jouvet, A
+   Keohane, C
+   Muhleisen, H
+   Mueller, W
+   Poh, U
+   Prinz, M
+   Benner, A
+   Zapatka, M
+   Gottardo, NG
+   Driever, PH
+   Kramm, CM
+   Muller, HL
+   Rutkowski, S
+   von Hoff, K
+   Fruhwald, MC
+   Gnekow, A
+   Fleischhack, G
+   Tippelt, S
+   Calaminus, G
+   Monoranu, CM
+   Perry, A
+   Jones, C
+   Jacques, TS
+   Radlwimmer, B
+   Gessi, M
+   Pietsch, T
+   Schramm, J
+   Schackert, G
+   Westphal, M
+   Reifenberger, G
+   Wesseling, P
+   Weller, M
+   Collins, VP
+   Blumcke, I
+   Bendszus, M
+   Debus, J
+   Huang, A
+   Jabado, N
+   Northcott, PA
+   Paulus, W
+   Gajjar, A
+   Robinson, GW
+   Taylor, MD
+   Jaunmuktane, Z
+   Ryzhova, M
+   Platten, M
+   Unterberg, A
+   Wick, W
+   Karajannis, MA
+   Mittelbronn, M
+   Acker, T
+   Hartmann, C
+   Aldape, K
+   Schuller, U
+   Buslei, R
+   Lichter, P
+   Kool, M
+   Herold-Mende, C
+   Ellison, DW
+   Hasselblatt, M
+   Snuder, M
+   Brandner, S
+   Korshunov, A
+   von Deimling, A
+   Pfister, SM
+AF Capper, David
+   Jones, David T. W.
+   Sill, Martin
+   Hovestadt, Volker
+   Schrimpf, Daniel
+   Sturm, Dominik
+   Koelsche, Christian
+   Sahm, Felix
+   Chavez, Lukas
+   Reuss, David E.
+   Kratz, Annekathrin
+   Wefers, Annika K.
+   Huang, Kristin
+   Pajtler, Kristian W.
+   Schweizer, Leonille
+   Stichel, Damian
+   Olar, Adriana
+   Engel, Nils W.
+   Lindenberg, Kerstin
+   Harter, Patrick N.
+   Braczynski, Anne K.
+   Plate, Karl H.
+   Dohmen, Hildegard
+   Garvalov, Boyan K.
+   Coras, Roland
+   Hoelsken, Annett
+   Hewer, Ekkehard
+   Bewerunge-Hudler, Melanie
+   Schick, Matthias
+   Fischer, Roger
+   Beschorner, Rudi
+   Schittenhelm, Jens
+   Staszewski, Ori
+   Wani, Khalida
+   Varlet, Pascale
+   Pages, Melanie
+   Temming, Petra
+   Lohmann, Dietmar
+   Selt, Florian
+   Witt, Hendrik
+   Milde, Till
+   Witt, Olaf
+   Aronica, Eleonora
+   Giangaspero, Felice
+   Rushing, Elisabeth
+   Scheurlen, Wolfram
+   Geisenberger, Christoph
+   Rodriguez, Fausto J.
+   Becker, Albert
+   Preusser, Matthias
+   Haberler, Christine
+   Bjerkvig, Rolf
+   Cryan, Jane
+   Farrell, Michael
+   Deckert, Martina
+   Hench, Juergen
+   Frank, Stephan
+   Serrano, Jonathan
+   Kannan, Kasthuri
+   Tsirigos, Aristotelis
+   Brueck, Wolfgang
+   Hofer, Silvia
+   Brehmer, Stefanie
+   Seiz-Rosenhagen, Marcel
+   Haenggi, Daniel
+   Hans, Volkmar
+   Rozsnoki, Stephanie
+   Hansford, Jordan R.
+   Kohlhof, Patricia
+   Kristensen, Bjarne W.
+   Lechner, Matt
+   Lopes, Beatriz
+   Mawrin, Christian
+   Ketter, Ralf
+   Kulozik, Andreas
+   Khatib, Ziad
+   Heppner, Frank
+   Koch, Arend
+   Jouvet, Anne
+   Keohane, Catherine
+   Muehleisen, Helmut
+   Mueller, Wolf
+   Pohl, Ute
+   Prinz, Marco
+   Benner, Axel
+   Zapatka, Marc
+   Gottardo, Nicholas G.
+   Driever, Pablo Hernaiz
+   Kramm, Christof M.
+   Mueller, Hermann L.
+   Rutkowski, Stefan
+   von Hoff, Katja
+   Fruehwald, Michael C.
+   Gnekow, Astrid
+   Fleischhack, Gudrun
+   Tippelt, Stephan
+   Calaminus, Gabriele
+   Monoranu, Camelia-Maria
+   Perry, Arie
+   Jones, Chris
+   Jacques, Thomas S.
+   Radlwimmer, Bernhard
+   Gessi, Marco
+   Pietsch, Torsten
+   Schramm, Johannes
+   Schackert, Gabriele
+   Westphal, Manfred
+   Reifenberger, Guido
+   Wesseling, Pieter
+   Weller, Michael
+   Collins, Vincent Peter
+   Bluemcke, Ingmar
+   Bendszus, Martin
+   Debus, Juergen
+   Huang, Annie
+   Jabado, Nada
+   Northcott, Paul A.
+   Paulus, Werner
+   Gajjar, Amar
+   Robinson, Giles W.
+   Taylor, Michael D.
+   Jaunmuktane, Zane
+   Ryzhova, Marina
+   Platten, Michael
+   Unterberg, Andreas
+   Wick, Wolfgang
+   Karajannis, Matthias A.
+   Mittelbronn, Michel
+   Acker, Till
+   Hartmann, Christian
+   Aldape, Kenneth
+   Schueller, Ulrich
+   Buslei, Rolf
+   Lichter, Peter
+   Kool, Marcel
+   Herold-Mende, Christel
+   Ellison, David W.
+   Hasselblatt, Martin
+   Snuderl, Matija
+   Brandner, Sebastian
+   Korshunov, Andrey
+   von Deimling, Andreas
+   Pfister, Stefan M.
+TI DNA methylation-based classification of central nervous system tumours
+SO NATURE
+LA English
+DT Article
+ID CLASS PROBABILITY ESTIMATION; MOLECULAR CLASSIFICATION; PILOCYTIC
+   ASTROCYTOMA; MEDULLOBLASTOMA; ENTITY; GLIOMA; BIOCONDUCTOR; MULTICENTER;
+   EXPRESSION; SUBGROUPS
+AB Accurate pathological diagnosis is crucial for optimal management of patients with cancer. For the approximately 100 known tumour types of the central nervous system, standardization of the diagnostic process has been shown to be particularly challengingwith substantial inter-observer variability in the histopathological diagnosis of many tumour types. Here we present a comprehensive approach for the DNA methylation-based classification of central nervous system tumours across all entities and age groups, and demonstrate its application in a routine diagnostic setting. We show that the availability of this method may have a substantial impact on diagnostic precision compared to standard methods, resulting in a change of diagnosis in up to 12% of prospective cases. For broader accessibility, we have designed a free online classifier tool, the use of which does not require any additional onsite data processing. Our results provide a blueprint for the generation of machine-learning-based tumour classifiers across other cancer entities, with the potential to fundamentally transform tumour pathology.
+C1 [Capper, David; Schrimpf, Daniel; Koelsche, Christian; Sahm, Felix; Reuss, David E.; Kratz, Annekathrin; Wefers, Annika K.; Huang, Kristin; Schweizer, Leonille; Stichel, Damian; Korshunov, Andrey; von Deimling, Andreas] Univ Hosp Heidelberg, Dept Neuropathol, Heidelberg, Germany.
+   [Capper, David; Schrimpf, Daniel; Koelsche, Christian; Sahm, Felix; Reuss, David E.; Kratz, Annekathrin; Wefers, Annika K.; Huang, Kristin; Stichel, Damian; Lindenberg, Kerstin; Korshunov, Andrey; von Deimling, Andreas] German Canc Res Ctr, German Canc Consortium DKTK, Clin Cooperat Unit Neuropathol, Heidelberg, Germany.
+   [Capper, David; Heppner, Frank; Koch, Arend] Charite, Humboldt Univ Berlin, Freie Univ Berlin, Berlin, Germany.
+   [Capper, David; Schweizer, Leonille; Heppner, Frank; Koch, Arend] Berlin Inst Hlth, Dept Neuropathol, Berlin, Germany.
+   [Capper, David] German Canc Res Ctr, German Canc Consortium DKTK, Partner Site Berlin, Heidelberg, Germany.
+   [Jones, David T. W.; Sill, Martin; Sturm, Dominik; Chavez, Lukas; Pajtler, Kristian W.; Selt, Florian; Witt, Hendrik; Milde, Till; Witt, Olaf; Kulozik, Andreas; Kool, Marcel; Pfister, Stefan M.] NCT Heidelberg KiTZ, Hopp Childrens Canc Ctr, Heidelberg, Germany.
+   [Jones, David T. W.; Sill, Martin; Sturm, Dominik; Chavez, Lukas; Pajtler, Kristian W.; Witt, Hendrik; Kool, Marcel; Pfister, Stefan M.] German Canc Res Ctr, Div Pediat Neurooncol, German Canc Consortium DKTK, Heidelberg, Germany.
+   [Sill, Martin; Benner, Axel] German Canc Res Ctr, Div Biostat, Heidelberg, Germany.
+   [Hovestadt, Volker; Zapatka, Marc; Radlwimmer, Bernhard; Lichter, Peter] German Canc Res Ctr, Div Mol Genet, Heidelberg, Germany.
+   [Sturm, Dominik; Pajtler, Kristian W.; Selt, Florian; Witt, Hendrik; Milde, Till; Witt, Olaf; Kulozik, Andreas; Pfister, Stefan M.] Univ Hosp Heidelberg, Dept Pediat Oncol Hematol & Immunol, Heidelberg, Germany.
+   [Olar, Adriana] Med Univ South Carolina, Dept Pathol & Lab Med, Charleston, SC 29425 USA.
+   [Olar, Adriana] Med Univ South Carolina, Dept Neurosurg, Charleston, SC 29425 USA.
+   [Olar, Adriana] Hollings Canc Ctr, Charleston, SC 29425 USA.
+   [Engel, Nils W.] Univ Med Ctr Hamburg, Dept Oncol & Hematol, Sect Bone Marrow Transplant & Pneumol, Hubertus Wald Tumorzentrum,Univ Canc Ctr Hamburg, Hamburg, Germany.
+   [Engel, Nils W.; Schueller, Ulrich] Ludwig Maximilians Univ Munchen, Ctr Neuropathol & Prion Res, Munich, Germany.
+   [Harter, Patrick N.; Braczynski, Anne K.; Plate, Karl H.; Mittelbronn, Michel] Goethe Univ Frankfurt Main, Inst Neurol, Edinger Inst, Frankfurt, Germany.
+   [Harter, Patrick N.; Braczynski, Anne K.; Plate, Karl H.; Mittelbronn, Michel] German Canc Res Ctr, Partner Site Frankfurt Mainz, German Canc Consortium DKTK, Heidelberg, Germany.
+   [Dohmen, Hildegard; Garvalov, Boyan K.; Acker, Till] Univ Giessen, Inst Neuropathol, Giessen, Germany.
+   [Coras, Roland; Hoelsken, Annett; Bluemcke, Ingmar; Buslei, Rolf] Friedrich Alexander Univ Erlangen Nuremberg, Univ Hosp Erlangen, Neuropathol Inst, Erlangen, Germany.
+   [Hewer, Ekkehard] Univ Bern, Inst Pathol, Bern, Switzerland.
+   [Bewerunge-Hudler, Melanie; Schick, Matthias; Fischer, Roger] German Canc Res Ctr, Genom & Prote Core Facil, Heidelberg, Germany.
+   [Beschorner, Rudi; Schittenhelm, Jens] Univ Hosp Tubingen, Dept Neuropathol, Inst Pathol & Neuropathol, Tubingen, Germany.
+   [Staszewski, Ori; Prinz, Marco] Univ Freiburg, Med Ctr, Inst Neuropathol, Fac Med, Freiburg, Germany.
+   [Wani, Khalida] Univ Texas MD Anderson Canc Ctr, Dept Translat Mol Pathol, Houston, TX 77030 USA.
+   [Varlet, Pascale; Pages, Melanie] Ctr Hosp St Anne, Dept Neuropathol, Paris, France.
+   [Temming, Petra; Fleischhack, Gudrun; Tippelt, Stephan] Univ Hosp Essen, Pediat 3, Pediat Oncol & Hematol, Essen, Germany.
+   [Lohmann, Dietmar] Univ Duisburg Essen, Eye Canc Res Grp, Fac Med, Essen, Germany.
+   [Selt, Florian; Milde, Till; Witt, Olaf] German Canc Res Ctr, CCU Pediat Oncol G340, Heidelberg, Germany.
+   [Selt, Florian; Milde, Till; Witt, Olaf] German Canc Consortium DKTK, Heidelberg, Germany.
+   [Aronica, Eleonora] Univ Amsterdam, Dept Neuropathol, AMC, Amsterdam, Netherlands.
+   [Aronica, Eleonora] Univ Amsterdam, Swammerdam Inst Life Sci, Ctr Neurosci, Amsterdam, Netherlands.
+   [Aronica, Eleonora] SEIN, Amsterdam, Netherlands.
+   [Giangaspero, Felice] Sapienza Univ, Dept Radiol Oncol & Anatomopathol Sci, Rome, Italy.
+   [Giangaspero, Felice] IRCCS Neuromed, Pozzilli, Italy.
+   [Rushing, Elisabeth] Univ Hosp Zurich, Dept Neuropathol, Zurich, Switzerland.
+   [Scheurlen, Wolfram] Cnopfsche Kinderklin Nuremberg, Nurnberg, Germany.
+   [Geisenberger, Christoph; Unterberg, Andreas; Herold-Mende, Christel] Heidelberg Univ Hosp, Dept Neurosurg, Heidelberg, Germany.
+   [Geisenberger, Christoph] Hubrecht Inst KNAW Royal Netherlands Acad Arts &, Uppsalalaan 8, NL-3584 CT Utrecht, Netherlands.
+   [Rodriguez, Fausto J.] Johns Hopkins Univ, Sch Med, Div Neuropathol, Baltimore, MD USA.
+   [Becker, Albert; Gessi, Marco; Pietsch, Torsten] Univ Bonn, Dept Neuropathol, Bonn, Germany.
+   [Preusser, Matthias] Med Univ Vienna, Dept Med 1, Comprehens Canc Ctr Vienna, CNS Unit CCC CNS, Vienna, Austria.
+   [Haberler, Christine] Med Univ Vienna, Inst Neurol, Vienna, Austria.
+   [Bjerkvig, Rolf] Univ Bergen, Dept Biomed, Bergen, Norway.
+   [Bjerkvig, Rolf] Luxembourg Inst Hlth, Dept Oncol, NORLUX Neurooncol Lab, Luxembourg, Luxembourg.
+   [Cryan, Jane; Farrell, Michael] Beaumont Hosp, Dept Neuropathol, Dublin, Ireland.
+   [Deckert, Martina] Univ Hosp Cologne, Dept Neuropathol, Cologne, Germany.
+   [Hench, Juergen; Frank, Stephan] Basel Univ Hosp, Inst Pathol, Dept Neuropathol, Basel, Switzerland.
+   [Serrano, Jonathan; Kannan, Kasthuri; Tsirigos, Aristotelis] NYU, Langone Med Ctr, New York, NY USA.
+   [Brueck, Wolfgang] Univ Med Ctr Gottingen, Inst Neuropathol, Gottingen, Germany.
+   [Hofer, Silvia] Luzerner Kantonsspital, Div Oncol, Luzern, Switzerland.
+   [Brehmer, Stefanie; Seiz-Rosenhagen, Marcel; Haenggi, Daniel] Heidelberg Univ, Univ Med Ctr Mannheim, Dept Neurosurg, Mannheim, Germany.
+   [Hans, Volkmar] Evangelisches Krankenhaus Bielefeld gGmbH, Inst Neuropathol, Bielefeld, Germany.
+   [Hans, Volkmar] Univ Kinikum Essen, Inst Neuropathol, Essen, Germany.
+   [Rozsnoki, Stephanie; Paulus, Werner; Hasselblatt, Martin] Univ Hosp Munster, Inst Neuropathol, Munster, Germany.
+   [Hansford, Jordan R.] Univ Melbourne, Royal Childrens Hosp, Childrens Canc Ctr, Melbourne, Vic, Australia.
+   [Hansford, Jordan R.] Univ Melbourne, Murdoch Childrens Res Inst, Melbourne, Vic, Australia.
+   [Hansford, Jordan R.] Univ Melbourne, Dept Pediat, Melbourne, Vic, Australia.
+   [Kohlhof, Patricia] Katharinen Hosp, Inst Pathol, Stuttgart, Germany.
+   [Kristensen, Bjarne W.] Univ Southern Denmark, Dept Clin Res, Odense Univ Hosp, Dept Pathol, Odense, Denmark.
+   [Lechner, Matt] UCL, Canc Inst, London, England.
+   [Lechner, Matt] Univ Coll London Hosp, London, England.
+   [Lopes, Beatriz] Univ Virginia, Dept Pathol, Charlottesville, VA 22903 USA.
+   [Mawrin, Christian] Otto Von Guericke Univ, Inst Nephrol, Magdeburg, Germany.
+   [Ketter, Ralf] Univ Hosp Saarland, Dept Neurosurg, Homburg, Saar, Germany.
+   [Khatib, Ziad] Nicklaus Childrens Hosp Brain Inst, Miami, FL 33155 USA.
+   [Heppner, Frank] NeuroCure, Cluster Excellence, Berlin, Germany.
+   [Heppner, Frank] BIH, Berlin, Germany.
+   [Jouvet, Anne] Hosp Civils Lyon, Dept Pathol & Neuropathol, Hop Neurol, Lyon, France.
+   [Keohane, Catherine] Cork Univ Hosp, Dept Neuropathol, Cork, Ireland.
+   [Muehleisen, Helmut] Ludwigsburg Hosp, Dept Pathol, Ludwigsburg, Germany.
+   [Mueller, Wolf] Univ Leipzig, Dept Neuropathol, Leipzig, Germany.
+   [Pohl, Ute] Queens Hosp, Dept Cellular Pathol, Romford, Essex, England.
+   [Prinz, Marco] Univ Freiburg, BIOSS Ctr Biol Signalling Studies, Freiburg, Germany.
+   [Gottardo, Nicholas G.] Princess Margaret Hosp Children, Dept Pediat Oncol & Haematol, GPO Box D184, Perth, WA 6840, Australia.
+   [Gottardo, Nicholas G.] Univ Western Australia, Telethon Kids Inst, POB 855, Perth, WA 6872, Australia.
+   [Gottardo, Nicholas G.] Univ Western Australia, Sch Paediat & Child Hlth, GPO Box D184, Perth, WA 6840, Australia.
+   [Driever, Pablo Hernaiz; von Hoff, Katja] Charite, Dept Pediat Oncol Hematol, Berlin, Germany.
+   [Kramm, Christof M.] Univ Med Ctr Gottingen, Div Pediat Hematol & Oncol, Gottingen, Germany.
+   [Mueller, Hermann L.] Carl von Ossietzky Univ Oldenburg, Klinikum Oldenburg AOR, Dept Pediat & Pediat Hematol Oncol, Med Campus, D-26133 Oldenburg, Germany.
+   [Rutkowski, Stefan; von Hoff, Katja] Univ Hosp Hamburg Eppendort, Dept Pediat Hematol & Oncol, Hamburg, Germany.
+   [Fruehwald, Michael C.; Gnekow, Astrid] Childrens Hosp Augsburg, Swabian Childrens Canc Ctr, Augsburg, Germany.
+   [Calaminus, Gabriele] Univ Bonn, Dept Pediat Hematol Oncol, Med Ctr, Bonn, Germany.
+   [Monoranu, Camelia-Maria] Univ Wurzburg, Dept Neuropathol, Comprehens Canc Ctr CCC Mainfranken, Inst Pathol, Wurzburg, Germany.
+   [Perry, Arie] Univ Calif San Francisco, Dept Pathol, San Francisco, CA 94140 USA.
+   [Jones, Chris] Inst Canc Res, Div Mol Pathol, London, England.
+   [Jacques, Thomas S.] Great Ormond St Hosp Children NHS Fdn Trust, UCL Great Ormond St Inst Child Hlth & Histopatho, Dev Biol & Canc Programme, London, England.
+   [Schramm, Johannes] Univ Bonn, Med Fac, Med Sch, Bonn, Germany.
+   [Schackert, Gabriele] Tech Univ Dresden, Univ Hosp Carl Gustav Carus, Dept Neurosurg, Dresden, Germany.
+   [Westphal, Manfred] Univ Hosp Hamburg Eppendorf, Dept Neurosurg, Hamburg, Germany.
+   [Reifenberger, Guido] Heinrich Heine Univ Dusseldorf, Dept Neuropathol, Dusseldorf, Germany.
+   [Reifenberger, Guido] German Canc Res Ctr, German Canc Consortium DKTK, Partner Site Essen Dusseldorf, Heidelberg, Germany.
+   [Wesseling, Pieter] Princess Maxima Ctr Pediat Oncol, Dept Pathol, Utrecht, Netherlands.
+   [Wesseling, Pieter] Univ Med Ctr Utrecht, Utrecht, Netherlands.
+   [Wesseling, Pieter] Vrije Univ Amsterdam Med Ctr, Dept Pathol, Amsterdam, Netherlands.
+   [Weller, Michael] Univ Hosp, Dept Neurol, Zurich, Switzerland.
+   [Weller, Michael] Univ Zurich, Zurich, Switzerland.
+   [Collins, Vincent Peter] Univ Cambridge, Div Mol Histopathol, Dept Pathol, Cambridge, England.
+   [Bendszus, Martin] Heidelberg Univ Hosp, Dept Neuroradiol, Heidelberg, Germany.
+   [Debus, Juergen] Heidelberg Univ Hosp, Dept Radiat Oncol, Heidelberg, Germany.
+   [Huang, Annie] Univ Toronto, Dept Pediat, Lab Med & Pathobiol, Toronto, ON, Canada.
+   [Jabado, Nada] McGill Univ, Div Hematol Oncol, Montreal, PQ, Canada.
+   [Northcott, Paul A.] St Jude Childrens Res Hosp, Dept Dev Neurobiol, 332 N Lauderdale St, Memphis, TN 38105 USA.
+   [Gajjar, Amar; Robinson, Giles W.] St Jude Childrens Res Hosp, Dept Oncol, 332 N Lauderdale St, Memphis, TN 38105 USA.
+   [Taylor, Michael D.] Univ Toronto, Hosp Sick Children, Div Neurosurg, Arthur & Sonia Labatt Brain Tumor Res Ctr, Toronto, ON, Canada.
+   [Jaunmuktane, Zane; Brandner, Sebastian] UCL, Inst Neurol, UCL Hosp, Div Neuropathol, Queen Sq, London WC1N 3BG, England.
+   [Jaunmuktane, Zane] UCL, Inst Neurol, Dept Mol Neurosci, Queen Sq, London WC1N 3BG, England.
+   [Jaunmuktane, Zane; Brandner, Sebastian] UCL, Inst Neurol, Dept Neurodegenerat, Queen Sq, London WC1N 3BG, England.
+   [Ryzhova, Marina] NN Burdenko Inst Neurosurg, Moscow, Russia.
+   [Platten, Michael] Heidelberg Univ, Med Fac Mannheim, Univ Med Mannheim, Dept Neurol, Mannheim, Germany.
+   [Wick, Wolfgang] Heidelberg Univ Hosp, Dept Neurol, Heidelberg, Germany.
+   [Karajannis, Matthias A.] Mem Sloan Kettering Canc Ctr, Dept Pediat, 1275 York Ave, New York, NY 10021 USA.
+   [Mittelbronn, Michel] LIH, NORLUX Neurooncol Lab, Luxembourg, Luxembourg.
+   [Mittelbronn, Michel] Univ Luxembourg, LCSB, Luxembourg, Luxembourg.
+   [Mittelbronn, Michel] LNS, Dudelange, Luxembourg.
+   [Mittelbronn, Michel] Luxembourg Ctr Neuropathol LCNP, Luxembourg, Luxembourg.
+   [Hartmann, Christian] Hannover Med Sch, Dept Neuropathol, Hannover, Germany.
+   [Aldape, Kenneth] Univ Toronto, Dept Pathol, Toronto, ON, Canada.
+   [Schueller, Ulrich] Univ Med Ctr, Inst Neuropathol, Hamburg, Germany.
+   [Schueller, Ulrich] Childrens Canc Ctr, Res Inst, Hamburg, Germany.
+   [Schueller, Ulrich] Univ Med Ctr, Dept Pediat Hematol & Oncol, Hamburg, Germany.
+   [Buslei, Rolf] Klinikum Bruderwald, Sozialstiftung Bamberg, Inst Pathol, Sect Neuropathol, Bamberg, Germany.
+   [Ellison, David W.] St Jude Childrens Res Hosp, Dept Pathol, 332 N Lauderdale St, Memphis, TN 38105 USA.
+   [Snuderl, Matija] NYU, Dept Pathol, Div Neuropathol, Langone Med Ctr, 550 1St Ave, New York, NY 10016 USA.
+   [Hovestadt, Volker] Massachusetts Gen Hosp, Dept Pathol, Boston, MA 02114 USA.
+   [Hovestadt, Volker] Massachusetts Gen Hosp, Ctr Canc Res, Boston, MA 02114 USA.
+   [Hovestadt, Volker] Broad Inst MIT & Harvard, Cambridge, MA USA.
+RP von Deimling, A (reprint author), Univ Hosp Heidelberg, Dept Neuropathol, Heidelberg, Germany.; von Deimling, A (reprint author), German Canc Res Ctr, German Canc Consortium DKTK, Clin Cooperat Unit Neuropathol, Heidelberg, Germany.; Pfister, SM (reprint author), NCT Heidelberg KiTZ, Hopp Childrens Canc Ctr, Heidelberg, Germany.; Pfister, SM (reprint author), German Canc Res Ctr, Div Pediat Neurooncol, German Canc Consortium DKTK, Heidelberg, Germany.; Pfister, SM (reprint author), Univ Hosp Heidelberg, Dept Pediat Oncol Hematol & Immunol, Heidelberg, Germany.
+EM Andreas.vonDeimling@med.uni-heidelberg.de; s.pfister@dkfz.de
+RI Pfister, Stefan/F-6860-2013; Robinson, Giles/N-8095-2018; Northcott,
+   Paul/N-4022-2018; Pages, Melanie/S-1875-2019; Capper, David/I-8500-2014;
+   Jones, David/G-9588-2013; von Deimling, Andreas/F-7774-2013; Kolsche,
+   Christian/Q-8854-2019; Becker, Albert/F-6248-2012; Radlwimmer, Bernhard
+   F/I-3229-2013; Gajjar, Amar/N-8059-2018; Hewer, Ekkehard/H-9312-2013
+OI Pfister, Stefan/0000-0002-5447-5322; Robinson,
+   Giles/0000-0001-7441-9486; Capper, David/0000-0003-1945-497X; Jones,
+   David/0000-0002-2036-5141; von Deimling, Andreas/0000-0002-5863-540X;
+   Radlwimmer, Bernhard F/0000-0002-4553-7800; Snuderl,
+   Matija/0000-0003-0752-0917; Hewer, Ekkehard/0000-0002-9128-0364; Jones,
+   Chris/0000-0001-8118-2296; Chavez, Lukas/0000-0002-8718-8848;
+   Staszewski, Ori/0000-0002-0579-6701; Tsirigos,
+   Aristotelis/0000-0002-7512-8477; Sturm, Dominik/0000-0003-0250-1696;
+   Karajannis, Matthias/0000-0002-7151-6528
+FU DKFZ-Heidelberg Center for Personalized Oncology [DKFZ-HIPO_036]; German
+   Childhood Cancer Foundation, an Illumina Medical Research Grant [DKS
+   2015.01]; DKTK joint funding project 'Next Generation Molecular
+   Diagnostics of Malignant Gliomas'; A Kids' Brain Tumour Cure (PLGA)
+   Foundation; Brain Tumour Charity (UK); Friedberg Charitable Foundation;
+   Sohn Conference Foundation; RKA-Forderpool Project [37]; Stichting
+   Kinderen Kankervrij; Stichting AMC Foundation; NIH/ NCI [5T32CA163185];
+   NIH/NCI Cancer Center Support Grant [P30 CA008748]; Luxembourg National
+   Research Fond (FNR PEARL) [P16/BM/11192868]; National Institute of
+   Health Research (NIHR) UCLH/UCL Biomedical Research Centre
+FX We thank U. Lass, A. Habel, I. Oezen for technical and administrative
+   support, the Microarray unit of the Genomics and Proteomics Core
+   Facility (DKFZ) for methylation services, the German Glioma Network and
+   the Neuroonkologische Arbeitsgemeinschaft for sharing their data. This
+   research was supported by the DKFZ-Heidelberg Center for Personalized
+   Oncology (DKFZ-HIPO_036), the German Childhood Cancer Foundation (DKS
+   2015.01), an Illumina Medical Research Grant, the DKTK joint funding
+   project 'Next Generation Molecular Diagnostics of Malignant Gliomas',
+   the A Kids' Brain Tumour Cure (PLGA) Foundation, the Brain Tumour
+   Charity (UK) for the Everest Centre for Paediatric Low-Grade Brain
+   Tumour Research, the Friedberg Charitable Foundation and the Sohn
+   Conference Foundation (to M. Snuderl and M. Karajannis), the
+   RKA-Forderpool (Project 37) and Stichting Kinderen Kankervrij and
+   Stichting AMC Foundation (to E. Aronica), NIH/ NCI 5T32CA163185 (to
+   A.O.), NIH/NCI Cancer Center Support Grant P30 CA008748 to MSKCC, the
+   Luxembourg National Research Fond (FNR PEARL P16/BM/11192868 to M.M.)
+   and the National Institute of Health Research (NIHR) UCLH/UCL Biomedical
+   Research Centre (S. Bra.).
+CR Appel IJ, 2011, BIOINFORMATICS, V27, P2563, DOI 10.1093/bioinformatics/btr434
+   Aryee MJ, 2014, BIOINFORMATICS, V30, P1363, DOI 10.1093/bioinformatics/btu049
+   Bady P, 2016, J MOL DIAGN, V18, P350, DOI 10.1016/j.jmoldx.2015.11.009
+   Bostrom H, 2008, SEVENTH INTERNATIONAL CONFERENCE ON MACHINE LEARNING AND APPLICATIONS, PROCEEDINGS, P121, DOI 10.1109/ICMLA.2008.107
+   Brat DJ, 2015, NEW ENGL J MED, V372, P2481, DOI 10.1056/NEJMoa1402121
+   Breiman L, 2001, MACH LEARN, V45, P5, DOI 10.1023/A:1010933404324
+   Breiman L., 1984, CLASSIFICATION REGRE
+   Brier GW., 1950, MONTHLY WEATHER REVI, V75, P1, DOI DOI 10.1175/1520-0493(1950)078<0001:VOFEIT>2.0.CO;2
+   Carter SL, 2012, NAT BIOTECHNOL, V30, P413, DOI 10.1038/nbt.2203
+   Ceccarelli M, 2016, CELL, V164, P550, DOI 10.1016/j.cell.2015.12.028
+   Chen C., 2004, 666 U CAL
+   Ellison DW, 2011, J NEGAT RESULTS BIOM, V10, DOI 10.1186/1477-5751-10-7
+   Fernandez AF, 2012, GENOME RES, V22, P407, DOI 10.1101/gr.119867.110
+   Friedman J, 2010, J STAT SOFTW, V33, P1
+   Hand DJ, 2001, MACH LEARN, V45, P171, DOI 10.1023/A:1010920819831
+   Heim S, 2016, BRAIN PATHOL, V26, P199, DOI 10.1111/bpa.12282
+   Holsken A, 2016, ACTA NEUROPATHOL COM, V4, DOI 10.1186/s40478-016-0287-6
+   Hovestadt V, 2015, CONUMEE ENHANCED COP
+   Hovestadt V, 2014, NATURE, V510, P537, DOI 10.1038/nature13268
+   Hovestadt V, 2013, ACTA NEUROPATHOL, V125, P913, DOI 10.1007/s00401-013-1126-5
+   Huber W, 2015, NAT METHODS, V12, P115, DOI [10.1038/NMETH.3252, 10.1038/nmeth.3252]
+   Johann PD, 2016, CANCER CELL, V29, P379, DOI 10.1016/j.ccell.2016.02.001
+   Jones DTW, 2013, NAT GENET, V45, P927, DOI 10.1038/ng.2682
+   Jones DTW, 2012, NATURE, V488, P100, DOI 10.1038/nature11284
+   Kim KI, 2014, BIOMETRICAL J, V56, P256, DOI 10.1002/bimj.201300083
+   Koelsche C, 2015, BRAIN PATHOL, V25, P202, DOI 10.1111/bpa.12228
+   Korshunov A, 2016, ACTA NEUROPATHOL, V131, P137, DOI 10.1007/s00401-015-1493-1
+   Korshunov A, 2014, ACTA NEUROPATHOL, V128, P279, DOI 10.1007/s00401-013-1228-0
+   Lambert SR, 2013, ACTA NEUROPATHOL, V126, P291, DOI 10.1007/s00401-013-1124-7
+   Leek JT, 2007, PLOS GENET, V3, P1724, DOI 10.1371/journal.pgen.0030161
+   Leek JT, 2008, P NATL ACAD SCI USA, V105, P18718, DOI 10.1073/pnas.0808709105
+   Liaw A, 2002, R NEWS, V2, P18, DOI DOI 10.1177/154405910408300516
+   Louis D. N., 2016, WHO CLASSIFICATION T
+   Mack SC, 2014, NATURE, V506, P445, DOI 10.1038/nature13108
+   Moran S, 2016, LANCET ONCOL, V17, P1386, DOI 10.1016/S1470-2045(16)30297-2
+   Pajtler KW, 2015, CANCER CELL, V27, P728, DOI 10.1016/j.ccell.2015.04.002
+   Pietsch T, 2014, ACTA NEUROPATHOL, V128, P137, DOI 10.1007/s00401-014-1276-0
+   R Core Team, 2016, R LANG ENV STAT COMP
+   Reuss DE, 2015, ACTA NEUROPATHOL, V130, P407, DOI 10.1007/s00401-015-1454-8
+   Sahm F, 2016, ACTA NEUROPATHOL, V131, P903, DOI 10.1007/s00401-015-1519-8
+   Simon R, 2014, BIOMETRICAL J, V56, P597, DOI 10.1002/bimj.201300296
+   Smola A., 2000, ADV LARGE MARGIN CLA
+   Sokolova M, 2009, INFORM PROCESS MANAG, V45, P427, DOI 10.1016/j.ipm.2009.03.002
+   Sturm D, 2016, CELL, V164, P1060, DOI 10.1016/j.cell.2016.01.015
+   Sturm D, 2012, CANCER CELL, V22, P425, DOI 10.1016/j.ccr.2012.08.024
+   Thomas C, 2016, NEURO-ONCOLOGY, V18, P790, DOI 10.1093/neuonc/nov322
+   van den Bent MJ, 2010, ACTA NEUROPATHOL, V120, P297, DOI 10.1007/s00401-010-0725-7
+   van der Maaten L, 2008, J MACH LEARN RES, V9, P2579
+   Weller M, 2015, ACTA NEUROPATHOL, V129, P679, DOI 10.1007/s00401-015-1409-0
+   Wiestler B, 2014, ACTA NEUROPATHOL, V128, P561, DOI 10.1007/s00401-014-1315-x
+NR 50
+TC 122
+Z9 124
+U1 58
+U2 140
+PU NATURE PUBLISHING GROUP
+PI LONDON
+PA MACMILLAN BUILDING, 4 CRINAN ST, LONDON N1 9XW, ENGLAND
+SN 0028-0836
+EI 1476-4687
+J9 NATURE
+JI Nature
+PD MAR 22
+PY 2018
+VL 555
+IS 7697
+BP 469
+EP +
+DI 10.1038/nature26000
+PG 26
+WC Multidisciplinary Sciences
+SC Science & Technology - Other Topics
+GA FZ9NF
+UT WOS:000427937900043
+PM 29539639
+HC Y
+HP Y
+DA 2019-06-15
+ER
+
+PT J
+AU Arganda-Carreras, I
+   Kaynig, V
+   Rueden, C
+   Eliceiri, KW
+   Schindelin, J
+   Cardona, A
+   Seung, HS
+AF Arganda-Carreras, Ignacio
+   Kaynig, Verena
+   Rueden, Curtis
+   Eliceiri, Kevin W.
+   Schindelin, Johannes
+   Cardona, Albert
+   Seung, H. Sebastian
+TI Trainable Weka Segmentation: a machine learning tool for microscopy
+   pixel classification
+SO BIOINFORMATICS
+LA English
+DT Article
+AB State-of-the-art light and electron microscopes are capable of acquiring large image datasets, but quantitatively evaluating the data often involves manually annotating structures of interest. This process is time-consuming and often a major bottleneck in the evaluation pipeline. To overcome this problem, we have introduced the Trainable Weka Segmentation (TWS), a machine learning tool that leverages a limited number of manual annotations in order to train a classifier and segment the remaining data automatically. In addition, TWS can provide unsupervised segmentation learning schemes (clustering) and can be customized to employ user-designed image features or classifiers.
+C1 [Arganda-Carreras, Ignacio] Ikerbasque Basque Fdn Sci, Bilbao 48013, Spain.
+   [Arganda-Carreras, Ignacio] Univ Basque Country, Comp Sci & Artificial Intelligence Dept, San Sebastian 20018, Spain.
+   [Arganda-Carreras, Ignacio] Donostia Int Phys Ctr, San Sebastian 20018, Spain.
+   [Kaynig, Verena] Harvard Univ, Harvard John A Paulson Sch Engn & Appl Sci, Cambridge, MA 02138 USA.
+   [Rueden, Curtis; Eliceiri, Kevin W.; Schindelin, Johannes] Univ Wisconsin, Lab Opt & Computat Instrumentat, Madison, WI 53706 USA.
+   [Cardona, Albert] Howard Hughes Med Inst, Janelia Res Campus, Ashburn, VA 20147 USA.
+   [Seung, H. Sebastian] Princeton Univ, Neurosci Inst, Princeton, NJ 08544 USA.
+   [Seung, H. Sebastian] Princeton Univ, Comp Sci Dept, Princeton, NJ 08544 USA.
+RP Arganda-Carreras, I (reprint author), Ikerbasque Basque Fdn Sci, Bilbao 48013, Spain.; Arganda-Carreras, I (reprint author), Univ Basque Country, Comp Sci & Artificial Intelligence Dept, San Sebastian 20018, Spain.; Arganda-Carreras, I (reprint author), Donostia Int Phys Ctr, San Sebastian 20018, Spain.
+EM ignacio.arganda@ehu.eus
+RI CENTER, DONOSTIA INTERNATIONAL PHYSICS/C-3171-2014; Arganda-Carreras,
+   Ignacio/L-4605-2014
+OI Arganda-Carreras, Ignacio/0000-0003-0229-5722
+CR Dietz C, 2016, ADV ANAT EMBRYOL CEL, V219, P179, DOI 10.1007/978-3-319-28549-8_7
+   Hall M., 2009, SIGKDD EXPLORATIONS, V11, P10, DOI [DOI 10.1145/1656274.1656278, 10.1145/1656274.1656278]
+   Kamentsky L, 2011, BIOINFORMATICS, V27, P1179, DOI 10.1093/bioinformatics/btr095
+   Li X, 2015, I S BIOMED IMAGING, P168, DOI 10.1109/ISBI.2015.7163842
+   Maree R, 2016, BIOINFORMATICS, V32, P1395, DOI 10.1093/bioinformatics/btw013
+   Schindelin J, 2012, NAT METHODS, V9, P676, DOI [10.1038/NMETH.2019, 10.1038/nmeth.2019]
+   Sommer  C., 2011, 8 IEEE INT S BIOM IM
+NR 7
+TC 111
+Z9 111
+U1 13
+U2 49
+PU OXFORD UNIV PRESS
+PI OXFORD
+PA GREAT CLARENDON ST, OXFORD OX2 6DP, ENGLAND
+SN 1367-4803
+EI 1460-2059
+J9 BIOINFORMATICS
+JI Bioinformatics
+PD AUG 1
+PY 2017
+VL 33
+IS 15
+BP 2424
+EP 2426
+DI 10.1093/bioinformatics/btx180
+PG 3
+WC Biochemical Research Methods; Biotechnology & Applied Microbiology;
+   Computer Science, Interdisciplinary Applications; Mathematical &
+   Computational Biology; Statistics & Probability
+SC Biochemistry & Molecular Biology; Biotechnology & Applied Microbiology;
+   Computer Science; Mathematical & Computational Biology; Mathematics
+GA FB7VG
+UT WOS:000406347500034
+PM 28369169
+OA Bronze
+HC Y
+HP Y
+DA 2019-06-15
+ER
+
+EF
