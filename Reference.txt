@@ -1,5 +1,3 @@
-Date / Author / Journal
-
 LCS
 
 GCS
@@ -4915,3 +4913,4877 @@ Mining Indecisiveness in Customer Behaviors
 
 
  
+
+301
+
+4567Liu JM, Li Q, Qu M, Chen WW, Yang JY, et al.
+Station Site Optimization in Bike Sharing Systems
+2015 IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2015; : 883-888 
+3
+
+16
+
+0
+
+17 
+
+
+
+302
+
+4857Wang Q, Vatsalan D, Christen P
+Efficient Interactive Training Selection for Large-Scale EntityResolution
+ADVANCES IN KNOWLEDGE DISCOVERY AND DATA MINING, PART II. 2015; 9078: 562-573 
+3
+
+4
+
+1
+
+23 
+
+
+
+303
+
+5280Feng ZQ, Lo E, Kao B, Xu WJ
+ByteSlice: Pushing the Envelop of Main Memory Data Processing with a NewStorage Layout
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 31-46 
+3
+
+8
+
+0
+
+39 
+
+
+
+304
+
+5293Huang YX, Cui B, Zhang WY, Jiang J, Xu Y
+TencentRec: Real-time Stream Recommendation in Practice
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 227-238 
+3
+
+22
+
+2
+
+34 
+
+
+
+305
+
+5297Idreos S, Papaemmanouil O, Chaudhuri S
+Overview of Data Exploration Techniques
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 277-281 
+3
+
+31
+
+3
+
+68 
+
+
+
+306
+
+5309Berlowitz D, Cohen S, Kimelfeld B
+Efficient Enumeration of Maximal k-Plexes
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 431-444 
+3
+
+2
+
+1
+
+39 
+
+
+
+307
+
+5315Gan JH, Tao YF
+DBSCAN Revisited: Mis-Claim, Un-Fixability, and Approximation
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 519-530 
+3
+
+50
+
+1
+
+30 
+
+
+
+308
+
+5322Erling O, Averbuch A, Larriba-Pey J, Chafi H, Gubichev A, et al.
+The LDBC Social Network Benchmark: Interactive Workload
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 619-630 
+3
+
+28
+
+0
+
+13 
+
+
+
+309
+
+5378Wang SB, Xiao XK, Lee CH
+Crowd-Based Deduplication: An Adaptive Approach
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 1263-1277 
+3
+
+13
+
+0
+
+44 
+
+
+
+310
+
+5385Aref M, ten Cate B, Green TJ, Kimelfeld B, Olteanu D, et al.
+Design and Implementation of the LogicBlox System
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 1371-1382 
+3
+
+31
+
+0
+
+41 
+
+
+
+#
+
+Date / Author / Journal
+
+LCS
+
+GCS
+
+LCR
+
+CR 
+
+
+
+311
+
+5430Trummer I, Koch C
+An Incremental Anytime Algorithm for Multi-Objective Query Optimization
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 1941-1953 
+3
+
+9
+
+1
+
+19 
+
+
+
+312
+
+5482Budhathoki K, Vreeken J
+Causal Inference by Compression
+2016 IEEE 16TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2016; : 41-50 
+3
+
+5
+
+2
+
+32 
+
+
+
+313
+
+5606Yeh CCM, Zhu Y, Ulanova L, Begum N, Ding YF, et al.
+Matrix Profile I: All Pairs Similarity Joins for Time Series: A UnifyingView that Includes Motifs, Discords and Shapelets
+2016 IEEE 16TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2016; : 1317-1322 
+3
+
+19
+
+0
+
+22 
+
+
+
+314
+
+5615Zhu Y, Ting KM, Zhou ZH
+Multi-Label Learning with Emerging New Labels
+2016 IEEE 16TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2016; : 1371-1376 
+3
+
+6
+
+0
+
+15 
+
+
+
+315
+
+6375Schleich M, Olteanu D, Ciucanu R
+Learning Linear Regression Models over Factorized Joins
+SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2016; : 3-18 
+3
+
+10
+
+5
+
+42 
+
+
+
+316
+
+6414Arulraj J, Pavlo A, Menon P
+Bridging the Archipelago between Row-Stores and Column-Stores for HybridWorkloads
+SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2016; : 583-598 
+3
+
+11
+
+0
+
+45 
+
+
+
+317
+
+6417Kandula S, Shanbhag A, Vitorovic A, Olma M, Grandl R, et al.
+Quickr: Lazily Approximating Complex AdHoc Queries in BigData Clusters
+SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2016; : 631-646 
+3
+
+9
+
+0
+
+39 
+
+
+
+318
+
+6455Bi F, Chang LJ, Lin XM, Qin L, Zhang WJ
+Efficient Subgraph Matching by Postponing Cartesian Products
+SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2016; : 1199-1214 
+3
+
+16
+
+0
+
+25 
+
+
+
+319
+
+6479Zhang H, Andersen DG, Pavlo A, Kaminsky M, Ma L, et al.
+Reducing the Storage Overhead of Main-Memory OLTP Databases with HybridIndexes
+SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2016; : 1567-1581 
+3
+
+8
+
+1
+
+38 
+
+
+
+320
+
+6481Yoon DY, Niu N, Mozafari B
+DBSherlock: A Performance Diagnostic Tool for Transactional Databases
+SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2016; : 1599-1614 
+3
+
+3
+
+0
+
+42 
+
+
+
+#
+
+Date / Author / Journal
+
+LCS
+
+GCS
+
+LCR
+
+CR 
+
+
+
+321
+
+6483Yu XY, Pavlo A, Sanchez D, Devadas S
+TicToc: Time Traveling Optimistic Concurrency Control
+SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2016; : 1629-1642 
+3
+
+11
+
+1
+
+37 
+
+
+
+322
+
+6529Milo T, Somech A
+REACT: Context-Sensitive Recommendations for Data Analysis
+SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2016; : 2137-2140 
+3
+
+4
+
+0
+
+11 
+
+
+
+323
+
+7431Hallac D, Vare S, Boyd S, Leskovec J
+Toeplitz Inverse Covariance-Based Clustering of Multivariate Time SeriesData
+KDD'17: PROCEEDINGS OF THE 23RD ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2017; : 215-223 
+3
+
+10
+
+0
+
+48 
+
+
+
+324
+
+7460Wang SB, Yang RC, Xiao XK, Wei ZW, Yang Y
+FORA: Simple and Effective Approximate Single-Source PersonalizedPageRank
+KDD'17: PROCEEDINGS OF THE 23RD ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2017; : 505-514 
+3
+
+2
+
+1
+
+24 
+
+
+
+325
+
+7504Ma FL, Meng CS, Xiao HP, Li Q, Gao J, et al.
+Unsupervised Discovery of Drug Side-Effects from Heterogeneous DataSources
+KDD'17: PROCEEDINGS OF THE 23RD ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2017; : 967-976 
+3
+
+9
+
+3
+
+49 
+
+
+
+326
+
+7577Zhu J, Shan Y, Mao JC, Yu D, Rahmanian H, et al.
+Deep Embedding Forest: Forest-based Serving with Deep Embedding Features
+KDD'17: PROCEEDINGS OF THE 23RD ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2017; : 1703-1711 
+3
+
+3
+
+1
+
+23 
+
+
+
+327
+
+7634Dayan N, Athanassoulis M, Idreos S
+Monkey: Optimal Navigable Key-Value Store
+SIGMOD'17: PROCEEDINGS OF THE 2017 ACM INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2017; : 79-94 
+3
+
+9
+
+0
+
+25 
+
+
+
+328
+
+7669Park Y, Tajik AS, Cafarella M, Mozafari B
+Database Learning: Toward a Database that Becomes Smarter Every Time
+SIGMOD'17: PROCEEDINGS OF THE 2017 ACM INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2017; : 587-602 
+3
+
+6
+
+0
+
+79 
+
+
+
+329
+
+7677Kester MS, Athanassoulis M, Idreos S
+Access Path Selection in Main-Memory Optimized Data Systems: Should I Scan or Should I Probe?
+SIGMOD'17: PROCEEDINGS OF THE 2017 ACM INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2017; : 715-730 
+3
+
+5
+
+0
+
+88 
+
+
+
+330
+
+7765Polyzotis N, Roy S, Whang SE, Zinkevich M
+Data Management Challenges in Production Machine Learning
+SIGMOD'17: PROCEEDINGS OF THE 2017 ACM INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2017; : 1723-1726 
+3
+
+12
+
+2
+
+17 
+
+
+
+#
+
+Date / Author / Journal
+
+LCS
+
+GCS
+
+LCR
+
+CR 
+
+
+
+331
+
+20Hong MS, Zhou HF, Wang W, Shi B
+An efficient algorithm of frequent connected subgraph extraction
+ADVANCES IN KNOWLEDGE DISCOVERY AND DATA MINING. 2003; 2637: 40-51 
+2
+
+5
+
+0
+
+25 
+
+
+
+332
+
+71Wang X, Hamilton HJ
+DBRS: A density-based spatial clustering method with random sampling
+ADVANCES IN KNOWLEDGE DISCOVERY AND DATA MINING. 2003; 2637: 563-575 
+2
+
+14
+
+0
+
+9 
+
+
+
+333
+
+115Lazarevic A, Ertoz L, Kumar V, Ozgur A, Srivastava J
+A comparative study of anomaly detection schemes in network intrusiondetection
+PROCEEDINGS OF THE THIRD SIAM INTERNATIONAL CONFERENCE ON DATA MINING. 2003; : 25-36 
+2
+
+99
+
+0
+
+28 
+
+
+
+334
+
+117Ertoz L, Steinbach M, Kumar V
+Finding clusters of different sizes, shapes, and densities in noisy, high dimensional data
+PROCEEDINGS OF THE THIRD SIAM INTERNATIONAL CONFERENCE ON DATA MINING. 2003; : 47-58 
+2
+
+112
+
+0
+
+18 
+
+
+
+335
+
+144Chan R, Yang Q, Shen YD
+Mining high utility itemsets
+THIRD IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2003; : 19-26 
+2
+
+114
+
+0
+
+18 
+
+
+
+336
+
+146Deshpande M, Kuramochi M, Karypis G
+Frequent sub-structure-based approaches for classifying chemicalcompounds
+THIRD IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2003; : 35-42 
+2
+
+16
+
+0
+
+31 
+
+
+
+337
+
+162Merugu S, Ghosh J
+Privacy-preserving distributed clustering using generative models
+THIRD IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2003; : 211-218 
+2
+
+25
+
+0
+
+19 
+
+
+
+338
+
+181Xiao YQ, Yao JF, Li ZG, Dunham MH
+Efficient data mining for maximal frequent subtrees
+THIRD IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2003; : 379-+ 
+2
+
+13
+
+0
+
+12 
+
+
+
+339
+
+213Lee YK, Kim WY, Cai YD, Han JW
+CoMine: Efficient mining of correlated patterns
+THIRD IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2003; : 581-584 
+2
+
+10
+
+0
+
+8 
+
+
+
+340
+
+217Lu CT, Chen DC, Kou WF
+Algorithms for spatial Outlier detection
+THIRD IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2003; : 597-600 
+2
+
+16
+
+0
+
+15 
+
+
+
+#
+
+Date / Author / Journal
+
+LCS
+
+GCS
+
+LCR
+
+CR 
+
+
+
+341
+
+221Oliveira SRM, Zaiane OR
+Protecting sensitive knowledge by data sanitization
+THIRD IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2003; : 613-616 
+2
+
+10
+
+0
+
+6 
+
+
+
+342
+
+260Marchand M, Shawe-Taylor J
+The set covering machine
+JOURNAL OF MACHINE LEARNING RESEARCH. 2003 MAY 15; 3 (4-5): 723-746 
+2
+
+26
+
+0
+
+18 
+
+
+
+343
+
+270Bucila C, Gehrke J, Kifer D, White W
+DualMiner: A dual-pruning algorithm for itemsets with constraints
+DATA MINING AND KNOWLEDGE DISCOVERY. 2003 JUL; 7 (3): 241-272 
+2
+
+36
+
+0
+
+23 
+
+
+
+344
+
+285Oliveira SRM, Zaiane OR, Saygin Y
+Secure association rule sharing
+ADVANCES IN KNOWLEDGE DISCOVERY AND DATA MINING, PROCEEDINGS. 2004; 3056: 74-85 
+2
+
+28
+
+1
+
+8 
+
+
+
+345
+
+323Kailing K, Kriegel HP, Pryakhin A, Schubert M
+Clustering Multi-represented Objects with Noise
+ADVANCES IN KNOWLEDGE DISCOVERY AND DATA MINING, PROCEEDINGS. 2004; 3056: 394-403 
+2
+
+14
+
+0
+
+12 
+
+
+
+346
+
+350Christen P, Churches T, Hegland M
+Flebrl - A parallel open source data linkage system
+ADVANCES IN KNOWLEDGE DISCOVERY AND DATA MINING, PROCEEDINGS. 2004; 3056: 638-647 
+2
+
+27
+
+0
+
+21 
+
+
+
+347
+
+381Bottou U, Le Cun Y
+Large scale online learning
+ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS 16. 2004; 16: 217-224 
+2
+
+25
+
+0
+
+11 
+
+
+
+348
+
+386Paciorek CJ, Schervish MJ
+Nonstationary covariance functions for Gaussian process regression
+ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS 16. 2004; 16: 273-280 
+2
+
+63
+
+0
+
+20 
+
+
+
+349
+
+395Borodin A, El-Yaniv R, Gogan V
+Can we learn to beat the best stock
+ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS 16. 2004; 16: 345-352 
+2
+
+3
+
+0
+
+18 
+
+
+
+350
+
+419Weston J, Leslie C
+Semi-supervised protein classification using cluster kernels
+ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS 16. 2004; 16: 595-602 
+2
+
+4
+
+0
+
+15 
+
+
+
+#
+
+Date / Author / Journal
+
+LCS
+
+GCS
+
+LCR
+
+CR 
+
+
+
+351
+
+443Tesauro G
+Extending Q-Learning to general adaptive multi-agent systems
+ADVANCES IN NEURAL INFORMATION PROCESSING SYSTEMS 16. 2004; 16: 871-878 
+2
+
+7
+
+0
+
+14 
+
+
+
+352
+
+533Atallah M, Gwadera R, Szpankowski W
+Detection of significant sets of episodes in event sequences
+FOURTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2004; : 3-10 
+2
+
+7
+
+0
+
+12 
+
+
+
+353
+
+536Bohm C, Kailing K, Kriegel HP, Kroger P
+Density connected clustering with local subspace preferences
+FOURTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2004; : 27-34 
+2
+
+20
+
+0
+
+12 
+
+
+
+354
+
+538Brecheisen S, Kriegel HP, Pfeifle M
+Efficient density-based clustering of complex objects
+FOURTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2004; : 43-50 
+2
+
+2
+
+0
+
+14 
+
+
+
+355
+
+539Chai XY, Deng L, Yang Q, Ling CX
+Test-cost sensitive naive Bayes classification
+FOURTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2004; : 51-58 
+2
+
+20
+
+0
+
+16 
+
+
+
+356
+
+550Liu T, Chen H, Zhang BY, Ma WY, Wu GY
+Improving text classification using local latent semantic indexing
+FOURTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2004; : 162-169 
+2
+
+14
+
+0
+
+22 
+
+
+
+357
+
+551Neville J, Jensen D
+Dependency networks for relational data
+FOURTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2004; : 170-177 
+2
+
+6
+
+0
+
+15 
+
+
+
+358
+
+556Topchy AP, Law MHC, Jain AK, Fred AL
+Analysis of consensus partition in cluster ensemble
+FOURTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2004; : 225-232 
+2
+
+42
+
+2
+
+15 
+
+
+
+359
+
+561Wu G, Chang EY
+Aligning boundary in kernel space for learning imbalanced dataset
+FOURTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2004; : 265-272 
+2
+
+7
+
+0
+
+25 
+
+
+
+360
+
+562Xue GR, Shen D, Yang Q, Zeng HJ, Chen Z, et al.
+IRC: An iterative reinforcement categorization algorithm for interrelated web objects
+FOURTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2004; : 273-280 
+2
+
+1
+
+0
+
+19 
+
+
+
+#
+
+Date / Author / Journal
+
+LCS
+
+GCS
+
+LCR
+
+CR 
+
+
+
+361
+
+576Cong G, Tan KL, Tung AKH, Pan F
+Mining frequent closed patterns in microarray data
+FOURTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2004; : 363-366 
+2
+
+4
+
+0
+
+8 
+
+
+
+362
+
+577Dai BR, Huang JW, Yeh MY, Chen MS
+Clustering on demand for multiple data streams
+FOURTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2004; : 367-370 
+2
+
+3
+
+0
+
+11 
+
+
+
+363
+
+592Kuramochi M, Karypis G
+GREW - A scalable frequent subgraph discovery algorithm
+FOURTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2004; : 439-442 
+2
+
+30
+
+0
+
+10 
+
+
+
+364
+
+608Termier A, Rousset MC, Sebag M
+DRYADE: a new approach for discovering closed frequent trees in heterogeneous tree databases
+FOURTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2004; : 543-546 
+2
+
+9
+
+0
+
+14 
+
+
+
+365
+
+610Yu HJ, Searsmith D, Li XL, Han JW
+Scalable construction of topic directory with nonparametric closedtermset mining
+FOURTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2004; : 563-566 
+2
+
+3
+
+0
+
+8 
+
+
+
+366
+
+616Wong TL, Lam W
+Text mining from site invariant and dependent features for informationextraction knowledge adaptation
+PROCEEDINGS OF THE FOURTH SIAM INTERNATIONAL CONFERENCE ON DATA MINING. 2004; : 45-56 
+2
+
+7
+
+0
+
+24 
+
+
+
+367
+
+619Xiong H, Shekhar S, Huang Y, Kumar V, Ma XB, et al.
+A framework for discovering co-location patterns in data sets with extended spatial objects
+PROCEEDINGS OF THE FOURTH SIAM INTERNATIONAL CONFERENCE ON DATA MINING. 2004; : 78-89 
+2
+
+17
+
+1
+
+28 
+
+
+
+368
+
+622Cho H, Dhillon IS, Guan YQ, Sra S
+Minimum sum-squared residue co-clustering of gene expression data
+PROCEEDINGS OF THE FOURTH SIAM INTERNATIONAL CONFERENCE ON DATA MINING. 2004; : 114-125 
+2
+
+67
+
+0
+
+21 
+
+
+
+369
+
+632Du WL, Han YS, Chen SG
+Privacy-preserving multivariate statistical analysis: Linear regression and classification
+PROCEEDINGS OF THE FOURTH SIAM INTERNATIONAL CONFERENCE ON DATA MINING. 2004; : 222-233 
+2
+
+74
+
+0
+
+26 
+
+
+
+370
+
+658Li T, Ma S
+IFD: Iterative feature and data clustering
+PROCEEDINGS OF THE FOURTH SIAM INTERNATIONAL CONFERENCE ON DATA MINING. 2004; : 472-476 
+2
+
+4
+
+0
+
+15 
+
+
+
+#
+
+Date / Author / Journal
+
+LCS
+
+GCS
+
+LCR
+
+CR 
+
+
+
+371
+
+666Vaidya J, Clifton C
+Privacy preserving naive Bayes classifier for vertically partitioneddata
+PROCEEDINGS OF THE FOURTH SIAM INTERNATIONAL CONFERENCE ON DATA MINING. 2004; : 522-526 
+2
+
+34
+
+0
+
+12 
+
+
+
+372
+
+681Evfimievski A, Srikant R, Agrawal R, Gehrke J
+Privacy preserving mining of association rules
+INFORMATION SYSTEMS. 2004 JUN; 29 (4): 343-364 
+2
+
+82
+
+0
+
+32 
+
+
+
+373
+
+700Koh YS, Rountree N
+Finding sporadic rules using Apriori-inverse
+ADVANCES IN KNOWLEDGE DISCOVERY AND DATA MINING, PROCEEDINGS. 2005; 3518: 97-106 
+2
+
+58
+
+0
+
+9 
+
+
+
+374
+
+702Bonchi F, Lucchese C
+Pushing tougher constraints in frequent pattern mining
+ADVANCES IN KNOWLEDGE DISCOVERY AND DATA MINING, PROCEEDINGS. 2005; 3518: 114-124 
+2
+
+15
+
+0
+
+16 
+
+
+
+375
+
+714Coenen F, Leng P, Zhang L
+Threshold tuning for improved classification association rule mining
+ADVANCES IN KNOWLEDGE DISCOVERY AND DATA MINING, PROCEEDINGS. 2005; 3518: 216-225 
+2
+
+30
+
+1
+
+10 
+
+
+
+376
+
+724Matsumoto S, Takamura H, Okumura M
+Sentiment classification using word sub-sequences and dependencysub-trees
+ADVANCES IN KNOWLEDGE DISCOVERY AND DATA MINING, PROCEEDINGS. 2005; 3518: 301-311 
+2
+
+51
+
+0
+
+11 
+
+
+
+377
+
+800Bhattacharya A, Ljosa V, Pan JY, Verardo MR, Yang HJ, et al.
+ViVo: Visual vocabulary construction for mining biomedical images
+FIFTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2005; : 50-57 
+2
+
+1
+
+0
+
+22 
+
+
+
+378
+
+812Hido S, Kawano H
+AMIOT: Induced ordered tree mining in tree-structured databases
+FIFTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2005; : 170-177 
+2
+
+5
+
+0
+
+15 
+
+
+
+379
+
+829Neville J, Jensen D
+Leveraging relational autocorrelation with latent group models
+FIFTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2005; : 322-329 
+2
+
+5
+
+3
+
+25 
+
+
+
+380
+
+843Wang K, Fung BCM, Yu PS
+Template-based privacy preservation in classification problems
+FIFTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2005; : 466-473 
+2
+
+8
+
+0
+
+19 
+
+
+
+#
+
+Date / Author / Journal
+
+LCS
+
+GCS
+
+LCR
+
+CR 
+
+
+
+381
+
+845Wei L, Keogh E, Van Herle H, Mafra-Neto A
+Atomic wedgie: Efficient query filtering for streaming time series
+FIFTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2005; : 490-497 
+2
+
+7
+
+0
+
+9 
+
+
+
+382
+
+856Chen KK, Liu L
+Privacy preserving data classification with rotation perturbation
+FIFTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2005; : 589-592 
+2
+
+13
+
+0
+
+9 
+
+
+
+383
+
+882Melville P, Saar-Tsechansky M, Provost F, Mooney R
+An expected utility approach to active feature-value acquisition
+FIFTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2005; : 745-748 
+2
+
+3
+
+0
+
+11 
+
+
+
+384
+
+891Washio T, Mitsunaga Y, Motoda H
+Mining quantitative frequent itemsets using adaptive density-basedsubspace clustering
+FIFTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2005; : 793-796 
+2
+
+3
+
+2
+
+13 
+
+
+
+385
+
+986Kalashnikov DV, Mehrotra S, Chen ZQ
+Exploiting relationships for domain-independent data cleaning
+PROCEEDINGS OF THE FIFTH SIAM INTERNATIONAL CONFERENCE ON DATA MINING. 2005; : 262-273 
+2
+
+12
+
+0
+
+20 
+
+
+
+386
+
+987White S, Smyth P
+A Spectral Clustering Approach To Finding Communities in Graphs
+PROCEEDINGS OF THE FIFTH SIAM INTERNATIONAL CONFERENCE ON DATA MINING. 2005; : 274-285 
+2
+
+67
+
+0
+
+14 
+
+
+
+387
+
+988Liu C, Yan XF, Yu HJ, Han JW, Yu PS
+Mining Behavior Graphs for "Backtrace" of Noncrashing Bugs
+PROCEEDINGS OF THE FIFTH SIAM INTERNATIONAL CONFERENCE ON DATA MINING. 2005; : 286-297 
+2
+
+52
+
+1
+
+26 
+
+
+
+388
+
+1030Geerts F, Goethals B, Van den Bussche J
+Tight upper bounds on the number of candidate patterns
+ACM TRANSACTIONS ON DATABASE SYSTEMS. 2005 JUN; 30 (2): 333-363 
+2
+
+10
+
+0
+
+31 
+
+
+
+389
+
+1078Leskovec J, Singh A, Kleinberg J
+Patterns of influence in a recommendation network
+ADVANCES IN KNOWLEDGE DISCOVERY AND DATA MINING, PROCEEDINGS. 2006; 3918: 380-389 
+2
+
+75
+
+0
+
+17 
+
+
+
+390
+
+1102Jin W, Tung AKH, Han JW, Wang W
+Ranking outliers using symmetric neighborhood relationship
+ADVANCES IN KNOWLEDGE DISCOVERY AND DATA MINING, PROCEEDINGS. 2006; 3918: 577-593 
+2
+
+99
+
+0
+
+26 
+
+
+
+#
+
+Date / Author / Journal
+
+LCS
+
+GCS
+
+LCR
+
+CR 
+
+
+
+391
+
+1135Jin HD, Chen J, Kelman C, He HX, McAullay D, et al.
+Mining unexpected associations for signalling potential adverse drugreactions from administrative health databases
+ADVANCES IN KNOWLEDGE DISCOVERY AND DATA MINING, PROCEEDINGS. 2006; 3918: 867-876 
+2
+
+10
+
+0
+
+11 
+
+
+
+392
+
+1347Caruana R, Elhawary M, Nguyen N, Smith C
+Meta clustering
+ICDM 2006: SIXTH INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2006; : 107-+ 
+2
+
+47
+
+0
+
+33 
+
+
+
+393
+
+1350Cheng J, Ke YP, Ng W
+delta-tolerance closed frequent itemsets
+ICDM 2006: SIXTH INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2006; : 139-+ 
+2
+
+11
+
+0
+
+18 
+
+
+
+394
+
+1356Gao BJ, Ester M
+Turning clusters into patterns: Rectangle-based discriminative datadescription
+ICDM 2006: SIXTH INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2006; : 200-+ 
+2
+
+4
+
+0
+
+18 
+
+
+
+395
+
+1359Gupta G, Ghosh J
+Bregman bubble clustering: A robust, scalable framework for locatingmultiple, dense regions in data
+ICDM 2006: SIXTH INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2006; : 232-+ 
+2
+
+7
+
+0
+
+18 
+
+
+
+396
+
+1381Preisach C, Schmidt-Thieme L
+Relational ensemble classification
+ICDM 2006: SIXTH INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2006; : 499-+ 
+2
+
+5
+
+1
+
+28 
+
+
+
+397
+
+1391Veloso A, Meira W, Zaki MJ
+Lazy associative classification
+ICDM 2006: SIXTH INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2006; : 645-654 
+2
+
+44
+
+0
+
+23 
+
+
+
+398
+
+1392Verhein F, Chawla S
+Geometrically inspired itemset mining
+ICDM 2006: SIXTH INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2006; : 655-+ 
+2
+
+5
+
+1
+
+10 
+
+
+
+399
+
+1394Wale N, Karypis G
+Comparison of descriptor spaces for chemical compound retrieval and classification
+ICDM 2006: SIXTH INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2006; : 678-+ 
+2
+
+15
+
+0
+
+27 
+
+
+
+400
+
+1417He HH, Singh AK
+GraphRank: Statistical modeling and mining of significant subgraphs in the feature space
+ICDM 2006: SIXTH INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2006; : 885-+ 
+2
+
+9
+
+0
+
+17
+
+
+401
+
+1441Sim K, Li JY, Gopalkrishnan V, Liu GM
+Mining maximal Quasi-Bicliques to co-cluster stocks and financial ratios for value investment
+ICDM 2006: SIXTH INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2006; : 1059-1063 
+2
+
+21
+
+0
+
+10 
+
+
+
+402
+
+1444Sun JM, Papadimitriou S, Yu PS
+Window-based tensor analysis on high-dimensional, and multi-aspectStreams
+ICDM 2006: SIXTH INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2006; : 1076-1080 
+2
+
+23
+
+0
+
+8 
+
+
+
+403
+
+1452Wang F, Ma S, Yang LZ, Li T
+Recommendation on item graphs
+ICDM 2006: SIXTH INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2006; : 1119-1123 
+2
+
+13
+
+0
+
+14 
+
+
+
+404
+
+1458Wu ST, Li YF, Xu Y
+Deploying approaches for pattern refinement in text mining
+ICDM 2006: SIXTH INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2006; : 1157-+ 
+2
+
+41
+
+0
+
+18 
+
+
+
+405
+
+1545Hu QH, Zhao H, Xie ZX, Yu DR
+Consistency based attribute reduction
+ADVANCES IN KNOWLEDGE DISCOVERY AND DATA MINING, PROCEEDINGS. 2007; 4426: 96-+ 
+2
+
+17
+
+0
+
+17 
+
+
+
+406
+
+1558Pfahringer B, Leschi C, Reutemann P
+Scaling up semi-supervised learning: An efficient and effective LLGCvariant
+ADVANCES IN KNOWLEDGE DISCOVERY AND DATA MINING, PROCEEDINGS. 2007; 4426: 236-+ 
+2
+
+4
+
+0
+
+39 
+
+
+
+407
+
+1571Zhu F, Yan X, Han J, Yu PS
+gPrune: A constraint pushing framework for graph pattern mining
+ADVANCES IN KNOWLEDGE DISCOVERY AND DATA MINING, PROCEEDINGS. 2007; 4426: 388-+ 
+2
+
+21
+
+1
+
+30 
+
+
+
+408
+
+1882Calders T, Dexters N, Goethals B
+Mining frequent itemsets in a stream
+ICDM 2007: PROCEEDINGS OF THE SEVENTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING. 2007; : 83-+ 
+2
+
+27
+
+0
+
+13 
+
+
+
+409
+
+1919Cheng H, Tan PN, Sticklen J, Punch WF
+Recommendation via query centered random walk on k-partite graph
+ICDM 2007: PROCEEDINGS OF THE SEVENTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING. 2007; : 457-462 
+2
+
+18
+
+0
+
+12 
+
+
+
+410
+
+1928Ide T, Papadimitriou S, Vlachos M
+Computing correlation anomaly scores using stochastic nearest neighbors
+ICDM 2007: PROCEEDINGS OF THE SEVENTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING. 2007; : 523-+ 
+2
+
+21
+
+2
+
+14 
+
+
+
+#
+
+Date / Author / Journal
+
+LCS
+
+GCS
+
+LCR
+
+CR 
+
+
+
+411
+
+1931Jindal N, Liu B
+Analyzing and detecting review spam
+ICDM 2007: PROCEEDINGS OF THE SEVENTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING. 2007; : 547-552 
+2
+
+48
+
+0
+
+14 
+
+
+
+412
+
+1937Liang YL, Zhang YY, Xiong H, Sahoo R
+Failure prediction in IBM BlueGene/L event logs
+ICDM 2007: PROCEEDINGS OF THE SEVENTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING. 2007; : 583-+ 
+2
+
+29
+
+0
+
+12 
+
+
+
+413
+
+1948Shivaswamy PK, Chu W, Jansche M
+A support vector approach to censored targets
+ICDM 2007: PROCEEDINGS OF THE SEVENTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING. 2007; : 655-+ 
+2
+
+30
+
+0
+
+17 
+
+
+
+414
+
+1962Zhu XQ, Zhang P, Lin XD, Shi Y
+Active learning from data streams
+ICDM 2007: PROCEEDINGS OF THE SEVENTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING. 2007; : 757-+ 
+2
+
+30
+
+0
+
+20 
+
+
+
+415
+
+1968Aggarwal CC, Feng JH, Ta N, Zaki M, Wang JY
+XProj: A Framework for Projected Structural Clustering of XML Documents
+KDD-2007 PROCEEDINGS OF THE THIRTEENTH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2007; : 46-+ 
+2
+
+32
+
+0
+
+18 
+
+
+
+416
+
+1970Arnold A, Liu Y, Abe N
+Temporal Causal Modeling with Graphical Granger Methods
+KDD-2007 PROCEEDINGS OF THE THIRTEENTH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2007; : 66-+ 
+2
+
+56
+
+0
+
+29 
+
+
+
+417
+
+1972Becker H, Arias M
+Real-time Ranking with Concept Drift Using Expert Advice
+KDD-2007 PROCEEDINGS OF THE THIRTEENTH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2007; : 86-94 
+2
+
+4
+
+0
+
+43 
+
+
+
+418
+
+1978Chew PA, Bader BW, Kolda TG, Abdelali A
+Cross-Language Information Retrieval Using PARAFAC2
+KDD-2007 PROCEEDINGS OF THE THIRTEENTH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2007; : 143-+ 
+2
+
+23
+
+0
+
+23 
+
+
+
+419
+
+1981Chopra S, Leahy J, Caplin A, Thampy T, LeCun Y
+Discovering the Hidden Structure of House Prices with a Non-ParametricLatent Manifold Model
+KDD-2007 PROCEEDINGS OF THE THIRTEENTH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2007; : 173-+ 
+2
+
+7
+
+0
+
+19 
+
+
+
+420
+
+1986Das K, Schneider J
+Detecting Anomalous Records in Categorical Datasets
+KDD-2007 PROCEEDINGS OF THE THIRTEENTH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2007; : 220-229 
+2
+
+27
+
+0
+
+33 
+
+
+
+#
+
+Date / Author / Journal
+
+LCS
+
+GCS
+
+LCR
+
+CR 
+
+
+
+421
+
+1999Heikinheimo H, Hinkkanen E, Mannila H, Mielikainen T, Seppanen JK
+Finding Low-Entropy Sets and Trees from Binary Data
+KDD-2007 PROCEEDINGS OF THE THIRTEENTH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2007; : 350-+ 
+2
+
+10
+
+0
+
+24 
+
+
+
+422
+
+2003Ke YP, Cheng J, Ng W
+Correlation Search in Graph Databases
+KDD-2007 PROCEEDINGS OF THE THIRTEENTH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2007; : 390-399 
+2
+
+13
+
+0
+
+27 
+
+
+
+423
+
+2011Long B, Zhang ZF, Yu PS
+A Probabilistic Framework for Relational Clustering
+KDD-2007 PROCEEDINGS OF THE THIRTEENTH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2007; : 470-479 
+2
+
+41
+
+0
+
+51 
+
+
+
+424
+
+2014Mimno D, McCallum A
+Expertise Modeling for Matching Papers with Reviewers
+KDD-2007 PROCEEDINGS OF THE THIRTEENTH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2007; : 500-509 
+2
+
+64
+
+1
+
+14 
+
+
+
+425
+
+2016Nallapati R, Cohen W, Ditmore S, Lafferty J, Ung K
+Multiscale Topic Tomography
+KDD-2007 PROCEEDINGS OF THE THIRTEENTH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2007; : 520-529 
+2
+
+13
+
+0
+
+13 
+
+
+
+426
+
+2036Tantipathananandh C, Berger-Wolf T, Kempe D
+A Framework For Community Identification in Dynamic Social Networks
+KDD-2007 PROCEEDINGS OF THE THIRTEENTH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2007; : 717-726 
+2
+
+69
+
+0
+
+38 
+
+
+
+427
+
+2041Vreeken J, van Leeuwen M, Siebes A
+Characterising the Difference
+KDD-2007 PROCEEDINGS OF THE THIRTEENTH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2007; : 765-774 
+2
+
+11
+
+1
+
+13 
+
+
+
+428
+
+2043Wang XH, Zhai CX, Hu X, Sproat R
+Mining Correlated Bursty Topic Patterns from Coordinated Text Streams
+KDD-2007 PROCEEDINGS OF THE THIRTEENTH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2007; : 784-793 
+2
+
+49
+
+0
+
+25 
+
+
+
+429
+
+2060Hua M, Pei J
+Cleaning Disguised Missing Data: A Heuristic Approach
+KDD-2007 PROCEEDINGS OF THE THIRTEENTH ACM SIGKDD INTERNATIONAL CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2007; : 950-958 
+2
+
+7
+
+0
+
+6 
+
+
+
+430
+
+2110Bu YY, Leung TW, Fu AWC, Keogh E, Pei JA, et al.
+WAT: Finding Top-K Discords in Time Series Database
+PROCEEDINGS OF THE SEVENTH SIAM INTERNATIONAL CONFERENCE ON DATA MINING. 2007; : 449-+ 
+2
+
+16
+
+2
+
+10 
+
+
+
+#
+
+Date / Author / Journal
+
+LCS
+
+GCS
+
+LCR
+
+CR 
+
+
+
+431
+
+2122Leskovec J, McGlohon M, Faloutsos C, Glance N, Hurst M
+Patterns of Cascading Behavior in Large Blog Graphs
+PROCEEDINGS OF THE SEVENTH SIAM INTERNATIONAL CONFERENCE ON DATA MINING. 2007; : 551-+ 
+2
+
+104
+
+0
+
+21 
+
+
+
+432
+
+2131Keogh E, Lonardi S, Ratanamahatana CA, Wei L, Lee SH, et al.
+Compression-based data mining of sequential data
+DATA MINING AND KNOWLEDGE DISCOVERY. 2007 FEB; 14 (1): 99-129 
+2
+
+31
+
+1
+
+49 
+
+
+
+433
+
+2150Hido S, Ide T, Kashima H, Kubo H, Matsuzawa H
+Unsupervised change analysis using supervised learning
+ADVANCES IN KNOWLEDGE DISCOVERY AND DATA MINING, PROCEEDINGS. 2008; 5012: 148-159 
+2
+
+16
+
+0
+
+16 
+
+
+
+434
+
+2157Minato S, Uno T, Arimura H
+LCM over ZBDDs: Fast generation of very large-scale frequent itemsetsusing a compact graph-based representation
+ADVANCES IN KNOWLEDGE DISCOVERY AND DATA MINING, PROCEEDINGS. 2008; 5012: 234-+ 
+2
+
+14
+
+0
+
+16 
+
+
+
+435
+
+2180Christen P
+Automatic training example selection for scalable unsupervised recordlinkage
+ADVANCES IN KNOWLEDGE DISCOVERY AND DATA MINING, PROCEEDINGS. 2008; 5012: 511-518 
+2
+
+10
+
+0
+
+13 
+
+
+
+436
+
+2243Tanbeer SK, Ahmed CF, Jeong BS, Lee YK
+CP-tree: A tree structure for single-pass frequent pattern mining
+ADVANCES IN KNOWLEDGE DISCOVERY AND DATA MINING, PROCEEDINGS. 2008; 5012: 1022-1027 
+2
+
+19
+
+0
+
+7 
+
+
+
+437
+
+2260Punera K, Ghosh J
+Consensus-based ensembles of soft clusterings
+APPLIED ARTIFICIAL INTELLIGENCE. 2008; 22 (7-8): 780-810 
+2
+
+32
+
+2
+
+38 
+
+
+
+438
+
+2272Chaoji V, Al Hasan M, Salem S, Zaki MJ
+SPARCL: Efficient and Effective Shape-based Clustering
+ICDM 2008: EIGHTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2008; : 93-102 
+2
+
+13
+
+1
+
+15 
+
+
+
+439
+
+2292Inokuchi A, Washio T
+A Fast Method to Mine Frequent Subsequences from Graph Sequence Data
+ICDM 2008: EIGHTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2008; : 303-312 
+2
+
+12
+
+1
+
+19 
+
+
+
+440
+
+2314Shan HH, Banerjee A
+Bayesian Co-clustering
+ICDM 2008: EIGHTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2008; : 530-539 
+2
+
+50
+
+4
+
+21 
+
+
+
+#
+
+Date / Author / Journal
+
+LCS
+
+GCS
+
+LCR
+
+CR 
+
+
+
+441
+
+2315Sharan U, Neville J
+Temporal-Relational Classifiers for Prediction in Evolving Domains
+ICDM 2008: EIGHTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2008; : 540-+ 
+2
+
+16
+
+0
+
+24 
+
+
+
+442
+
+2328Yin J, Gaber MM
+Clustering Distributed Time Series in Sensor Networks
+ICDM 2008: EIGHTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2008; : 678-687 
+2
+
+11
+
+2
+
+24 
+
+
+
+443
+
+2329Zhang ML, Zhou ZH
+(MMIML)-M-3: A Maximum Margin Method for Mufti-Instance Multi-LabelLearning
+ICDM 2008: EIGHTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2008; : 688-+ 
+2
+
+45
+
+1
+
+34 
+
+
+
+444
+
+2330Akoglu L, McGlohon M, Faloutsos C
+RTM: Laws and a Recursive Generator for Weighted Time-Evolving Graphs
+ICDM 2008: EIGHTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2008; : 701-706 
+2
+
+15
+
+0
+
+19 
+
+
+
+445
+
+2337Chandola V, Mithal V, Kumar V
+Comparative Evaluation of Anomaly Detection Techniques for Sequence Data
+ICDM 2008: EIGHTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2008; : 743-+ 
+2
+
+32
+
+0
+
+18 
+
+
+
+446
+
+2344Fu Q, Banerjee A
+Multiplicative Mixture Models for Overlapping Clustering
+ICDM 2008: EIGHTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2008; : 791-796 
+2
+
+18
+
+0
+
+14 
+
+
+
+447
+
+2351He JR, Liu Y, Lawrence R
+Graph-based Rare Category Detection
+ICDM 2008: EIGHTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2008; : 833-+ 
+2
+
+16
+
+4
+
+17 
+
+
+
+448
+
+2368McGovern A, Hiers NC, Collier M, Gagne DJ, Brown RA
+Spatiotemporal Relational Probability Trees: An Introduction
+ICDM 2008: EIGHTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2008; : 935-+ 
+2
+
+14
+
+0
+
+24 
+
+
+
+449
+
+2369Mendes LF, Ding BL, Han JW
+Stream Sequential Pattern Mining with Precise Error Bounds
+ICDM 2008: EIGHTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2008; : 941-946 
+2
+
+18
+
+0
+
+11 
+
+
+
+450
+
+2376Read J, Pfahringer B, Holmes G
+Multi-label Classification using Ensembles of Pruned Sets
+ICDM 2008: EIGHTH IEEE INTERNATIONAL CONFERENCE ON DATA MINING, PROCEEDINGS. 2008; : 995-1000 
+2
+
+128
+
+0
+
+12 
+
+
+
+#
+
+Date / Author / Journal
+
+LCS
+
+GCS
+
+LCR
+
+CR 
+
+
+
+451
+
+2477Matsubara Y, Sakurai Y, Yoshikawa M
+Scalable Algorithms for Distribution Search
+2009 9TH IEEE INTERNATIONAL CONFERENCE ON DATA MINING. 2009; : 347-+ 
+2
+
+6
+
+1
+
+23 
+
+
+
+452
+
+2493Tatti N
+Significance of Episodes Based on Minimal Windows
+2009 9TH IEEE INTERNATIONAL CONFERENCE ON DATA MINING. 2009; : 513-522 
+2
+
+11
+
+2
+
+14 
+
+
+
+453
+
+2503Zhang P, Zhu XQ, Guo L
+Mining Data Streams with Labeled and Unlabeled Training Examples
+2009 9TH IEEE INTERNATIONAL CONFERENCE ON DATA MINING. 2009; : 627-+ 
+2
+
+32
+
+0
+
+18 
+
+
+
+454
+
+2511Bayati M, Gerritsen M, Gleich DF, Saberi A, Wang Y
+Algorithms for Large, Sparse Network Alignment Problems
+2009 9TH IEEE INTERNATIONAL CONFERENCE ON DATA MINING. 2009; : 705-+ 
+2
+
+32
+
+0
+
+23 
+
+
+
+455
+
+2518Chen X, Pan WK, Kwok JT, Carbonell JG
+Accelerated Gradient Method for Multi-Task Sparse Learning Problem
+2009 9TH IEEE INTERNATIONAL CONFERENCE ON DATA MINING. 2009; : 746-+ 
+2
+
+81
+
+0
+
+26 
+
+
+
+456
+
+2533Lelis L, Sander J
+Semi-Supervised Density-Based Clustering
+2009 9TH IEEE INTERNATIONAL CONFERENCE ON DATA MINING. 2009; : 842-847 
+2
+
+32
+
+0
+
+10 
+
+
+
+457
+
+2548Robardet C
+Constraint-based Pattern Mining in Dynamic Graphs
+2009 9TH IEEE INTERNATIONAL CONFERENCE ON DATA MINING. 2009; : 950-955 
+2
+
+10
+
+3
+
+17 
+
+
+
+458
+
+2586Jagannathan G, Pillaipakkamnatt K, Wright RN
+A Practical Differentially Private Random Decision Tree Classifier
+2009 IEEE INTERNATIONAL CONFERENCE ON DATA MINING WORKSHOPS (ICDMW 2009). 2009; : 114-+ 
+2
+
+23
+
+2
+
+16 
+
+
+
+459
+
+2589Vu D, Slavkovic A
+Differential Privacy for Clinical Trial Data: Preliminary Evaluations
+2009 IEEE INTERNATIONAL CONFERENCE ON DATA MINING WORKSHOPS (ICDMW 2009). 2009; : 138-143 
+2
+
+8
+
+0
+
+21 
+
+
+
+460
+
+2615Yang SQ, Wang B, Zhao HZ, Wu B
+Efficient Dense Structure Mining using MapReduce
+2009 IEEE INTERNATIONAL CONFERENCE ON DATA MINING WORKSHOPS (ICDMW 2009). 2009; : 332-337 
+2
+
+12
+
+2
+
+11 
+
+
+
+#
+
+Date / Author / Journal
+
+LCS
+
+GCS
+
+LCR
+
+CR 
+
+
+
+461
+
+2653Qin B, Xia YN, Li F
+DTU: A Decision Tree for Uncertain Data
+ADVANCES IN KNOWLEDGE DISCOVERY AND DATA MINING, PROCEEDINGS. 2009; 5476: 4-+ 
+2
+
+35
+
+3
+
+23 
+
+
+
+462
+
+2687Bunkhumpornpat C, Sinapiromsaran K, Lursinsap C
+Safe-Level-SMOTE: Safe-Level-Synthetic Minority Over-Sampling TEchnique for Handling the Class Imbalanced Problem
+ADVANCES IN KNOWLEDGE DISCOVERY AND DATA MINING, PROCEEDINGS. 2009; 5476: 475-482 
+2
+
+138
+
+0
+
+19 
+
+
+
+463
+
+2702Huang A, Milne D, Frank E, Witten IH
+Clustering Documents Using a Wikipedia-Based Concept Representation
+ADVANCES IN KNOWLEDGE DISCOVERY AND DATA MINING, PROCEEDINGS. 2009; 5476: 628-636 
+2
+
+29
+
+3
+
+15 
+
+
+
+464
+
+2716Zhang K, Hutter M, Jin HD
+A New Local Distance-Based Outlier Detection Approach for ScatteredReal-World Data
+ADVANCES IN KNOWLEDGE DISCOVERY AND DATA MINING, PROCEEDINGS. 2009; 5476: 813-822 
+2
+
+86
+
+1
+
+12 
+
+
+
+465
+
+2761Bu YY, Chen L, Fu AWC, Liu DW
+Efficient Anomaly Monitoring Over Moving Object Trajectory Streams
+KDD-09: 15TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2009; : 159-167 
+2
+
+44
+
+0
+
+33 
+
+
+
+466
+
+2766Chen Y, Pavlov D, Canny JF
+Large-Scale Behavioral Targeting
+KDD-09: 15TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2009; : 209-217 
+2
+
+40
+
+0
+
+11 
+
+
+
+467
+
+2779Gao J, Fan W, Sun YZ, Han JW
+Heterogeneous Source Consensus Learning via Decision Propagation and Negotiation
+KDD-09: 15TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2009; : 339-347 
+2
+
+13
+
+1
+
+29 
+
+
+
+468
+
+2782Guo L, Tan EH, Chen SQ, Zhang XD, Zhao YH
+Analyzing Patterns of User Content Generation in Online Social Networks
+KDD-09: 15TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2009; : 369-377 
+2
+
+58
+
+0
+
+27 
+
+
+
+469
+
+2800Liu J, Chen JH, Ye JP
+Large-Scale Sparse Logistic Regression
+KDD-09: 15TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2009; : 547-555 
+2
+
+71
+
+0
+
+35 
+
+
+
+470
+
+2806Malmgren RD, Hofman JM, Amaral LAN, Watts DJ
+Characterizing Individual Communication Patterns
+KDD-09: 15TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2009; : 607-615 
+2
+
+17
+
+0
+
+32 
+
+
+
+#
+
+Date / Author / Journal
+
+LCS
+
+GCS
+
+LCR
+
+CR 
+
+
+
+471
+
+2837Yang BS, Sun JT, Wang TJ, Chen Z
+Effective Multi-Label Active Learning for Text Classification
+KDD-09: 15TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2009; : 917-925 
+2
+
+34
+
+0
+
+23 
+
+
+
+472
+
+2841Yin ZJ, Li R, Mei QZ, Han JW
+Exploring Social Tagging Graph for Web Object Classification
+KDD-09: 15TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2009; : 957-965 
+2
+
+27
+
+1
+
+20 
+
+
+
+473
+
+2845Zhang YZ, Wang JY, Wang Y, Zhou LZ
+Parallel Community Detection on Large Networks with Propinquity Dynamics
+KDD-09: 15TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2009; : 997-1005 
+2
+
+49
+
+0
+
+20 
+
+
+
+474
+
+2857Daruru S, Marin N, Walker M, Ghosh J
+Pervasive Parallelism in Data Mining: Dataflow solution to Co-clusteringLarge and Sparse Netflix Data
+KDD-09: 15TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2009; : 1115-1123 
+2
+
+10
+
+2
+
+18 
+
+
+
+475
+
+2870Ma J, Saul LK, Savage S, Voelker GM
+Beyond Blacklists: Learning to Detect Malicious Web Sites from Suspicious URLs
+KDD-09: 15TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2009; : 1245-1253 
+2
+
+161
+
+0
+
+27 
+
+
+
+476
+
+2873Melville P, Gryc W, Lawrence RD
+Sentiment Analysis of Blogs by Combining Lexical Knowledge with TextClassification
+KDD-09: 15TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2009; : 1275-1283 
+2
+
+117
+
+0
+
+33 
+
+
+
+477
+
+2879Sun L, Patel R, Liu J, Chen KW, Wu T, et al.
+Mining Brain Region Connectivity for Alzheimer's Disease Study via Sparse Inverse Covariance Estimation
+KDD-09: 15TH ACM SIGKDD CONFERENCE ON KNOWLEDGE DISCOVERY AND DATA MINING. 2009; : 1335-1343 
+2
+
+20
+
+0
+
+30 
+
+
+
+478
+
+2901Tseng VS, Lee CH
+Effective temporal data classification by integrating sequential patternmining and probabilistic induction
+EXPERT SYSTEMS WITH APPLICATIONS. 2009 JUL; 36 (5): 9524-9532 
+2
+
+29
+
+0
+
+31 
+
+
+
+479
+
+3186Tomasev N, Radovanovic M, Mladenic D, Ivanovic M
+The Role of Hubness in Clustering High-Dimensional Data
+ADVANCES IN KNOWLEDGE DISCOVERY AND DATA MINING, PT I: 15TH PACIFIC-ASIA CONFERENCE, PAKDD 2011. 2011; 6634: 183-195 
+2
+
+16
+
+2
+
+20 
+
+
+
+480
+
+3265Tang J, Zhang J, Jin RM, Yang Z, Cai KK, et al.
+Topic level expertise search over heterogeneous networks
+MACHINE LEARNING. 2011 FEB; 82 (2): 211-237 
+2
+
+37
+
+4
+
+45 
+
+
+
+#
+
+Date / Author / Journal
+
+LCS
+
+GCS
+
+LCR
+
+CR 
+
+
+
+481
+
+3271Azmandian F, Yilmazer A, Dy JG, Aslam JA, Kaeli DR
+GPU-Accelerated Feature Selection for Outlier Detection using the LocalKernel Density Ratio
+12TH IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM 2012). 2012; : 51-60 
+2
+
+10
+
+0
+
+32 
+
+
+
+482
+
+3276Bi W, Kwok JT
+Hierarchical Multilabel Classification with Minimum Bayes Risk
+12TH IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM 2012). 2012; : 101-110 
+2
+
+9
+
+0
+
+32 
+
+
+
+483
+
+3281Chitta R, Jin R, Jain AK
+Efficient Kernel Clustering Using Random Fourier Features
+12TH IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM 2012). 2012; : 161-170 
+2
+
+22
+
+0
+
+41 
+
+
+
+484
+
+3308Liu B, Cong G, Xu D, Zeng YF
+Time Constrained Influence Maximization in Social Networks
+12TH IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM 2012). 2012; : 439-448 
+2
+
+48
+
+2
+
+20 
+
+
+
+485
+
+3315Maserrat H, Pei J
+Community Preserving Lossy Compression of Social Networks
+12TH IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM 2012). 2012; : 509-518 
+2
+
+5
+
+1
+
+25 
+
+
+
+486
+
+3317Muller E, Assent I, Iglesias P, Mulle Y, Bohm K
+Outlier Ranking via Subspace Analysis in Multiple Views of the Data
+12TH IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM 2012). 2012; : 529-538 
+2
+
+19
+
+7
+
+30 
+
+
+
+487
+
+3318Myers SA, Leskovec J
+Clash of the Contagions: Cooperation and Competition in InformationDiffusion
+12TH IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM 2012). 2012; : 539-548 
+2
+
+49
+
+0
+
+29 
+
+
+
+488
+
+3343Zakaria J, Mueen A, Keogh E
+Clustering Time Series using Unsupervised-Shapelets
+12TH IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM 2012). 2012; : 785-794 
+2
+
+48
+
+1
+
+33 
+
+
+
+489
+
+3353Fang M, Zhu XQ, Li B, Ding W, Wu XD
+Self-Taught Active Learning from Crowds
+12TH IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM 2012). 2012; : 858-863 
+2
+
+15
+
+0
+
+15 
+
+
+
+490
+
+3380Noulas A, Scellato S, Lathia N, Mascolo C
+Mining User Mobility Features for Next Place Prediction in Location-based Services
+12TH IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM 2012). 2012; : 1038-1043 
+2
+
+100
+
+1
+
+10 
+
+
+
+#
+
+Date / Author / Journal
+
+LCS
+
+GCS
+
+LCR
+
+CR 
+
+
+
+491
+
+3401Yi JF, Yang TB, Jin R, Jain AK, Mahdavi M
+Robust Ensemble Clustering by Matrix Completion
+12TH IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM 2012). 2012; : 1176-1181 
+2
+
+23
+
+1
+
+42 
+
+
+
+492
+
+3407Zhu HS, Chen EH, Yu KF, Cao HH, Xiong H, et al.
+Mining Personal Context-Aware Preferences for Mobile Users
+12TH IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM 2012). 2012; : 1212-1217 
+2
+
+19
+
+1
+
+16 
+
+
+
+493
+
+3499Liao ZX, Lei PR, Shen TJ, Li SC, Peng WC
+Mining Temporal Profiles of Mobile Applications for Usage Prediction
+12TH IEEE INTERNATIONAL CONFERENCE ON DATA MINING WORKSHOPS (ICDMW 2012). 2012; : 890-893 
+2
+
+13
+
+1
+
+15 
+
+
+
+494
+
+3620Adcock AB, Sullivan BD, Mahoney MW
+Tree-like structure in large social and information networks
+2013 IEEE 13TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2013; : 1-10 
+2
+
+27
+
+0
+
+39 
+
+
+
+495
+
+3639Ghalwash MF, Radosavljevic V, Obradovic Z
+Extraction of Interpretable Multivariate Patterns for Early Diagnostics
+2013 IEEE 13TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2013; : 201-210 
+2
+
+14
+
+1
+
+29 
+
+
+
+496
+
+3647Hu B, Chen YP, Zakaria J, Ulanova L, Keogh E
+Classification of Multi-Dimensional Streaming Time Series by Weighting each Classifier's Track Record
+2013 IEEE 13TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2013; : 281-290 
+2
+
+12
+
+0
+
+43 
+
+
+
+497
+
+3657Koutra D, Tong HH, Lubensky D
+BIG-ALIGN: Fast Bipartite Graph Alignment
+2013 IEEE 13TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2013; : 389-398 
+2
+
+21
+
+2
+
+29 
+
+
+
+498
+
+3673Nguyen DT, Zhang HY, Das S, Thai MT, Dinh TN
+Least Cost Influence in Multiplex Social Networks: Model Representation and Analysis
+2013 IEEE 13TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2013; : 567-576 
+2
+
+12
+
+0
+
+17 
+
+
+
+499
+
+3675Pan B, Demiryurek U, Shahabi C, Gupta C
+Forecasting Spatiotemporal Impact of Traffic Incidents on Road Networks
+2013 IEEE 13TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2013; : 587-596 
+2
+
+17
+
+0
+
+19 
+
+
+
+500
+
+3677Qian BY, Wang X, Wang J, Li HF, Cao N, et al.
+Fast Pairwise Query Selection for Large-Scale Active Learning to Rank
+2013 IEEE 13TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2013; : 607-616 
+2
+
+9
+
+0
+
+30
+
+
+501
+
+3685Speakman S, Zhang YT, Neill DB
+Dynamic Pattern Detection with Temporal Consistency and ConnectivityConstraints
+2013 IEEE 13TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2013; : 697-706 
+2
+
+8
+
+0
+
+14 
+
+
+
+502
+
+3701Zhou C, Zhang P, Guo J, Zhu XQ, Guo L
+UBLF: An Upper Bound Based Approach to Discover Influential Nodes in Social Networks
+2013 IEEE 13TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2013; : 907-916 
+2
+
+32
+
+0
+
+23 
+
+
+
+503
+
+3707Barbieri N, Bonchi F, Manco G
+Influence-based Network-oblivious Community Detection
+2013 IEEE 13TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2013; : 955-960 
+2
+
+14
+
+0
+
+18 
+
+
+
+504
+
+3713Chen ZT, Zhang K, Chan LW
+Nonlinear Causal Discovery for High Dimensional Data: A Kernelized TraceMethod
+2013 IEEE 13TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2013; : 1003-1008 
+2
+
+6
+
+0
+
+15 
+
+
+
+505
+
+3722Fu B, Xu GD, Wang ZH, Cao LB
+Leveraging Supervised Label Dependency Propagation for Multi-labelLearning
+2013 IEEE 13TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2013; : 1061-1066 
+2
+
+4
+
+0
+
+14 
+
+
+
+506
+
+3725Huang SJ, Zhou ZH
+Active Query Driven by Uncertainty and Diversity for IncrementalMulti-Label Learning
+2013 IEEE 13TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2013; : 1079-1084 
+2
+
+16
+
+1
+
+33 
+
+
+
+507
+
+3730Liang ZH, Tomioka R, Murata H, Asaoka R, Yamanishi K
+Quantitative Prediction of Glaucomatous Visual Field Loss from Few Measurements
+2013 IEEE 13TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2013; : 1121-1126 
+2
+
+6
+
+0
+
+15 
+
+
+
+508
+
+3732Liu HF, Zhang YC, Lin H, Wu JJ, Wu Z, et al.
+How Many Zombies Around You?
+2013 IEEE 13TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2013; : 1133-1138 
+2
+
+7
+
+3
+
+26 
+
+
+
+509
+
+3737Senin P, Malinchik S
+SAX-VSM: Interpretable Time Series Classification Using SAX and VectorSpace Model
+2013 IEEE 13TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2013; : 1175-1180 
+2
+
+42
+
+1
+
+25 
+
+
+
+510
+
+3739Sparks ER, Talwalkar A, Smith V, Kottalam J, Pan XH, et al.
+MLI: An API for Distributed Machine Learning
+2013 IEEE 13TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2013; : 1187-1192 
+2
+
+35
+
+0
+
+19 
+
+
+
+#
+
+Date / Author / Journal
+
+LCS
+
+GCS
+
+LCR
+
+CR 
+
+
+
+511
+
+3750Yingchareonthawornchai S, Sivaraks H, Rakthanmanon T, Ratanamahatana CA
+Efficient Proper Length Time Series Motif Discovery
+2013 IEEE 13TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2013; : 1265-1270 
+2
+
+15
+
+1
+
+15 
+
+
+
+512
+
+3751Yu WR, Aggarwal CC, Ma S, Wang HX
+On Anomalous Hotspot Discovery in Graph Streams
+2013 IEEE 13TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2013; : 1271-1276 
+2
+
+11
+
+0
+
+12 
+
+
+
+513
+
+3752Zeng GX, Luo P, Chen EH, Wang M
+From Social User Activities to People Affiliation
+2013 IEEE 13TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2013; : 1277-1282 
+2
+
+7
+
+1
+
+16 
+
+
+
+514
+
+3754Zhang JW, Kong XN, Yu PS
+Predicting Social Links for New Users across Aligned HeterogeneousSocial Networks
+2013 IEEE 13TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2013; : 1289-1294 
+2
+
+30
+
+0
+
+11 
+
+
+
+515
+
+3882Cao BK, Kong XN, Yu PS
+Collective Prediction of Multiple Types of Links in HeterogeneousInformation Networks
+2014 IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2014; : 50-59 
+2
+
+20
+
+2
+
+29 
+
+
+
+516
+
+3883Chang SY, Qi GJ, Aggarwal CC, Zhou JY, Wang M, et al.
+Factorized Similarity Learning in Networks
+2014 IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2014; : 60-69 
+2
+
+7
+
+1
+
+44 
+
+
+
+517
+
+3918Petitjean F, Forestier G, Webb GI, Nicholson AE, Chen YP, et al.
+Dynamic Time Warping Averaging of Time Series allows Faster and more Accurate Classification
+2014 IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2014; : 470-479 
+2
+
+51
+
+2
+
+33 
+
+
+
+518
+
+3929Wu K, Zhang K, Fan W, Edwards A, Yu PS
+RS-Forest: A Rapid Density Estimator for Streaming Anomaly Detection
+2014 IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2014; : 600-609 
+2
+
+14
+
+1
+
+24 
+
+
+
+519
+
+3951Duivesteijn W, Thaele J
+Understanding Where Your Classifier Does (Not) Work - the SCaPE ModelClass for EMM
+2014 IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2014; : 809-814 
+2
+
+7
+
+0
+
+18 
+
+
+
+520
+
+3967Luo C, Pang W, Wang Z, Lin CH
+Hete-CF: Social-Based Collaborative Filtering Recommendation usingHeterogeneous Relations
+2014 IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2014; : 917-922 
+2
+
+23
+
+1
+
+16 
+
+
+
+#
+
+Date / Author / Journal
+
+LCS
+
+GCS
+
+LCR
+
+CR 
+
+
+
+521
+
+3981Wang F, Liu W, Chawla S
+On Sparse Feature Attacks in Adversarial Learning
+2014 IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2014; : 1013-1018 
+2
+
+14
+
+0
+
+17 
+
+
+
+522
+
+3992Yang P, He JR, Yang HX, Fu HD
+Learning from Label and Feature Heterogeneity
+2014 IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2014; : 1079-1084 
+2
+
+4
+
+0
+
+23 
+
+
+
+523
+
+3996Zhao HK, Wu L, Liu Q, Ge Y, Chen EH
+Investment Recommendation in P2P Lending: A Portfolio Perspective with Risk Management
+2014 IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2014; : 1109-1114 
+2
+
+12
+
+0
+
+19 
+
+
+
+524
+
+4245Faleiro JM, Thomson A, Abadi DJ
+Lazy Evaluation of Transactions in Database Systems
+SIGMOD'14: PROCEEDINGS OF THE 2014 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2014; : 15-26 
+2
+
+7
+
+0
+
+25 
+
+
+
+525
+
+4248Liu SY, Wang SH, Zhu FD, Zhang JB, Krishnan R
+HYDRA: Large-scale Social Identity Linkage via Heterogeneous BehaviorModeling
+SIGMOD'14: PROCEEDINGS OF THE 2014 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2014; : 51-62 
+2
+
+60
+
+0
+
+32 
+
+
+
+526
+
+4252Shi JM, Mamoulis N, Wu DM, Cheung DW
+Density-based Place Clustering in Geo-Social Networks
+SIGMOD'14: PROCEEDINGS OF THE 2014 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2014; : 99-110 
+2
+
+19
+
+0
+
+41 
+
+
+
+527
+
+4254Chen ZT, Liu YB, Wong RCW, Xiong JM, Mai GL, et al.
+Efficient Algorithms for Optimal Location Queries in Road Networks
+SIGMOD'14: PROCEEDINGS OF THE 2014 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2014; : 123-134 
+2
+
+13
+
+0
+
+20 
+
+
+
+528
+
+4259Taft R, Vartak M, Satish NR, Sundaram N, Madden S, et al.
+GenBase: A Complex Analytics Genomics Benchmark
+SIGMOD'14: PROCEEDINGS OF THE 2014 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2014; : 177-188 
+2
+
+11
+
+0
+
+11 
+
+
+
+529
+
+4267Zhang C, Kumar A, Re C
+Materialization Optimizations for Feature Selection Workloads
+SIGMOD'14: PROCEEDINGS OF THE 2014 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2014; : 265-276 
+2
+
+11
+
+0
+
+25 
+
+
+
+530
+
+4270Fan WF, Wang X, Wu YH
+Querying Big Graphs within Bounded Resources
+SIGMOD'14: PROCEEDINGS OF THE 2014 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2014; : 301-312 
+2
+
+15
+
+0
+
+36 
+
+
+
+#
+
+Date / Author / Journal
+
+LCS
+
+GCS
+
+LCR
+
+CR 
+
+
+
+531
+
+4271Zou L, Huang RZ, Wang HX, Yu JX, He WQ, et al.
+Natural Language Question Answering over RDF - A Graph Data DrivenApproach
+SIGMOD'14: PROCEEDINGS OF THE 2014 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2014; : 313-324 
+2
+
+36
+
+0
+
+32 
+
+
+
+532
+
+4273Soliman MA, Antova L, Raghavan V, El-Helw A, Gu ZX, et al.
+Orca: A Modular Query Optimizer Architecture for Big Data
+SIGMOD'14: PROCEEDINGS OF THE 2014 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2014; : 337-348 
+2
+
+8
+
+0
+
+27 
+
+
+
+533
+
+4279Duggan J, Stonebraker M
+Incremental Elasticity For Array Databases
+SIGMOD'14: PROCEEDINGS OF THE 2014 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2014; : 409-420 
+2
+
+6
+
+0
+
+27 
+
+
+
+534
+
+4282Chalamalla A, Ilyas IF, Ouzzani M, Papotti P
+Descriptive and Prescriptive Data Cleaning
+SIGMOD'14: PROCEEDINGS OF THE 2014 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2014; : 445-456 
+2
+
+16
+
+0
+
+22 
+
+
+
+535
+
+4288Dimitriadou K, Papaemmanouil O, Diao YL
+Explore-by-Example: An Automatic Query Steering Framework for Interactive Data Exploration
+SIGMOD'14: PROCEEDINGS OF THE 2014 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2014; : 517-528 
+2
+
+13
+
+0
+
+28 
+
+
+
+536
+
+4289Kang WH, Lee SW, Moon B, Kee YS, Oh M
+Durable Write Cache in Flash Memory SSD for Relational and NoSQLDatabases
+SIGMOD'14: PROCEEDINGS OF THE 2014 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2014; : 529-540 
+2
+
+14
+
+0
+
+33 
+
+
+
+537
+
+4298Shao YX, Cui B, Chen L, Ma L, Yao JJ, et al.
+Parallel Subgraph Listing in a Large-Scale Graph
+SIGMOD'14: PROCEEDINGS OF THE 2014 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2014; : 625-636 
+2
+
+18
+
+0
+
+32 
+
+
+
+538
+
+4301Xiao DQ, Eltabakh MY
+InsightNotes: Summary-Based Annotation Management in RelationalDatabases
+SIGMOD'14: PROCEEDINGS OF THE 2014 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2014; : 661-672 
+2
+
+4
+
+0
+
+23 
+
+
+
+539
+
+4309Li F, Jagadish HV
+NaLIR: An Interactive Natural Language Interface for Querying RelationalDatabases
+SIGMOD'14: PROCEEDINGS OF THE 2014 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2014; : 709-712 
+2
+
+13
+
+0
+
+12 
+
+
+
+540
+
+4342Cui WY, Xiao YH, Wang HX, Wang W
+Local Search of Communities in Large Graphs
+SIGMOD'14: PROCEEDINGS OF THE 2014 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2014; : 991-1002 
+2
+
+36
+
+0
+
+31 
+
+
+
+#
+
+Date / Author / Journal
+
+LCS
+
+GCS
+
+LCR
+
+CR 
+
+
+
+541
+
+4363Ranu S, Hoang M, Singh A
+Answering Top-k Representative Queries on Graph Databases
+SIGMOD'14: PROCEEDINGS OF THE 2014 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2014; : 1163-1174 
+2
+
+9
+
+0
+
+29 
+
+
+
+542
+
+4375Trummer I, Koch C
+Approximation Schemes for Many-Objective Query Optimization
+SIGMOD'14: PROCEEDINGS OF THE 2014 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2014; : 1299-1310 
+2
+
+8
+
+0
+
+27 
+
+
+
+543
+
+4377Zhu AD, Lin WQ, Wang SB, Xiao XK
+Reachability Queries on Large Dynamic Graphs: A Total Order Approach
+SIGMOD'14: PROCEEDINGS OF THE 2014 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2014; : 1323-1334 
+2
+
+18
+
+0
+
+31 
+
+
+
+544
+
+4387Zhang J, Cormode G, Procopiuc CM, Srivastava D, Xiao XK
+PrivBayes: Private Data Release via Bayesian Networks
+SIGMOD'14: PROCEEDINGS OF THE 2014 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2014; : 1423-1434 
+2
+
+45
+
+1
+
+37 
+
+
+
+545
+
+4401LeFevre J, Sankaranarayanan J, Hacigumus H, Tatemura J, Polyzotis N, et al.
+MISO: Souping Up Big Data Query Processing with a Multistore System
+SIGMOD'14: PROCEEDINGS OF THE 2014 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2014; : 1591-1602 
+2
+
+29
+
+0
+
+24 
+
+
+
+546
+
+4496Hu JH, Qian Q, Pei J, Jin R, Zhu SH
+Finding Multiple Stable Clusterings
+2015 IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2015; : 171-180 
+2
+
+5
+
+5
+
+35 
+
+
+
+547
+
+4534Zhao L, Chen JZ, Chen F, Wang W, Lu CT, et al.
+SimNest: Social Media Nested Epidemic Simulation via OnlineSemi-supervised Deep Learning
+2015 IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2015; : 639-648 
+2
+
+11
+
+0
+
+28 
+
+
+
+548
+
+4543Chen C, He JR, Bliss N, Tong HH
+On the Connectivity of Multi-layered Networks: Models, Measures and Optimal Control
+2015 IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2015; : 715-720 
+2
+
+6
+
+1
+
+23 
+
+
+
+549
+
+4544Choi E, Du N, Chen R, Song L, Sun JM
+Constructing Disease Network and Temporal Progression Model via Context-Sensitive Hawkes Process
+2015 IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2015; : 721-726 
+2
+
+12
+
+0
+
+25 
+
+
+
+550
+
+4552He K, Sun YW, Bindel D, Hopcroft J, Li YX
+Detecting Overlapping Communities from Local Spectral Subspaces
+2015 IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2015; : 769-774 
+2
+
+12
+
+0
+
+17 
+
+
+
+#
+
+Date / Author / Journal
+
+LCS
+
+GCS
+
+LCR
+
+CR 
+
+
+
+551
+
+4554Jiang M, Beutel A, Cui P, Hooi B, Yang SQ, et al.
+A General Suspiciousness Metric for Dense Blocks in Multimodal Data
+2015 IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2015; : 781-786 
+2
+
+15
+
+0
+
+16 
+
+
+
+552
+
+4649Aydin B, Angryk R
+Spatiotemporal Frequent Pattern Mining on Solar Data: Current Algorithms and Future Directions
+2015 IEEE INTERNATIONAL CONFERENCE ON DATA MINING WORKSHOP (ICDMW). 2015; : 575-581 
+2
+
+7
+
+3
+
+54 
+
+
+
+553
+
+4654Pang GS, Ting KM, Albrecht D
+LeSiNN: Detecting anomalies by identifying Least Similar NearestNeighbours
+2015 IEEE INTERNATIONAL CONFERENCE ON DATA MINING WORKSHOP (ICDMW). 2015; : 623-630 
+2
+
+4
+
+1
+
+19 
+
+
+
+554
+
+4728Kumar J, Weiner J, Hargrove WW, Norman SP, Hoffman FM, et al.
+Characterization and classification of vegetation canopy structure and distribution within the Great Smoky Mountains National Park using LiDAR
+2015 IEEE INTERNATIONAL CONFERENCE ON DATA MINING WORKSHOP (ICDMW). 2015; : 1478-1485 
+2
+
+3
+
+0
+
+23 
+
+
+
+555
+
+4827Li ZX, Zhang XC, Shen H, Liang WX, He ZY
+A Semi-Supervised Framework for Social Spammer Detection
+ADVANCES IN KNOWLEDGE DISCOVERY AND DATA MINING, PART II. 2015; 9078: 177-188 
+2
+
+7
+
+1
+
+21 
+
+
+
+556
+
+4851Shao WX, He LF, Yu PS
+Clustering on Multi-source Incomplete Data via Tensor Modeling and Factorization
+ADVANCES IN KNOWLEDGE DISCOVERY AND DATA MINING, PART II. 2015; 9078: 485-497 
+2
+
+6
+
+2
+
+25 
+
+
+
+557
+
+5281Alexandrov A, Kunft A, Katsifodimos A, Schuler F, Thamsen L, et al.
+Implicit Parallelism through Deep Language Embedding
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 47-61 
+2
+
+19
+
+0
+
+31 
+
+
+
+558
+
+5307Guo T, Cao X, Cong G
+Efficient Algorithms for Answering the m-Closest Keywords Query
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 405-418 
+2
+
+19
+
+0
+
+24 
+
+
+
+559
+
+5330Arulraj J, Pavlo A, Dulloor SR
+Let's Talk About Storage & Recovery Methods for Non-Volatile MemoryDatabase Systems
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 707-722 
+2
+
+36
+
+0
+
+60 
+
+
+
+560
+
+5331Zhang J, Cormode G, Procopiuc CM, Srivastava D, Xiao XK
+Private Release of Graph Statistics using Ladder Functions
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 731-745 
+2
+
+14
+
+1
+
+38 
+
+
+
+#
+
+Date / Author / Journal
+
+LCS
+
+GCS
+
+LCR
+
+CR 
+
+
+
+561
+
+5332Yang B, Sato I, Nakagawa H
+Bayesian Differential Privacy on Correlated Data
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 747-762 
+2
+
+20
+
+3
+
+25 
+
+
+
+562
+
+5335Wei ZW, Luo G, Yi K, Du XY, Wen JR
+Persistent Data Sketching
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 795-810 
+2
+
+6
+
+0
+
+32 
+
+
+
+563
+
+5337Song SX, Zhang AQ, Wang JM, Yu PS
+SCREEN: Stream Data Cleaning under Speed Constraints
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 827-841 
+2
+
+10
+
+0
+
+16 
+
+
+
+564
+
+5343Morcos J, Abedjan Z, Ilyas IF, Ouzzani M, Papotti P, et al.
+DataXFormer: An Interactive Data Transformation Tool
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 883-888 
+2
+
+4
+
+0
+
+10 
+
+
+
+565
+
+5365Wang HZ, Zheng K, Zhou XF, Sadiq S
+SharkDB:An In-Memory Storage System for Massive Trajectory Data
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 1099-1104 
+2
+
+8
+
+0
+
+11 
+
+
+
+566
+
+5371Petraki E, Idreos S, Manegold S
+Holistic Indexing in Main-memory Column-stores
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 1153-1166 
+2
+
+9
+
+3
+
+48 
+
+
+
+567
+
+5372Mozafari B, Goh EZY, Yoon DY
+CliffGuard: A Principled Framework for Finding Robust Database Designs
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 1167-1182 
+2
+
+4
+
+0
+
+74 
+
+
+
+568
+
+5375Khayyat Z, Ilyas IF, Jindal A, Madden S, Ouzzani M, et al.
+BigDansing: A System for Big Data Cleansing
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 1215-1230 
+2
+
+23
+
+0
+
+38 
+
+
+
+569
+
+5376Wang X, Dong XL, Meliou A
+Data X-Ray: A Diagnostic Tool for Data Errors
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 1231-1245 
+2
+
+14
+
+2
+
+63 
+
+
+
+570
+
+5384Saha B, Shah H, Seth S, Vijayaraghavan G, Murthy A, et al.
+Apache Tez: A Unifying Framework for Modeling and Building DataProcessing Applications
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 1357-1369 
+2
+
+36
+
+0
+
+27 
+
+
+
+#
+
+Date / Author / Journal
+
+LCS
+
+GCS
+
+LCR
+
+CR 
+
+
+
+571
+
+5397Barthels C, Loesing S, Alonso G, Kossmann D
+Rack-Scale In-Memory Join Processing using RDMA
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 1463-1475 
+2
+
+9
+
+1
+
+28 
+
+
+
+572
+
+5409Zhou XM, Chen L, Zhang YC, Cao LB, Huang GY, et al.
+Online Video Recommendation in Sharing Community
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 1645-1656 
+2
+
+10
+
+0
+
+37 
+
+
+
+573
+
+5413Terlecki P, Xu F, Shaw M, Kim V, Wesley R
+On Improving User Response Times in Tableau
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 1695-1706 
+2
+
+6
+
+1
+
+45 
+
+
+
+574
+
+5414Viglas SD
+Data Management in Non-Volatile Memory
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 1707-1711 
+2
+
+6
+
+0
+
+47 
+
+
+
+575
+
+5415Chu X, He YY, Chakrabarti K, Ganjam K
+TEGRA: Table Extraction by Global Record Alignment
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 1713-1728 
+2
+
+9
+
+0
+
+26 
+
+
+
+576
+
+5417Trummer I, Halevy A, Lee H, Sarawagi S, Gupta R
+Mining Subjective Properties on the Web
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 1745-1760 
+2
+
+5
+
+0
+
+25 
+
+
+
+577
+
+5424Paparrizos J, Gravano L
+k-Shape: Efficient and Accurate Clustering of Time Series
+SIGMOD'15: PROCEEDINGS OF THE 2015 ACM SIGMOD INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2015; : 1855-1870 
+2
+
+44
+
+4
+
+89 
+
+
+
+578
+
+5480Baytas IM, Yan M, Jain AK, Zhou JY
+Asynchronous Multi-Task Learning
+2016 IEEE 16TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2016; : 11-20 
+2
+
+6
+
+1
+
+31 
+
+
+
+579
+
+5481Bendimerad AA, Plantevit M, Robardet C
+Unsupervised Exceptional Attributed Sub-graph Mining in Urban Data
+2016 IEEE 16TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2016; : 21-30 
+2
+
+6
+
+1
+
+22 
+
+
+
+580
+
+5516Poria S, Chaturvedi I, Cambria E, Hussain A
+Convolutional MKL Based Multimodal Emotion Recognition and SentimentAnalysis
+2016 IEEE 16TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2016; : 439-448 
+2
+
+61
+
+0
+
+35 
+
+
+
+#
+
+Date / Author / Journal
+
+LCS
+
+GCS
+
+LCR
+
+CR 
+
+
+
+581
+
+5520Suh S, Choo J, Lee J, Reddy CK
+L-EnsNMF: Boosted Local Topic Discovery via Ensemble of NonnegativeMatrix Factorization
+2016 IEEE 16TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2016; : 479-488 
+2
+
+4
+
+1
+
+38 
+
+
+
+582
+
+5530Yu WR, McCann J
+Random Walk with Restart over Dynamic Graphs
+2016 IEEE 16TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2016; : 589-598 
+2
+
+5
+
+3
+
+20 
+
+
+
+583
+
+5532Zhang DK, Yin J, Zhu XQ, Zhang CQ
+Homophily, Structure, and Content Augmented Network RepresentationLearning
+2016 IEEE 16TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2016; : 609-618 
+2
+
+14
+
+1
+
+22 
+
+
+
+584
+
+5554Fu YJ, Liu JM, Li XL, Lu XJ, Ming JC, et al.
+Service Usage Analysis in Mobile Messaging Apps: A Multi-LabelMulti-View Perspective
+2016 IEEE 16TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2016; : 877-882 
+2
+
+3
+
+0
+
+10 
+
+
+
+585
+
+5588Qu YR, Cai H, Ren K, Zhang WN, Yu Y, et al.
+Product-based Neural Networks for User Response Prediction
+2016 IEEE 16TH INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2016; : 1149-1154 
+2
+
+13
+
+0
+
+22 
+
+
+
+586
+
+6377Huang YX, Cui B, Jiang J, Hong KQ, Zhang WY, et al.
+Real-time Video Recommendation Exploration
+SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2016; : 35-46 
+2
+
+9
+
+7
+
+37 
+
+
+
+587
+
+6389Dageville B, Cruanes T, Zukowski M, Antonov V, Avanes A, et al.
+The Snowflake Elastic Data Warehouse
+SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2016; : 215-226 
+2
+
+7
+
+0
+
+27 
+
+
+
+588
+
+6399Li F, Das S, Syamala M, Narasayya VR
+Accelerating Relational Databases by Leveraging Remote Memory and RDMA
+SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2016; : 355-370 
+2
+
+9
+
+1
+
+28 
+
+
+
+589
+
+6405Kim MS, An K, Park H, Seo H, Kim J
+GTS: A Fast and Scalable Graph Processing Method based on StreamingTopology to GPUs
+SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2016; : 447-461 
+2
+
+12
+
+1
+
+32 
+
+
+
+590
+
+6409Nikolic M, Dashti M, Koch C
+How to Win a Hot Dog Eating Contest: Distributed Incremental ViewMaintenance with Batch Updates
+SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2016; : 511-526 
+2
+
+8
+
+2
+
+36 
+
+
+
+#
+
+Date / Author / Journal
+
+LCS
+
+GCS
+
+LCR
+
+CR 
+
+
+
+591
+
+6420Ding BL, Huang SL, Chaudhuri S, Chakrabarti K, Wang C
+Sample plus Seek: Approximating Aggregates with Distribution PrecisionGuarantee
+SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2016; : 679-694 
+2
+
+4
+
+0
+
+29 
+
+
+
+592
+
+6429Papenbrock T, Naumann F
+A Hybrid Approach to Functional Dependency Discovery
+SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2016; : 821-833 
+2
+
+14
+
+0
+
+25 
+
+
+
+593
+
+6466Battle L, Chang R, Stonebraker M
+Dynamic Prefetching of Data Tiles for Interactive Visualization
+SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2016; : 1363-1375 
+2
+
+11
+
+1
+
+25 
+
+
+
+594
+
+6472Roy P, Khan A, Alonso G
+Augmented Sketch: Faster and More Accurate Stream Processing
+SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2016; : 1449-1463 
+2
+
+9
+
+0
+
+37 
+
+
+
+595
+
+6502Das S, Li F, Narasayya VR, Konig AC
+Automated Demand-driven Resource Scaling in RelationalDatabase-as-a-Service
+SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2016; : 1923-1934 
+2
+
+2
+
+0
+
+27 
+
+
+
+596
+
+6509Zheng YX, Guo Q, Tung AKH, Wu S
+LazyLSH: Approximate Nearest Neighbor Search for Multiple DistanceFunctions with a Single Index
+SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2016; : 2023-2037 
+2
+
+5
+
+2
+
+52 
+
+
+
+597
+
+6519Hai RH, Geisler S, Quix C
+Constance: An Intelligent Data Lake System
+SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2016; : 2097-2100 
+2
+
+15
+
+0
+
+11 
+
+
+
+598
+
+6557Qin W, Idreos S
+Adaptive Data Skipping in Main-Memory Systems
+SIGMOD'16: PROCEEDINGS OF THE 2016 INTERNATIONAL CONFERENCE ON MANAGEMENT OF DATA. 2016; : 2255-2256 
+2
+
+2
+
+0
+
+7 
+
+
+
+599
+
+6716Budhathoki K, Vreeken J
+MDL for Causal Inference on Discrete Data
+2017 17TH IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2017; : 751-756 
+2
+
+3
+
+2
+
+25 
+
+
+
+600
+
+6721Che ZP, Cheng Y, Zha SF, Sun ZN, Liu Y
+Boosting Deep Learning Risk Prediction with Generative AdversarialNetworks for Electronic Health Records
+2017 17TH IEEE INTERNATIONAL CONFERENCE ON DATA MINING (ICDM). 2017; : 787-792 
+2
+
+4
+
+0
+
+42
